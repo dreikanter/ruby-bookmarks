@@ -46,10 +46,10 @@ Advanced Ruby on Rails:
 ## Blogs
 
 - Ruby Inside — http://rubyinside.com
+- RubyFlow: The Ruby Community Blog — http://rubyflow.com
 - **Green Ruby News** — http://greenruby.org
-- **Practicing Ruby** — Delightful lessons for dedicated programmers — https://practicingruby.com
 - Random Ruby and Rails tips — http://rubyquicktips.com
-- RubyFlow: The Ruby Community Blog — http://rubyflow.com
+- **Practicing Ruby** — https://practicingruby.com
 - Yehuda Katz — http://yehudakatz.com
 
 ## Screencasts
@@ -57,13 +57,18 @@ Advanced Ruby on Rails:
 - Pluralsight Course Library — http://www.pluralsight.com/training/Courses#ruby
 - RubyTapas by Avdi Grimm — http://rubytapas.com
 - The Pragmatic Studio — http://pragmaticstudio.com
+- Ruby screencasts [at Lynda.com](http://www.lynda.com/search?q=ruby)
+- Ruby screencasts [at TutsPlus.com](http://courses.tutsplus.com/topics/code/categories/ruby/courses)
+- RailsCasts — http://railscasts.com
+- Rails screencasts [at TutsPlus.com](http://courses.tutsplus.com/topics/code/categories/rails/courses)
+- Ruby and Rails screencasts [at CodeSchool](https://www.codeschool.com/paths/ruby) (includes Rails for zombies)
 
 ## Podcasts
 
 - Ruby5 — http://ruby5.envylabs.com
 - Ruby Rogues — http://rubyrogues.com
 - Ruby on Rails Podcast — http://5by5.tv/rubyonrails
--  Giant Robots Smashing into Other Giant Robots — http://podcasts.thoughtbot.com/giantrobots
+- Giant Robots Smashing into Other Giant Robots — http://podcasts.thoughtbot.com/giantrobots
 
 ## Gems
 
