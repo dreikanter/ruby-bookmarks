@@ -1,6 +1,6 @@
-# Ruby and Rails Bookmarks
+# Ruby Bookmarks
 
-The goal of the project is to aggregate essential Ruby resources into a single well-structured and commented list, and keep it up to date. It is inspired by [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) — a community-driven bookmarks collection for frontend developers.
+The goal of the project is to aggregate essential Ruby and Ruby on Rails resources into a single well-structured, and keep it up to date. It was inspired by [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) — a community-driven bookmarks collection for frontend developers.
 
 *Sharing and pull requests are very much appreciated!*
 
@@ -43,8 +43,7 @@ The goal of the project is to aggregate essential Ruby resources into a single w
 
 - [The RSpec Book: Behaviour Driven Development with RSpec, Cucumber, and Friends](http://www.amazon.com/The-RSpec-Book-Behaviour-Development/dp/1934356379/) by David Chelimsky, Dave Astels, Bryan Helmkamp, Dan North, Zach Dennis, Aslak Hellesoy
 - [RubyMotion](http://www.amazon.com/RubyMotion-Pragmatic-Programmers-Clay-Allsopp/dp/1937785289/) by Clay Allsopp
-- [Build Awesome Command-Line Applications in Ruby: Control Your Computer, Simplify Your Life](http://pragprog.com/book/dccar/build-awesome-command-line-applications-in-ruby) by David B. Copeland
-- [Build Awesome Command-Line Applications in Ruby 2: Control Your Computer, Simplify Your Life](http://pragprog.com/book/dccar2/build-awesome-command-line-applications-in-ruby-2) by David Copeland
+- [Build Awesome Command-Line Applications in Ruby 2](http://pragprog.com/book/dccar2/build-awesome-command-line-applications-in-ruby-2) by David Copeland
 
 ## Blogs
 
@@ -67,3 +66,52 @@ The goal of the project is to aggregate essential Ruby resources into a single w
 - Ruby Rogues — http://rubyrogues.com
 - Ruby on Rails Podcast — http://5by5.tv/rubyonrails
 -  Giant Robots Smashing into Other Giant Robots — http://podcasts.thoughtbot.com/giantrobots
+
+## Gems
+
+### Web Frameworks
+
+- [Ruby on Rails](http://rubyonrails.org) — an open source full-stack framework web application framework.
+- [Sinatra](http://sinatrarb.com) — Sinatra is a DSL for quickly creating web applications in Ruby with minimal effort.
+- [Padrino](http://padrinorb.com) — a ruby framework built upon the Sinatra web library, created to make it fun and easy to code more advanced web applications while still adhering to the spirit that makes Sinatra great!
+
+### API
+
+- [RABL](https://github.com/nesquena/rabl) — Ruby API Builder Language is a Rails and Padrino ruby templating system for generating JSON, XML, MessagePack, PList and BSON
+- [Grape](https://github.com/intridea/grape) — An opinionated micro-framework for creating REST-like APIs in Ruby
+
+### Rails
+
+- [Simple Form](https://github.com/plataformatec/simple_form) — forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup
+- [ResqueMailer](https://github.com/zapnap/resque_mailer) — Rails plugin for sending asynchronous email with ActionMailer and Resque
+- [Paperclip](https://github.com/thoughtbot/paperclip) — easy file attachment management for ActiveRecord
+
+### Authentication and Authorization
+
+- [Devise](https://github.com/plataformatec/devise) — flexible authentication solution for Rails with Warden
+- [OmniAuth](https://github.com/intridea/omniauth) — a flexible authentication system utilizing Rack middleware
+- [CanCan](https://github.com/ryanb/cancan) — authorization gem for Ruby on Rails
+
+### Background Jobs
+
+- [Delayed::Job](https://github.com/tobi/delayed_job) — database backed asynchronous priority queue
+- [Resque](https://github.com/resque/resque) — a Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later
+
+### Security
+
+- [Brakeman](https://github.com/presidentbeef/brakeman) — a static analysis security vulnerability scanner for Ruby on Rails applications
+
+### Testing
+
+- [RSpec](https://github.com/rspec/rspec) — RSpec meta-gem that depends on the other components
+- [Cocumber](https://github.com/cucumber/cucumber) — https://github.com/cucumber/cucumber
+
+### Deployment
+
+- [Capistrano](https://github.com/capistrano/capistrano) — remote multi-server automation tool
+
+### Misc
+
+- [Foreman](https://github.com/ddollar/foreman) — manage Procfile-based applications
+- [Prawn](https://github.com/prawnpdf/prawn) — fast, nimble PDF generation
+- [Dalli](https://github.com/mperham/dalli) — https://github.com/mperham/dalli
