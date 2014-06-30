@@ -138,7 +138,7 @@ The goal of the project is to aggregate essential Ruby and Ruby on Rails resourc
 - [Peek](https://github.com/peek/peek) — status bar with debug information for Rails apps
 - [Jammit](http://documentcloud.github.io/jammit/) — an industrial strength asset packaging library for Rails, providing both the CSS and JavaScript concatenation and compression that you'd expect, as well as YUI Compressor, Closure Compiler, and UglifyJS compatibility, ahead-of-time gzipping, built-in JavaScript template support, and optional Data-URI / MHTML image and font embedding.
 - [Thinking Sphinx](https://github.com/pat/thinking-sphinx) — a library for connecting ActiveRecord to the Sphinx full-text search tool, and integrates closely with Rails (but also works with other Ruby web frameworks), http://pat.github.com/thinking-sphinx
-- [CarrierWave](https://github.com/carrierwaveuploader/carrierwave) — classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks, https://github.com/carrierwaveuploader/carrierwave
+- [CarrierWave](https://github.com/carrierwaveuploader/carrierwave) — classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks
 - [Kaminari](https://github.com/amatsuda/kaminari) — A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for modern web app frameworks and ORMs
 - [dotenv](https://github.com/bkeepers/dotenv) — loads environment variables from .env into ENV in development
 
@@ -178,7 +178,7 @@ The goal of the project is to aggregate essential Ruby and Ruby on Rails resourc
 **Markdown processors**
 
 - [kramdown](https://github.com/gettalong/kramdown) — kramdown is yet-another-markdown-parser but fast, pure Ruby, using a strict syntax definition and supporting several common extensions, http://kramdown.gettalong.org
-- [redcarpet](https://github.com/vmg/redcarpet)
+- [redcarpet](https://github.com/vmg/redcarpet) — a fast, safe and extensible Markdown to (X)HTML parser
 - [maruku](https://github.com/bhollis/maruku) — A pure-Ruby Markdown-superset interpreter
 - [markup](https://github.com/github/markup) — The code GitHub uses to render `README.your_favorite_markup`
 - StackOverflow: [Better ruby markdown interpreter?](http://stackoverflow.com/questions/373002/better-ruby-markdown-interpreter)
