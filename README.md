@@ -1,8 +1,6 @@
 # Ruby Bookmarks
 
-The goal of the project is to aggregate essential Ruby and Ruby on Rails resources into a single well-structured, and keep it up to date. It was inspired by [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) — a community-driven bookmarks collection for frontend developers.
-
-★ stands for Editors' Choice.
+The goal of the project is to aggregate essential Ruby and Ruby on Rails resources into a single well-structured, and keep it up to date. It was inspired by [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) — a community-driven bookmarks collection for frontend developers. ★ stands for Editors' Choice.
 
 *Sharing and pull requests are very much appreciated!*
 
@@ -92,15 +90,13 @@ The goal of the project is to aggregate essential Ruby and Ruby on Rails resourc
 
 - StackOverflow: [What Ruby IDE do you prefer?](http://stackoverflow.com/questions/16991/what-ruby-ide-do-you-prefer)
 - ★ [Sublime Text](sublimetext.com) — one of the best text editors for coding. Here are some essential add-ons:
-
     - [Package Control](https://sublime.wbond.net) — Sublime Text package manager that makes it exceedingly simple to find, install and keep packages up-to-date
     - [Soda Theme](http://buymeasoda.github.com/soda-theme/) — Dark and light custom UI themes for Sublime Text
     - [RSpec plugin](https://github.com/SublimeText/RSpec)
     - [ApplySyntax](https://github.com/facelessuser/ApplySyntax) — a plugin for Sublime Text 2 and 3 that allows you to detect and apply the syntax of files that might not otherwise be detected properly. For example, files with the .rb extension are usually Ruby files, but when they are found in a Rails project, they could be RSpec spec files, Cucumber step files, Ruby on Rails files (controllers, models, etc), or just plain Ruby files. This is actually the problem I was trying to solve when I started working on this plugin.
-    
 - [RubyMine](http://jetbrains.com/ruby/) — Intelligent Ruby and Rails IDE
 
-**Version management**
+**Environment management**
 
 - ★ [rbenv](https://github.com/sstephenson/rbenv) — Use rbenv to pick a Ruby version for your application and guarantee that your development environment matches production. Put rbenv to work with Bundler for painless Ruby upgrades and bulletproof deployments.
 - [RVM](https://rvm.io) — RVM is a command-line tool which allows you to easily install, manage, and work with multiple ruby environments from interpreters to sets of gems. 
@@ -110,6 +106,11 @@ The goal of the project is to aggregate essential Ruby and Ruby on Rails resourc
 - [RubyInstaller](http://rubyinstaller.org) — a self-contained Windows-based installer that includes the Ruby language, an execution environment, important documentation, and more.
 - [RubyStack](https://bitnami.com/stack/ruby) — Bitnami Ruby Stack provides a complete development environment for Ruby on Rails that can be deployed in one click. It includes the latest stable release of Ruby, RVM, Rails, Apache, NGinx, MySQL, SQLite, Git and Subversion, Memcache and Varnish, Sphinx, PHP and phpMyAdmin.
 
+**Other tools**
+
+- [Pow!](http://pow.cx) — a zero-config Rack server for Mac OS X
+- [Pry](https://github.com/pry/pry) — an IRB alternative and runtime developer console
+- [Reek](https://github.com/troessner/reek) — code smell detection for Ruby
 
 ## Quizes, tests, exams
 
@@ -139,6 +140,7 @@ The goal of the project is to aggregate essential Ruby and Ruby on Rails resourc
 - [Thinking Sphinx](https://github.com/pat/thinking-sphinx) — a library for connecting ActiveRecord to the Sphinx full-text search tool, and integrates closely with Rails (but also works with other Ruby web frameworks), http://pat.github.com/thinking-sphinx
 - [CarrierWave](https://github.com/carrierwaveuploader/carrierwave) — classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks, https://github.com/carrierwaveuploader/carrierwave
 - [Kaminari](https://github.com/amatsuda/kaminari) — A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for modern web app frameworks and ORMs
+- [dotenv](https://github.com/bkeepers/dotenv) — loads environment variables from .env into ENV in development
 
 ### Authentication and Authorization
 
@@ -151,6 +153,7 @@ The goal of the project is to aggregate essential Ruby and Ruby on Rails resourc
 
 - [Delayed::Job](https://github.com/tobi/delayed_job) — database backed asynchronous priority queue
 - [Resque](https://github.com/resque/resque) — a Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later
+- [Sidekiq](http://sidekiq.org) — a full-featured background processing framework for Ruby. It aims to be simple to integrate with any modern Rails application and much higher performance than other existing solutions.
 
 ### Security
 
@@ -158,17 +161,19 @@ The goal of the project is to aggregate essential Ruby and Ruby on Rails resourc
 
 ### Graphics
 
-- [RMagick](https://github.com/rmagick/rmagick) — An interface to the ImageMagick and GraphicsMagick image processing libraries
+- [RMagick](https://github.com/rmagick/rmagick) — an interface to the ImageMagick and GraphicsMagick image processing libraries
+- [MiniMagick](https://github.com/minimagick/minimagick) — a ruby wrapper for ImageMagick or GraphicsMagick command line
 
 ### Parsers / Text Processing
 
 **HTML, XML**
 
-- [http://nokogiri.org]() — an HTML, XML, SAX, and Reader parser. Among Nokogiri’s many features is the ability to search documents via XPath or CSS3 selectors.
+- [Nokogiri](http://nokogiri.org) — an HTML, XML, SAX, and Reader parser. Among Nokogiri’s many features is the ability to search documents via XPath or CSS3 selectors.
 
 **CSS**
 
 - [SASS](https://github.com/sass/sass)
+- [LESS](https://github.com/cowboyd/less.rb) — Leaner CSS, in your browser or Ruby
 
 **Markdown processors**
 
@@ -191,6 +196,7 @@ The goal of the project is to aggregate essential Ruby and Ruby on Rails resourc
 - [shoulda](https://github.com/thoughtbot/shoulda)
 - [factory_girl](https://github.com/thoughtbot/factory_girl) — A library for setting up Ruby objects as test data
 - [Capybara](https://github.com/jnicklas/capybara) — Capybara helps you test web applications by simulating how a real user would interact with your app. It is agnostic about the driver running your tests and comes with Rack::Test and Selenium support built in. WebKit is supported through an external gem.
+- [Mocha](https://github.com/freerange/mocha) — A Ruby library for mocking and stubbing
 
 ### Deployment and Configuration Management
 
