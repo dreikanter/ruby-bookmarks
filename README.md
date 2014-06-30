@@ -88,6 +88,7 @@ Advanced Ruby on Rails:
 - [Simple Form](https://github.com/plataformatec/simple_form) — forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup
 - [ResqueMailer](https://github.com/zapnap/resque_mailer) — Rails plugin for sending asynchronous email with ActionMailer and Resque
 - [Paperclip](https://github.com/thoughtbot/paperclip) — easy file attachment management for ActiveRecord
+- [Peek](https://github.com/peek/peek) — status bar with debug information for Rails apps
 
 ### Authentication and Authorization
 
