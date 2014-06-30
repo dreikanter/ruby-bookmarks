@@ -108,6 +108,7 @@ Advanced Ruby on Rails:
 ### Testing
 
 - [RSpec](https://github.com/rspec/rspec) — RSpec meta-gem that depends on the other components
+- [betterspecs.org](http://betterspecs.org) — RSpec best practices
 - [Cocumber](https://github.com/cucumber/cucumber) — https://github.com/cucumber/cucumber
 
 ### Deployment
