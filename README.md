@@ -172,8 +172,8 @@ The goal of the project is to aggregate essential Ruby and Ruby on Rails resourc
 
 **CSS**
 
-- [SASS](https://github.com/sass/sass)
-- [LESS](https://github.com/cowboyd/less.rb) — Leaner CSS, in your browser or Ruby
+- [SASS](https://github.com/sass/sass) — an extension of CSS3, adding nested rules, variables, mixins, selector inheritance, and more. It's translated to well-formatted, standard CSS using the command line tool or a web-framework plugin.
+- [LESS](https://github.com/cowboyd/less.rb) — Leaner CSS, in your browser or Ruby.
 
 **Markdown processors**
 
