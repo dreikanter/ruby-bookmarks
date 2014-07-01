@@ -111,6 +111,7 @@ The goal of the project is to aggregate essential Ruby and Ruby on Rails resourc
 - [Pow!](http://pow.cx) — a zero-config Rack server for Mac OS X
 - [Pry](https://github.com/pry/pry) — an IRB alternative and runtime developer console
 - [Reek](https://github.com/troessner/reek) — code smell detection for Ruby
+- [Dash](http://kapeli.com/dash) — an API Documentation Browser and Code Snippet Manager. Dash stores snippets of code and instantly searches offline documentation sets for 150+ APIs, including Ruby core libraries, and Ruby on Rails.
 
 ## Quizes, tests, exams
 
