@@ -49,7 +49,7 @@ The goal of the project is to aggregate essential Ruby and Ruby on Rails resourc
 - ★ [Practicing Ruby](https://practicingruby.com) — Delightful lessons for dedicated programmers
 - [Yehuda Katz](http://yehudakatz.com)
 
-## Screencasts
+## Screencasts and courses
 
 - ★ [Pluralsight](http://www.pluralsight.com/training/Courses#ruby) Ruby Course Library
 - ★ [RubyTapas](http://rubytapas.com) by Avdi Grimm
