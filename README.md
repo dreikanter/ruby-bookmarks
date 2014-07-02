@@ -30,7 +30,7 @@ The goal of the project is to aggregate essential Ruby and Ruby on Rails resourc
 ### Ruby on Rails
 
 **For beginners**
-
+c
 - ★ [The Rails 4 Way](http://www.amazon.com/Rails-Edition-Addison-Wesley-Professional-Series-ebook/dp/B00KKNO8YQ/) by Obie Fernandez and Kevin Faustino
 - [Agile Web Development with Rails 4](http://www.amazon.com/Agile-Development-Rails-Facets-Ruby/dp/1937785564/) by Sam Ruby, Dave Thomas, and David Heinemeier Hansson
 
@@ -148,7 +148,7 @@ The goal of the project is to aggregate essential Ruby and Ruby on Rails resourc
 
 - [Devise](https://github.com/plataformatec/devise) — flexible authentication solution for Rails with Warden
 - [OmniAuth](https://github.com/intridea/omniauth) — a flexible authentication system utilizing Rack middleware
-- [CanCan](https://github.com/ryanb/cancan) — authorization gem for Ruby on Rails
+- [CanCanCan](https://github.com/CanCanCommunity/cancancan) — a continuation of the dead [CanCan](https://github.com/ryanb/cancan) project. Our mission is to keep CanCan alive and moving forward, with maintenance fixes and new features.
 - [Authlogic](https://github.com/binarylogic/authlogic) — a clean, simple, and unobtrusive ruby authentication solution
 
 ### Background Jobs
