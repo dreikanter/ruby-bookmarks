@@ -19,6 +19,7 @@ The goal of the project is to aggregate essential Ruby and Ruby on Rails resourc
 - [Exceptional Ruby: Master the Art of Handling Failure in Ruby](http://pragprog.com/book/ager/exceptional-ruby) by Avdi Grimm
 - [Metaprogramming Ruby: Program Like the Ruby Pros](http://www.amazon.com/Metaprogramming-Ruby-Program-Like-Pros-ebook/dp/B00A376YAK/) by Paolo Perrotta
 - [The Well-Grounded Rubyist](http://www.amazon.com/The-Well-Grounded-Rubyist-David-Black/dp/1933988657/) by David A. Black
+- [Practical Object-Oriented Development in Ruby](http://poodr.com) by Sandi Metz
 
 **Specialized**
 
@@ -38,7 +39,6 @@ The goal of the project is to aggregate essential Ruby and Ruby on Rails resourc
 - [Crafting Rails 4 Applications: Expert Practices for Everyday Rails Development](http://www.amazon.com/Crafting-Rails-Applications-Practices-Development/dp/1937785556/) by José Valim
 - [Rails AntiPatterns: Best Practice Ruby on Rails Refactoring](http://www.amazon.com/Rails-AntiPatterns-Refactoring-Addison-Wesley-Professional/dp/0321604814/) by Chad Pytel, Tammer Saleh 
 - [Deploying Rails: Automate, Deploy, Scale, Maintain, and Sleep at Night](http://www.amazon.com/Deploying-Rails-Automate-Deploy-Maintain/dp/1934356956/) by Tom Copeland, Anthony Burns
-- [Practical Object-Oriented Development in Ruby](http://www.poodr.com/) by Sandi Metz
 
 ## Blogs
 
