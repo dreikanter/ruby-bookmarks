@@ -30,7 +30,7 @@ The goal of the project is to aggregate essential Ruby and Ruby on Rails resourc
 **Ruby on Rails, advanced level**
 
 - [Crafting Rails 4 Applications: Expert Practices for Everyday Rails Development](http://www.amazon.com/Crafting-Rails-Applications-Practices-Development/dp/1937785556/) by José Valim
-- [Rails AntiPatterns: Best Practice Ruby on Rails Refactoring](http://www.amazon.com/Rails-AntiPatterns-Refactoring-Addison-Wesley-Professional/dp/0321604814/) by Chad Pytel, Tammer Saleh 
+- [Rails AntiPatterns: Best Practice Ruby on Rails Refactoring](http://www.amazon.com/Rails-AntiPatterns-Refactoring-Addison-Wesley-Professional/dp/0321604814/) by Chad Pytel, Tammer Saleh
 - [Deploying Rails: Automate, Deploy, Scale, Maintain, and Sleep at Night](http://www.amazon.com/Deploying-Rails-Automate-Deploy-Maintain/dp/1934356956/) by Tom Copeland, Anthony Burns
 - [Multitenancy with Rails](http://leanpub.com/multi-tenancy-rails) by Ryan Bigg
 
@@ -49,6 +49,7 @@ The goal of the project is to aggregate essential Ruby and Ruby on Rails resourc
 - [Random Ruby and Rails tips](http://rubyquicktips.com)
 - ★ [Practicing Ruby](https://practicingruby.com) — Delightful lessons for dedicated programmers
 - [Yehuda Katz](http://yehudakatz.com)
+- [Sitepoint](http://www.sitepoint.com/ruby/)
 
 ## Screencasts and courses
 
@@ -97,11 +98,12 @@ The goal of the project is to aggregate essential Ruby and Ruby on Rails resourc
     - [RSpec plugin](https://github.com/SublimeText/RSpec)
     - [ApplySyntax](https://github.com/facelessuser/ApplySyntax) — a plugin for Sublime Text 2 and 3 that allows you to detect and apply the syntax of files that might not otherwise be detected properly. For example, files with the .rb extension are usually Ruby files, but when they are found in a Rails project, they could be RSpec spec files, Cucumber step files, Ruby on Rails files (controllers, models, etc), or just plain Ruby files. This is actually the problem I was trying to solve when I started working on this plugin.
 - [RubyMine](http://jetbrains.com/ruby/) — Intelligent Ruby and Rails IDE
+- [Atom](http://atom.io) - A brand-new hackable text editor from Github.
 
 **Environment management**
 
 - ★ [rbenv](https://github.com/sstephenson/rbenv) — Use rbenv to pick a Ruby version for your application and guarantee that your development environment matches production. Put rbenv to work with Bundler for painless Ruby upgrades and bulletproof deployments.
-- [RVM](https://rvm.io) — RVM is a command-line tool which allows you to easily install, manage, and work with multiple ruby environments from interpreters to sets of gems. 
+- [RVM](https://rvm.io) — RVM is a command-line tool which allows you to easily install, manage, and work with multiple ruby environments from interpreters to sets of gems.
 
 **Ruby distributions**
 
@@ -114,6 +116,7 @@ The goal of the project is to aggregate essential Ruby and Ruby on Rails resourc
 - [Pry](https://github.com/pry/pry) — an IRB alternative and runtime developer console
 - [Reek](https://github.com/troessner/reek) — code smell detection for Ruby
 - [Dash](http://kapeli.com/dash) — an API Documentation Browser and Code Snippet Manager. Dash stores snippets of code and instantly searches offline documentation sets for 150+ APIs, including Ruby core libraries, and Ruby on Rails.
+- [Zeal](http://zealdocs.org/) Dash alternative for Linux & windows
 
 ## Quizes, tests, exams
 
@@ -132,6 +135,7 @@ The goal of the project is to aggregate essential Ruby and Ruby on Rails resourc
 
 - [RABL](https://github.com/nesquena/rabl) — Ruby API Builder Language is a Rails and Padrino ruby templating system for generating JSON, XML, MessagePack, PList and BSON
 - [Grape](https://github.com/intridea/grape) — An opinionated micro-framework for creating REST-like APIs in Ruby
+- [Pliny](https://github.com/interagent/pliny) Write excellent APIs in Ruby
 
 ### Rails
 
@@ -157,6 +161,7 @@ The goal of the project is to aggregate essential Ruby and Ruby on Rails resourc
 - [Delayed::Job](https://github.com/tobi/delayed_job) — database backed asynchronous priority queue
 - [Resque](https://github.com/resque/resque) — a Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later
 - [Sidekiq](http://sidekiq.org) — a full-featured background processing framework for Ruby. It aims to be simple to integrate with any modern Rails application and much higher performance than other existing solutions.
+- [Qu](https://github.com/bkeepers/qu) A Ruby library for queuing and processing background jobs.
 
 ### Security
 
@@ -190,6 +195,7 @@ The goal of the project is to aggregate essential Ruby and Ruby on Rails resourc
 
 - [Mustache](https://github.com/defunkt/mustache) — Logic-less Ruby templates. A framework-agnostic way to render logic-free views.
 - [HAML](http://haml.info/) — Haml (HTML abstraction markup language) is based on one primary principle: markup should be beautiful. It’s not just beauty for beauty’s sake either; Haml accelerates and simplifies template creation down to veritable haiku.
+- [Slim](https://github.com/slim-template/slim) A templating lang that reduce the syntax to the essential parts without becoming cryptic.
 
 ### Testing
 
@@ -199,12 +205,14 @@ The goal of the project is to aggregate essential Ruby and Ruby on Rails resourc
 - [shoulda](https://github.com/thoughtbot/shoulda)
 - [factory_girl](https://github.com/thoughtbot/factory_girl) — A library for setting up Ruby objects as test data
 - [Capybara](https://github.com/jnicklas/capybara) — Capybara helps you test web applications by simulating how a real user would interact with your app. It is agnostic about the driver running your tests and comes with Rack::Test and Selenium support built in. WebKit is supported through an external gem.
+- [capybara-webkit](https://github.com/thoughtbot/capybara-webkit) A Capybara driver for headless WebKit so you can test Javascript web apps 
 - [Mocha](https://github.com/freerange/mocha) — A Ruby library for mocking and stubbing
 
 ### Deployment and Configuration Management
 
 - [Capistrano](https://github.com/capistrano/capistrano) — remote multi-server automation tool
 - [Chef](https://github.com/opscode/chef) — a systems integration framework, built to bring the benefits of configuration management to your entire infrastructure
+- [Mina](https://github.com/mina-deploy/mina) Really fast deployer and server automation tool
 
 ### Misc
 
