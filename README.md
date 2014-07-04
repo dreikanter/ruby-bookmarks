@@ -25,7 +25,7 @@ The goal of the project is to aggregate essential Ruby and Ruby on Rails resourc
 
 - ★ [The Rails 4 Way](http://www.amazon.com/Rails-Edition-Addison-Wesley-Professional-Series-ebook/dp/B00KKNO8YQ/) by Obie Fernandez and Kevin Faustino
 - [Agile Web Development with Rails 4](http://www.amazon.com/Agile-Development-Rails-Facets-Ruby/dp/1937785564/) by Sam Ruby, Dave Thomas, and David Heinemeier Hansson
-- [Rails 4 in Action](https://manning.com/bigg2) by Steve Klabnik, Ryan Bigg and Yehuda Katz
+- [Rails 4 in Action](http://manning.com/bigg2) by Steve Klabnik, Ryan Bigg and Yehuda Katz
 
 **Ruby on Rails, advanced level**
 
