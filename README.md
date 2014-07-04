@@ -215,10 +215,15 @@ The goal of the project is to aggregate essential Ruby and Ruby on Rails resourc
 - [Chef](https://github.com/opscode/chef) — a systems integration framework, built to bring the benefits of configuration management to your entire infrastructure.
 - [Mina](https://github.com/mina-deploy/mina) – really fast deployer and server automation tool.
 
+### App/Web Servers
+
+- [Unicorn](http://unicorn.bogomips.org) – Rack HTTP server for fast clients and Unix.
+- [Phusion Passenger](https://phusionpassenger.com) — a fast and robust web server and application server for Ruby, Python and Node.js.
+- [Thin](http://code.macournoyer.com/thin/) – A very fast & simple Ruby web server.
+
 ### Misc
 
 - [Prawn](https://github.com/prawnpdf/prawn) — fast, nimble PDF generation.
-- [Dalli](https://github.com/mperham/dalli) — https://github.com/mperham/dalli
+- [Dalli](https://github.com/mperham/dalli) — high performance memcached client for Ruby.
 - [Active Merchant](https://github.com/Shopify/active_merchant) — Active Merchant is an extraction from the ecommerce system Shopify. Shopify's requirements for a simple and unified API to access dozens of different payment gateways with very different internal APIs was the chief principle in designing the library.
-- [EventMachine](https://github.com/eventmachine/eventmachine) — fast, simple event-processing library for Ruby programs
-- [Phusion Passenger](https://github.com/phusion/passenger) — a fast and robust web server and application server for Ruby, Python and Node.js, https://phusionpassenger.com
+- [EventMachine](https://github.com/eventmachine/eventmachine) — fast, simple event-processing library for Ruby.
