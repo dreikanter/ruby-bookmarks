@@ -25,12 +25,14 @@ The goal of the project is to aggregate essential Ruby and Ruby on Rails resourc
 
 - ★ [The Rails 4 Way](http://www.amazon.com/Rails-Edition-Addison-Wesley-Professional-Series-ebook/dp/B00KKNO8YQ/) by Obie Fernandez and Kevin Faustino
 - [Agile Web Development with Rails 4](http://www.amazon.com/Agile-Development-Rails-Facets-Ruby/dp/1937785564/) by Sam Ruby, Dave Thomas, and David Heinemeier Hansson
+- [Rails 4 in Action](https://manning.com/bigg2) by Steve Klabnik, Ryan Bigg and Yehuda Katz
 
 **Ruby on Rails, advanced level**
 
 - [Crafting Rails 4 Applications: Expert Practices for Everyday Rails Development](http://www.amazon.com/Crafting-Rails-Applications-Practices-Development/dp/1937785556/) by José Valim
 - [Rails AntiPatterns: Best Practice Ruby on Rails Refactoring](http://www.amazon.com/Rails-AntiPatterns-Refactoring-Addison-Wesley-Professional/dp/0321604814/) by Chad Pytel, Tammer Saleh 
 - [Deploying Rails: Automate, Deploy, Scale, Maintain, and Sleep at Night](http://www.amazon.com/Deploying-Rails-Automate-Deploy-Maintain/dp/1934356956/) by Tom Copeland, Anthony Burns
+- [Multitenancy with Rails](http://leanpub.com/multi-tenancy-rails) by Ryan Bigg
 
 **Other frameworks and tools**
 
