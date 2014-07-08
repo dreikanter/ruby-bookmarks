@@ -97,6 +97,12 @@ The goal of the project is to aggregate essential Ruby and Ruby on Rails resourc
     - [Soda Theme](http://buymeasoda.github.com/soda-theme/) — dark and light custom UI themes for Sublime Text.
     - [RSpec plugin](https://github.com/SublimeText/RSpec)
     - [ApplySyntax](https://github.com/facelessuser/ApplySyntax) — a plugin for Sublime Text 2 and 3 that allows you to detect and apply the syntax of files that might not otherwise be detected properly. For example, files with the .rb extension are usually Ruby files, but when they are found in a Rails project, they could be RSpec spec files, Cucumber step files, Ruby on Rails files (controllers, models, etc), or just plain Ruby files. This is actually the problem I was trying to solve when I started working on this plugin.
+    - [BeautifyRuby](https://github.com/CraigWilliams/BeautifyRuby) — beautifies Ruby code.
+    - [Sublime Ruby Debugger](https://github.com/shuky19/sublime_debugger) — a debugger plugin for interactive ruby and RoR debugging on Sublime Text.
+    - [All Autocomplete](https://github.com/alienhard/SublimeAllAutocomplete) — extends the default autocomplete to find matches in all open files.
+    - [ChangeQuotes](https://github.com/colinta/SublimeChangeQuotes) — converts single to double or double to single quotes. Attempts to preserve correct escaping, though this could be improved I'm sure.
+    - [CoffeeScript](https://github.com/Xavura/CoffeeScript-Sublime-Plugin) — syntax highlighting and checking, commands, shortcuts, snippets, compilation and more.
+    - [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements) — provides enhancements to the operations on Sidebar of Files and Folders.
 - [RubyMine](http://jetbrains.com/ruby/) — intelligent Ruby and Rails IDE.
 - [Atom](http://atom.io) - a brand-new hackable text editor from Github.
 
@@ -113,7 +119,7 @@ The goal of the project is to aggregate essential Ruby and Ruby on Rails resourc
 **Other tools**
 
 - [Pow!](http://pow.cx) — a zero-config Rack server for Mac OS X.
-- [Pry](https://github.com/pry/pry) — an IRB alternative and runtime developer console.
+- [Pry](https://github.com/pry/pry) — an IRB alternative and runtime developer console.
 - [Reek](https://github.com/troessner/reek) — code smell detection for Ruby.
 - [Dash](http://kapeli.com/dash) — an API Documentation Browser and Code Snippet Manager. Dash stores snippets of code and instantly searches offline documentation sets for 150+ APIs, including Ruby core libraries, and Ruby on Rails.
 - [Zeal](http://zealdocs.org/) – Dash alternative for Linux & Windows.
