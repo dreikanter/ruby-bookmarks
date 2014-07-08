@@ -103,6 +103,7 @@ The goal of the project is to aggregate essential Ruby and Ruby on Rails resourc
     - [ChangeQuotes](https://github.com/colinta/SublimeChangeQuotes) — converts single to double or double to single quotes. Attempts to preserve correct escaping, though this could be improved I'm sure.
     - [CoffeeScript](https://github.com/Xavura/CoffeeScript-Sublime-Plugin) — syntax highlighting and checking, commands, shortcuts, snippets, compilation and more.
     - [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements) — provides enhancements to the operations on Sidebar of Files and Folders.
+    - [BracketHighlighter](https://github.com/facelessuser/BracketHighlighter) — bracket and tag highlighter for Sublime Text.
 - [RubyMine](http://jetbrains.com/ruby/) — intelligent Ruby and Rails IDE.
 - [Atom](http://atom.io) - a brand-new hackable text editor from Github.
 
