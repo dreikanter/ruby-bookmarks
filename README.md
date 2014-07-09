@@ -53,26 +53,28 @@ The goal of the project is to aggregate essential Ruby and Ruby on Rails resourc
 
 ## Screencasts and courses
 
-- ★ [Pluralsight](http://www.pluralsight.com/training/Courses#ruby) Ruby Course Library
-- ★ [RubyTapas](http://rubytapas.com) by Avdi Grimm
+- ★ [Pluralsight](http://www.pluralsight.com/training/Courses#ruby) Ruby Course Library.
+- ★ [RubyTapas](http://rubytapas.com) by Avdi Grimm.
 - ★ [The Pragmatic Studio](http://pragmaticstudio.com)
 - ★ [Lynda.com](http://www.lynda.com/search?q=ruby)
 - [Ruby screencasts at TutsPlus.com](http://courses.tutsplus.com/topics/code/categories/ruby/courses)
 - [Rails screencasts at TutsPlus.com](http://courses.tutsplus.com/topics/code/categories/rails/courses)
 - [RailsCasts](http://railscasts.com)
-- [CodeSchool](https://www.codeschool.com/paths/ruby) (includes Rails for zombies)
+- [CodeSchool](https://www.codeschool.com/paths/ruby) (includes Rails for zombies).
 - [Learn Rails the Zombie Way](http://railsforzombies.org)
 - [CodeAcademy](http://www.codecademy.com/tracks/ruby)
-- [confreaks.com](http://confreaks.com/) — expert recording services for conferences, seminars, and workshops
+- [confreaks.com](http://confreaks.com/) — expert recording services for conferences, seminars, and workshops.
+- [Learnable](https://learnable.com/topics/ruby) — video courses and books ($30 per month).
 
 ## Other Learning Materials
 
-- [TryRuby](http://tryruby.org) — online Ruby console and 15 minute interactive Ruby tutorial
-- [Project Euler](http://projecteuler.net) — a huge amount of programming problems to learn any language
-- [PuzzleNode](http://puzzlenode.com) — a site for coders who enjoy to work on challenging problems, and is inspired by similar efforts such as Project Euler and the Internet Problem Solving Contest
-- [Ruby on Rails Guides](http://guides.rubyonrails.org) — These guides are designed to make you immediately productive with Rails, and to help you understand how all of the pieces fit together
+- [TryRuby](http://tryruby.org) — online Ruby console and 15 minute interactive Ruby tutorial.
+- [Project Euler](http://projecteuler.net) — a huge amount of programming problems to learn any language.
+- [PuzzleNode](http://puzzlenode.com) — a site for coders who enjoy to work on challenging problems, and is inspired by similar efforts such as Project Euler and the Internet Problem Solving Contest.
+- [Ruby on Rails Guides](http://guides.rubyonrails.org) — These guides are designed to make you immediately productive with Rails, and to help you understand how all of the pieces fit together.
 - [Ruby Koans](http://rubykoans.com) — will walk you along the path to enlightenment in order to learn Ruby. The goal is to learn the Ruby language, syntax, structure, and some common functions and libraries. We also teach you culture. Testing is not just something we pay lip service to, but something we live. It is essential in your quest to learn and do great things in the language.
 - [RubyMonk](https://rubymonk.com) — free, interactive tutorials to help you discover Ruby idioms, in your browser!
+- [SitePoint](http://www.sitepoint.com/ruby/) — articles on Ruby programming.
 
 ## Style Guides
 
