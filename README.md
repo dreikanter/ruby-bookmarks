@@ -132,6 +132,8 @@ The goal of the project is to aggregate essential Ruby and Ruby on Rails resourc
 
 - [codequizzes.com](http://codequizzes.com) — learn programming by doing, not by reading.
 - [codewars.com](http://www.codewars.com) — achieve mastery through challenge.
+- [Smarterer.com](http://smarterer.com/home) — crowdsourced tests for Ruby, Rails, and a lot of other technologies.
+- [oDesk](https://www.odesk.com/tests) — a global freelance platform that includes qualification testing for programming languages and frameworkks.
 
 ## Gems
 
