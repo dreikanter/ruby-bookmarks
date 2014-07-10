@@ -178,6 +178,7 @@ The goal of the project is to aggregate essential Ruby and Ruby on Rails resourc
 ### Security
 
 - [Brakeman](https://github.com/presidentbeef/brakeman) — a static analysis security vulnerability scanner for Ruby on Rails applications.
+- [Codesake::Dawn](https://github.com/codesake/codesake-dawn) - Codesake::Dawn is a security source code scanner for ruby powered code. It is especially designed for web applications, but it works also with general purpose ruby scripts. Codesake::Dawn supports all major MVC frameworks like ruby on rails, padrino and sinatra; it provides more than 170 security checks with their own mitigation suggestion.
 
 ### Graphics
 
