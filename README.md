@@ -127,6 +127,8 @@ The goal of the project is to aggregate essential Ruby and Ruby on Rails resourc
 - [Dash](http://kapeli.com/dash) — an API Documentation Browser and Code Snippet Manager. Dash stores snippets of code and instantly searches offline documentation sets for 150+ APIs, including Ruby core libraries, and Ruby on Rails.
 - [Zeal](http://zealdocs.org/) – Dash alternative for Linux & Windows.
 - [Foreman](https://github.com/ddollar/foreman) — manage Procfile-based applications.
+- [httpie](https://github.com/jakubroztocil/httpie) — extremely handy  command line HTTP client, a user-friendly cURL replacement.
+- [Rubular](http://rubular.com) — a Ruby-based regular expression editor. It's a handy way to test regular expressions as you write them.
 
 ## Quizes, tests, exams
 
