@@ -221,10 +221,12 @@ The goal of the project is to aggregate essential Ruby and Ruby on Rails resourc
 ### Testing
 
 - [RSpec](https://github.com/rspec/rspec) — RSpec meta-gem that depends on the other components.
+- [rspec-rails](https://github.com/rspec/rspec-rails) — Rails integration for RSpec.
 - [betterspecs.org](http://betterspecs.org) — RSpec best practices.
 - [Cocumber](https://github.com/cucumber/cucumber) — a tool for running automated tests written in plain language.
 - [shoulda](https://github.com/thoughtbot/shoulda)
-- [factory_girl](https://github.com/thoughtbot/factory_girl) — a library for setting up Ruby objects as test data
+- [factory_girl](https://github.com/thoughtbot/factory_girl) — a fixtures replacement with a straightforward definition syntax, support for multiple build strategies (saved instances, unsaved instances, attribute hashes, and stubbed objects), and support for multiple factories for the same class, including factory inheritance.
+- [factory_girl_rails](https://github.com/thoughtbot/factory_girl_rails) — Rails integration for `factory_girl`.
 - [Capybara](https://github.com/jnicklas/capybara) — a tool helping you test web applications by simulating how a real user would interact with your app. It is agnostic about the driver running your tests and comes with Rack::Test and Selenium support built in. WebKit is supported through an external gem.
 - [capybara-webkit](https://github.com/thoughtbot/capybara-webkit) A Capybara driver for headless WebKit so you can test Javascript web apps.
 - [Mocha](https://github.com/freerange/mocha) — a Ruby library for mocking and stubbing.
