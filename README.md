@@ -75,6 +75,7 @@ The goal of the project is to aggregate essential Ruby and Ruby on Rails resourc
 - [Ruby Koans](http://rubykoans.com) — will walk you along the path to enlightenment in order to learn Ruby. The goal is to learn the Ruby language, syntax, structure, and some common functions and libraries. We also teach you culture. Testing is not just something we pay lip service to, but something we live. It is essential in your quest to learn and do great things in the language.
 - [RubyMonk](https://rubymonk.com) — free, interactive tutorials to help you discover Ruby idioms, in your browser!
 - [SitePoint](http://www.sitepoint.com/ruby/) — articles on Ruby programming.
+- [Better Specs](http://betterspecs.org) — RSpec best practices.
 
 ## Style Guides
 
@@ -124,16 +125,22 @@ The goal of the project is to aggregate essential Ruby and Ruby on Rails resourc
 - [Dash](http://kapeli.com/dash) — an API Documentation Browser and Code Snippet Manager. Dash stores snippets of code and instantly searches offline documentation sets for 150+ APIs, including Ruby core libraries, and Ruby on Rails.
 - [Zeal](http://zealdocs.org/) – Dash alternative for Linux & Windows.
 
+**Application and Web Servers**
+
+- [Unicorn](http://unicorn.bogomips.org) – Rack HTTP server for fast clients and Unix.
+- [Phusion Passenger](https://phusionpassenger.com) — a fast and robust web server and application server for Ruby, Python and Node.js.
+- [Thin](http://code.macournoyer.com/thin/) – A very fast & simple Ruby web server.
+- [Pow!](http://pow.cx) — a zero-config Rack server for Mac OS X.
+    - [Powder](https://github.com/Rodreegez/powder) — user-friendly CLI wraper for Pow.
+    - [Powify](https://github.com/sethvargo/powify) — a management tool for Pow by 37 signals. It allows you to easily install, update, and manage pow and pow applications seamlessly.
+
 **Other tools**
 
-- [Pow!](http://pow.cx) — a zero-config Rack server for Mac OS X.
-- [Powder](https://github.com/Rodreegez/powder) — user-friendly CLI wraper for Pow.
-- [Powify](https://github.com/sethvargo/powify) — a management tool for Pow by 37 signals. It allows you to easily install, update, and manage pow and pow applications seamlessly.
 - [Pry](https://github.com/pry/pry) — an IRB alternative and runtime developer console.
 - [Reek](https://github.com/troessner/reek) — code smell detection for Ruby.
 - [Foreman](https://github.com/ddollar/foreman) — manage Procfile-based applications.
-- [httpie](https://github.com/jakubroztocil/httpie) — extremely handy  command line HTTP client, a user-friendly cURL replacement.
 - [Rubular](http://rubular.com) — a Ruby-based regular expression editor. It's a handy way to test regular expressions as you write them.
+- [httpie](https://github.com/jakubroztocil/httpie) — extremely handy  command line HTTP client, a user-friendly cURL replacement.
 - [ngrok](https://ngrok.com) — introspected tunnels to localhost. ngrok creates a tunnel from the public internet (http://subdomain.ngrok.com) to a port on your local machine. You can give this URL to anyone to allow them to try out a web site you're developing without doing any deployment.
 
 ## Quizes, tests, exams
@@ -193,7 +200,7 @@ The goal of the project is to aggregate essential Ruby and Ruby on Rails resourc
 - [RMagick](https://github.com/rmagick/rmagick) — an interface to the ImageMagick and GraphicsMagick image processing libraries
 - [MiniMagick](https://github.com/minimagick/minimagick) — a ruby wrapper for ImageMagick or GraphicsMagick command line
 
-### Parsers / Text Processing
+### Parsers
 
 **HTML, XML**
 
@@ -204,7 +211,7 @@ The goal of the project is to aggregate essential Ruby and Ruby on Rails resourc
 - [SASS](https://github.com/sass/sass) — an extension of CSS3, adding nested rules, variables, mixins, selector inheritance, and more. It's translated to well-formatted, standard CSS using the command line tool or a web-framework plugin.
 - [LESS](https://github.com/cowboyd/less.rb) — Leaner CSS, in your browser or Ruby.
 
-**Markdown processors**
+**Markdown**
 
 - [kramdown](https://github.com/gettalong/kramdown) — kramdown is yet-another-markdown-parser but fast, pure Ruby, using a strict syntax definition and supporting several common extensions, http://kramdown.gettalong.org
 - [redcarpet](https://github.com/vmg/redcarpet) — a fast, safe and extensible Markdown to (X)HTML parser.
@@ -212,7 +219,7 @@ The goal of the project is to aggregate essential Ruby and Ruby on Rails resourc
 - [markup](https://github.com/github/markup) — the code GitHub uses to render `README.your_favorite_markup`.
 - StackOverflow: [Better ruby markdown interpreter?](http://stackoverflow.com/questions/373002/better-ruby-markdown-interpreter)
 
-**Template engines**
+### Template engines
 
 - [Mustache](https://github.com/defunkt/mustache) — logic-less Ruby templates. A framework-agnostic way to render logic-free views.
 - [HAML](http://haml.info/) — a very compact markup language, based on one primary principle: markup should be beautiful. It’s not just beauty for beauty’s sake either; Haml accelerates and simplifies template creation down to veritable haiku.
@@ -222,7 +229,6 @@ The goal of the project is to aggregate essential Ruby and Ruby on Rails resourc
 
 - [RSpec](https://github.com/rspec/rspec) — RSpec meta-gem that depends on the other components.
 - [rspec-rails](https://github.com/rspec/rspec-rails) — Rails integration for RSpec.
-- [betterspecs.org](http://betterspecs.org) — RSpec best practices.
 - [Cocumber](https://github.com/cucumber/cucumber) — a tool for running automated tests written in plain language.
 - [shoulda](https://github.com/thoughtbot/shoulda)
 - [factory_girl](https://github.com/thoughtbot/factory_girl) — a fixtures replacement with a straightforward definition syntax, support for multiple build strategies (saved instances, unsaved instances, attribute hashes, and stubbed objects), and support for multiple factories for the same class, including factory inheritance.
@@ -232,17 +238,11 @@ The goal of the project is to aggregate essential Ruby and Ruby on Rails resourc
 - [Mocha](https://github.com/freerange/mocha) — a Ruby library for mocking and stubbing.
 - [Spring](https://github.com/rails/spring) — Rails application preloader to speeds up development by keeping your application running in the background so you don't need to boot it every time you run a test, rake task or migration.
 
-### Deployment automation and Configuration Management
+### Deployment Automation and Configuration Management
 
 - [Capistrano](https://github.com/capistrano/capistrano) — remote multi-server automation tool.
 - [Chef](https://github.com/opscode/chef) — a systems integration framework, built to bring the benefits of configuration management to your entire infrastructure.
 - [Mina](https://github.com/mina-deploy/mina) – really fast deployer and server automation tool.
-
-### App/Web Servers
-
-- [Unicorn](http://unicorn.bogomips.org) – Rack HTTP server for fast clients and Unix.
-- [Phusion Passenger](https://phusionpassenger.com) — a fast and robust web server and application server for Ruby, Python and Node.js.
-- [Thin](http://code.macournoyer.com/thin/) – A very fast & simple Ruby web server.
 
 ### Misc
 
