@@ -1,6 +1,6 @@
 # Ruby Bookmarks
 
-The goal of the project is to aggregate essential Ruby and Ruby on Rails resources into a single well-structured, and keep it up to date. It was inspired by [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) — a community-driven bookmarks collection for frontend developers. ★ stands for Editors' Choice.
+This is a curated collection of essential Ruby and Ruby on Rails resources. It was inspired by [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) — a community-driven bookmarks collection for frontend developers. The project aims to maintain a well-structured reference equally useful both for beginners and advanced web developers. ★&nbsp;stands for Editors' Choice.
 
 *Sharing and pull requests are very much appreciated!*
 
