@@ -119,16 +119,22 @@ The goal of the project is to aggregate essential Ruby and Ruby on Rails resourc
 - [RubyInstaller](http://rubyinstaller.org) — a self-contained Windows-based installer that includes the Ruby language, an execution environment, important documentation, and more.
 - [RubyStack](https://bitnami.com/stack/ruby) — a complete development environment for Ruby on Rails that can be deployed in one click. It includes the latest stable release of Ruby, RVM, Rails, Apache, NGinx, MySQL, SQLite, Git and Subversion, Memcache and Varnish, Sphinx, PHP and phpMyAdmin.
 
+**Documentation**
+
+- [Dash](http://kapeli.com/dash) — an API Documentation Browser and Code Snippet Manager. Dash stores snippets of code and instantly searches offline documentation sets for 150+ APIs, including Ruby core libraries, and Ruby on Rails.
+- [Zeal](http://zealdocs.org/) – Dash alternative for Linux & Windows.
+
 **Other tools**
 
 - [Pow!](http://pow.cx) — a zero-config Rack server for Mac OS X.
+- [Powder](https://github.com/Rodreegez/powder) — user-friendly CLI wraper for Pow.
+- [Powify](https://github.com/sethvargo/powify) — a management tool for Pow by 37 signals. It allows you to easily install, update, and manage pow and pow applications seamlessly.
 - [Pry](https://github.com/pry/pry) — an IRB alternative and runtime developer console.
 - [Reek](https://github.com/troessner/reek) — code smell detection for Ruby.
-- [Dash](http://kapeli.com/dash) — an API Documentation Browser and Code Snippet Manager. Dash stores snippets of code and instantly searches offline documentation sets for 150+ APIs, including Ruby core libraries, and Ruby on Rails.
-- [Zeal](http://zealdocs.org/) – Dash alternative for Linux & Windows.
 - [Foreman](https://github.com/ddollar/foreman) — manage Procfile-based applications.
 - [httpie](https://github.com/jakubroztocil/httpie) — extremely handy  command line HTTP client, a user-friendly cURL replacement.
 - [Rubular](http://rubular.com) — a Ruby-based regular expression editor. It's a handy way to test regular expressions as you write them.
+- [ngrok](https://ngrok.com) — introspected tunnels to localhost. ngrok creates a tunnel from the public internet (http://subdomain.ngrok.com) to a port on your local machine. You can give this URL to anyone to allow them to try out a web site you're developing without doing any deployment.
 
 ## Quizes, tests, exams
 
