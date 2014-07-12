@@ -182,6 +182,7 @@ This is a curated collection of essential Ruby and Ruby on Rails resources. It w
 - [OmniAuth](https://github.com/intridea/omniauth) — a flexible authentication system utilizing Rack middleware.
 - [CanCanCan](https://github.com/CanCanCommunity/cancancan) — a continuation of the dead. [CanCan](https://github.com/ryanb/cancan) project. Our mission is to keep CanCan alive and moving forward, with maintenance fixes and new features.
 - [Authlogic](https://github.com/binarylogic/authlogic) — a clean, simple, and unobtrusive ruby authentication solution.
+- [Pundit](https://github.com/elabs/pundit) — minimal authorization through OO design and pure Ruby classes.
 
 ### Background Jobs
 
