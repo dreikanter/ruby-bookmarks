@@ -8,41 +8,41 @@ This is a curated collection of essential Ruby and Ruby on Rails resources. It w
 
 **For beginners and intermediate level developers**
 
-- ★ [Eloquent Ruby](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional/dp/0321584104/) by Russ Olsen
-- [Programming Ruby 1.9 & 2.0: The Pragmatic Programmers' Guide](http://pragprog.com/book/ruby4/programming-ruby-1-9-2-0) by Dave Thomas, Andy Hunt, and Chad Fowler
-- [Learn Ruby The Hard Way](http://ruby.learncodethehardway.org/book/) by Zed A. Shaw. Available to pre-order at [amazon](http://www.amazon.com/Learn-Ruby-Hard-Shaws-Series/dp/032188499X)
+- ★ [Eloquent Ruby](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional/dp/0321584104/) by Russ Olsen.
+- [Programming Ruby 1.9 & 2.0](http://pragprog.com/book/ruby4/programming-ruby-1-9-2-0) by Dave Thomas, Andy Hunt, and Chad Fowler.
+- [Learn Ruby The Hard Way](http://ruby.learncodethehardway.org/book/) by Zed A. Shaw. Available to pre-order at [amazon](http://www.amazon.com/Learn-Ruby-Hard-Shaws-Series/dp/032188499X).
 
 **Advancing Ruby knowledge**
 
-- ★ [Ruby Under a Microscope: An Illustrated Guide to Ruby Internals](http://www.amazon.com/Ruby-Under-Microscope-Illustrated-Internals/dp/1593275277/) by Pat Shaughnessy
-- ★ [Confident Ruby: 32 Patterns for Joyful Coding](http://www.amazon.com/Confident-Ruby-Patterns-Joyful-Coding-ebook/dp/B00ETE0D2S/) by Avdi Grimm
-- [Exceptional Ruby: Master the Art of Handling Failure in Ruby](http://pragprog.com/book/ager/exceptional-ruby) by Avdi Grimm
-- [Metaprogramming Ruby: Program Like the Ruby Pros](http://www.amazon.com/Metaprogramming-Ruby-Program-Like-Pros-ebook/dp/B00A376YAK/) by Paolo Perrotta
-- [The Well-Grounded Rubyist](http://www.amazon.com/The-Well-Grounded-Rubyist-David-Black/dp/1933988657/) by David A. Black
-- [Practical Object-Oriented Development in Ruby](http://poodr.com) by Sandi Metz
+- ★ [Ruby Under a Microscope: An Illustrated Guide to Ruby Internals](http://www.amazon.com/Ruby-Under-Microscope-Illustrated-Internals/dp/1593275277/) by Pat Shaughnessy.
+- ★ [Confident Ruby: 32 Patterns for Joyful Coding](http://www.amazon.com/Confident-Ruby-Patterns-Joyful-Coding-ebook/dp/B00ETE0D2S/) by Avdi Grimm.
+- [Exceptional Ruby: Master the Art of Handling Failure in Ruby](http://pragprog.com/book/ager/exceptional-ruby) by Avdi Grimm.
+- [Metaprogramming Ruby: Program Like the Ruby Pros](http://www.amazon.com/Metaprogramming-Ruby-Program-Like-Pros-ebook/dp/B00A376YAK/) by Paolo Perrotta.
+- [The Well-Grounded Rubyist](http://www.amazon.com/The-Well-Grounded-Rubyist-David-Black/dp/1933988657/) by David A. Black.
+- [Practical Object-Oriented Development in Ruby](http://poodr.com) by Sandi Metz.
 
 **Ruby on Rails for beginners**
 
-- ★ [The Rails 4 Way](http://www.amazon.com/Rails-Edition-Addison-Wesley-Professional-Series-ebook/dp/B00KKNO8YQ/) by Obie Fernandez and Kevin Faustino
-- [Agile Web Development with Rails 4](http://www.amazon.com/Agile-Development-Rails-Facets-Ruby/dp/1937785564/) by Sam Ruby, Dave Thomas, and David Heinemeier Hansson
-- [Rails 4 in Action](http://manning.com/bigg2) by Steve Klabnik, Ryan Bigg and Yehuda Katz
+- ★ [The Rails 4 Way](http://www.amazon.com/Rails-Edition-Addison-Wesley-Professional-Series-ebook/dp/B00KKNO8YQ/) by Obie Fernandez and Kevin Faustino.
+- [Agile Web Development with Rails 4](http://www.amazon.com/Agile-Development-Rails-Facets-Ruby/dp/1937785564/) by Sam Ruby, Dave Thomas, and David Heinemeier Hansson.
+- [Rails 4 in Action](http://manning.com/bigg2) by Steve Klabnik, Ryan Bigg and Yehuda Katz.
 
 **Ruby on Rails, advanced level**
 
-- [Crafting Rails 4 Applications: Expert Practices for Everyday Rails Development](http://www.amazon.com/Crafting-Rails-Applications-Practices-Development/dp/1937785556/) by José Valim
-- [Rails AntiPatterns: Best Practice Ruby on Rails Refactoring](http://www.amazon.com/Rails-AntiPatterns-Refactoring-Addison-Wesley-Professional/dp/0321604814/) by Chad Pytel, Tammer Saleh
-- [Deploying Rails: Automate, Deploy, Scale, Maintain, and Sleep at Night](http://www.amazon.com/Deploying-Rails-Automate-Deploy-Maintain/dp/1934356956/) by Tom Copeland, Anthony Burns
-- [Multitenancy with Rails](http://leanpub.com/multi-tenancy-rails) by Ryan Bigg
+- [Crafting Rails 4 Applications: Expert Practices for Everyday Rails Development](http://www.amazon.com/Crafting-Rails-Applications-Practices-Development/dp/1937785556/) by José Valim.
+- [Rails AntiPatterns: Best Practice Ruby on Rails Refactoring](http://www.amazon.com/Rails-AntiPatterns-Refactoring-Addison-Wesley-Professional/dp/0321604814/) by Chad Pytel, Tammer Saleh.
+- [Deploying Rails: Automate, Deploy, Scale, Maintain, and Sleep at Night](http://www.amazon.com/Deploying-Rails-Automate-Deploy-Maintain/dp/1934356956/) by Tom Copeland, Anthony Burns.
+- [Multitenancy with Rails](http://leanpub.com/multi-tenancy-rails) by Ryan Bigg.
 
 **Testing**
 
-- [The RSpec Book: Behaviour Driven Development with RSpec, Cucumber, and Friends](http://www.amazon.com/The-RSpec-Book-Behaviour-Development/dp/1934356379/) by David Chelimsky, Dave Astels, Bryan Helmkamp, Dan North, Zach Dennis, Aslak Hellesoy
+- [The RSpec Book: Behaviour Driven Development with RSpec, Cucumber, and Friends](http://www.amazon.com/The-RSpec-Book-Behaviour-Development/dp/1934356379/) by David Chelimsky, Dave Astels, Bryan Helmkamp, Dan North, Zach Dennis, Aslak Hellesoy.
 - [Rails 4 Test Prescriptions: Build a Healthy Codebase](http://pragprog.com/book/nrtest2/rails-4-test-prescriptions) by Noel Rappin — a comprehensive guide to how tests can help you design and write better Rails applications. In this completely revised edition, you’ll learn why testing works and how to test effectively using Rails 4, Minitest 5, and RSpec 3, as well as popular testing libraries such as factory_girl and Cucumber.
 - [Continuous Testing](http://pragprog.com/news/continuous-testing-with-ruby-rails-and-javascript-now-in-print) by Ben Rady and Rod Coffin.
 
 **Other frameworks and tools**
 
-- [RubyMotion](http://www.amazon.com/RubyMotion-Pragmatic-Programmers-Clay-Allsopp/dp/1937785289/) by Clay Allsopp
+- [RubyMotion](http://www.amazon.com/RubyMotion-Pragmatic-Programmers-Clay-Allsopp/dp/1937785289/) by Clay Allsopp.
 - [Build Awesome Command-Line Applications in Ruby 2](http://pragprog.com/book/dccar2/build-awesome-command-line-applications-in-ruby-2) by David Copeland
 - [Sinatra Book](https://github.com/sinatra/sinatra-book/) — a cookbook full of excellent tutorials and recipes for developing Sinatra web applications.
 
@@ -203,8 +203,8 @@ This is a curated collection of essential Ruby and Ruby on Rails resources. It w
 
 ### Graphics
 
-- [RMagick](https://github.com/rmagick/rmagick) — an interface to the ImageMagick and GraphicsMagick image processing libraries
-- [MiniMagick](https://github.com/minimagick/minimagick) — a ruby wrapper for ImageMagick or GraphicsMagick command line
+- [RMagick](https://github.com/rmagick/rmagick) — an interface to the ImageMagick and GraphicsMagick image processing libraries.
+- [MiniMagick](https://github.com/minimagick/minimagick) — a ruby wrapper for ImageMagick or GraphicsMagick command line.
 
 ### Parsers
 
