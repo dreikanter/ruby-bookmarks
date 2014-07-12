@@ -34,9 +34,14 @@ This is a curated collection of essential Ruby and Ruby on Rails resources. It w
 - [Deploying Rails: Automate, Deploy, Scale, Maintain, and Sleep at Night](http://www.amazon.com/Deploying-Rails-Automate-Deploy-Maintain/dp/1934356956/) by Tom Copeland, Anthony Burns
 - [Multitenancy with Rails](http://leanpub.com/multi-tenancy-rails) by Ryan Bigg
 
-**Other frameworks and tools**
+**Testing**
 
 - [The RSpec Book: Behaviour Driven Development with RSpec, Cucumber, and Friends](http://www.amazon.com/The-RSpec-Book-Behaviour-Development/dp/1934356379/) by David Chelimsky, Dave Astels, Bryan Helmkamp, Dan North, Zach Dennis, Aslak Hellesoy
+- [Rails 4 Test Prescriptions: Build a Healthy Codebase](http://pragprog.com/book/nrtest2/rails-4-test-prescriptions) by Noel Rappin — a comprehensive guide to how tests can help you design and write better Rails applications. In this completely revised edition, you’ll learn why testing works and how to test effectively using Rails 4, Minitest 5, and RSpec 3, as well as popular testing libraries such as factory_girl and Cucumber.
+- [Continuous Testing](http://pragprog.com/news/continuous-testing-with-ruby-rails-and-javascript-now-in-print) by Ben Rady and Rod Coffin.
+
+**Other frameworks and tools**
+
 - [RubyMotion](http://www.amazon.com/RubyMotion-Pragmatic-Programmers-Clay-Allsopp/dp/1937785289/) by Clay Allsopp
 - [Build Awesome Command-Line Applications in Ruby 2](http://pragprog.com/book/dccar2/build-awesome-command-line-applications-in-ruby-2) by David Copeland
 - [Sinatra Book](https://github.com/sinatra/sinatra-book/) — a cookbook full of excellent tutorials and recipes for developing Sinatra web applications.
