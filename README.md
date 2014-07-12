@@ -87,6 +87,7 @@ This is a curated collection of essential Ruby and Ruby on Rails resources. It w
 - [A community-driven Ruby coding style guide](https://github.com/bbatsov/ruby-style-guide)
 - [A community-driven Rails 3 & 4 style guide](https://github.com/bbatsov/rails-style-guide)
 - [GitHub Ruby Coding Style](https://github.com/styleguide/ruby)
+- See also: [RuboCop](https://github.com/bbatsov/rubocop) — a Ruby static code analyzer, based on the community Ruby style guide.
 
 ## Podcasts
 
