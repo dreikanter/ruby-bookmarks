@@ -136,6 +136,7 @@ This is a curated collection of essential Ruby and Ruby on Rails resources. It w
 - [Unicorn](http://unicorn.bogomips.org) – Rack HTTP server for fast clients and Unix.
 - [Phusion Passenger](https://phusionpassenger.com) — a fast and robust web server and application server for Ruby, Python and Node.js.
 - [Thin](http://code.macournoyer.com/thin/) – A very fast & simple Ruby web server.
+- [puma](https://github.com/puma/puma) A ruby web server built for concurrency
 - [Pow!](http://pow.cx) — a zero-config Rack server for Mac OS X.
     - [Powder](https://github.com/Rodreegez/powder) — user-friendly CLI wraper for Pow.
     - [Powify](https://github.com/sethvargo/powify) — a management tool for Pow by 37 signals. It allows you to easily install, update, and manage pow and pow applications seamlessly.
@@ -196,6 +197,7 @@ This is a curated collection of essential Ruby and Ruby on Rails resources. It w
 - [Resque](https://github.com/resque/resque) — a Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later.
 - [Sidekiq](http://sidekiq.org) — a full-featured background processing framework for Ruby. It aims to be simple to integrate with any modern Rails application and much higher performance than other existing solutions.
 - [Qu](https://github.com/bkeepers/qu) A Ruby library for queuing and processing background jobs.
+- [que](https://github.com/chanks/que) A Ruby job queue that uses PostgreSQL's advisory locks for speed and reliability
 
 ### Security
 
@@ -206,6 +208,7 @@ This is a curated collection of essential Ruby and Ruby on Rails resources. It w
 
 - [RMagick](https://github.com/rmagick/rmagick) — an interface to the ImageMagick and GraphicsMagick image processing libraries.
 - [MiniMagick](https://github.com/minimagick/minimagick) — a ruby wrapper for ImageMagick or GraphicsMagick command line.
+- [psd.rb](https://github.com/layervault/psd.rb) Parse Photoshop files in Ruby with ease
 
 ### Parsers
 
@@ -259,3 +262,6 @@ This is a curated collection of essential Ruby and Ruby on Rails resources. It w
 - [Dalli](https://github.com/mperham/dalli) — high performance memcached client for Ruby.
 - [Active Merchant](https://github.com/Shopify/active_merchant) — Active Merchant is an extraction from the ecommerce system Shopify. Shopify's requirements for a simple and unified API to access dozens of different payment gateways with very different internal APIs was the chief principle in designing the library.
 - [EventMachine](https://github.com/eventmachine/eventmachine) — fast, simple event-processing library for Ruby.
+- [scss-lint](https://github.com/causes/scss-lint) Configurable tool for writing clean and consistent SCSS
+- [rpush](https://github.com/rpush/rpush) The push notification service for Ruby
+- [eye](https://github.com/kostya/eye) Process monitoring tool
