@@ -198,6 +198,7 @@ This is a curated collection of essential Ruby and Ruby on Rails resources. It w
 - [Sidekiq](http://sidekiq.org) — a full-featured background processing framework for Ruby. It aims to be simple to integrate with any modern Rails application and much higher performance than other existing solutions.
 - [Qu](https://github.com/bkeepers/qu) — a Ruby library for queuing and processing background jobs.
 - [que](https://github.com/chanks/que) — a Ruby job queue that uses PostgreSQL's advisory locks for speed and reliability.
+- [Backburner](https://github.com/nesquena/backburner) — a beanstalkd-powered job queue that can handle a very high volume of jobs. You create background jobs and place them on multiple work queues to be processed later.
 
 ### Queuing
 
