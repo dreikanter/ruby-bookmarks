@@ -56,6 +56,7 @@ This is a curated collection of essential Ruby and Ruby on Rails resources. It w
 - ★ [Practicing Ruby](https://practicingruby.com) — delightful lessons for dedicated programmers.
 - [Yehuda Katz](http://yehudakatz.com)
 - [Sitepoint](http://www.sitepoint.com/ruby/)
+- [A Fresh Cup](http://afreshcup.com/) - links to new resources and insightful blog posts.
 
 ## Screencasts and courses
 
