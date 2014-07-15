@@ -39,6 +39,7 @@ This is a curated collection of essential Ruby and Ruby on Rails resources. It w
 - [The RSpec Book: Behaviour Driven Development with RSpec, Cucumber, and Friends](http://www.amazon.com/The-RSpec-Book-Behaviour-Development/dp/1934356379/) by David Chelimsky, Dave Astels, Bryan Helmkamp, Dan North, Zach Dennis, Aslak Hellesoy.
 - [Rails 4 Test Prescriptions: Build a Healthy Codebase](http://pragprog.com/book/nrtest2/rails-4-test-prescriptions) by Noel Rappin — a comprehensive guide to how tests can help you design and write better Rails applications. In this completely revised edition, you’ll learn why testing works and how to test effectively using Rails 4, Minitest 5, and RSpec 3, as well as popular testing libraries such as factory_girl and Cucumber.
 - [Continuous Testing](http://pragprog.com/news/continuous-testing-with-ruby-rails-and-javascript-now-in-print) by Ben Rady and Rod Coffin.
+- [Everyday Rails Testing with RSpec](https://leanpub.com/everydayrailsrspec) by Aaron Sumner. Practical advice for adding reliable tests to your Rails apps with RSpec
 
 **Other frameworks and tools**
 
