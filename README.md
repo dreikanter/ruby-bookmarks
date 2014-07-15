@@ -196,8 +196,22 @@ This is a curated collection of essential Ruby and Ruby on Rails resources. It w
 - [Delayed::Job](https://github.com/tobi/delayed_job) — database backed asynchronous priority queue.
 - [Resque](https://github.com/resque/resque) — a Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later.
 - [Sidekiq](http://sidekiq.org) — a full-featured background processing framework for Ruby. It aims to be simple to integrate with any modern Rails application and much higher performance than other existing solutions.
-- [Qu](https://github.com/bkeepers/qu) A Ruby library for queuing and processing background jobs.
-- [que](https://github.com/chanks/que) A Ruby job queue that uses PostgreSQL's advisory locks for speed and reliability
+- [Qu](https://github.com/bkeepers/qu) — a Ruby library for queuing and processing background jobs.
+- [que](https://github.com/chanks/que) — a Ruby job queue that uses PostgreSQL's advisory locks for speed and reliability.
+
+### Queuing
+
+- [AMQP](https://github.com/ruby-amqp/amqp) — EventMachine-based RabbitMQ client.
+- ★ [Bunny](http://rubybunny.info) — RabbitMQ Ruby client based on AMQP gem.
+- [Minion](https://github.com/orionz/minion) — simple job queue over AMPQ (based on AMQP gem and Bunny).
+
+### Scheduling
+
+- [rufus-scheduler](https://github.com/jmettraux/rufus-scheduler) — an in-process, in-memory scheduler with no persistence, accepting at, in, cron and every jobs.
+- [sidekiq-cron](https://github.com/ondrejbartas/sidekiq-cron) — scheduler based on rufus-scheduler and [Sidekiq](http://sidekiq.org) ([Redis](http://redis.io) based message queue) for persistence. Inherits web UI from Sidekiq.
+- [sidekiq-scheduler](https://github.com/Moove-it/sidekiq-scheduler) — one more job scheduler based on rufus-scheduler and Sidekiq.
+- ★ [Clockwork](https://github.com/tomykaira/clockwork) — a cron replacement. It runs as a lightweight, long-running Ruby process which sits alongside your web processes (Mongrel/Thin) and your worker processes (DJ/Resque/Minion/Stalker) to schedule recurring work at particular times or dates. Here is a [blog post](http://adam.herokuapp.com/past/2010/4/13/rethinking_cron/) with more details.
+- [Whenever](https://github.com/javan/whenever) — a Ruby wrapper for crond, with a clear syntax (each job is a separate process).
 
 ### Security
 
