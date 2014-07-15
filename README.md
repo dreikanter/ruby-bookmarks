@@ -251,6 +251,15 @@ This is a curated collection of essential Ruby and Ruby on Rails resources. It w
 - [HAML](http://haml.info/) — a very compact markup language, based on one primary principle: markup should be beautiful. It’s not just beauty for beauty’s sake either; Haml accelerates and simplifies template creation down to veritable haiku.
 - [Slim](https://github.com/slim-template/slim) – a templating lang that reduce the syntax to the essential parts without becoming cryptic.
 
+### Logging
+
+- [MonoLogger](https://github.com/steveklabnik/mono_logger) — a lock-free logger for Ruby 2.0.
+- [Yell](https://github.com/rudionrails/yell) — Your Extensible Logging Library, a comprehensive logging replacement for Ruby.
+- [Fluentd](https://github.com/fluent/fluentd) — an open source data collector designed for processing data streams, which instantly enables you to have Log Management, Big Data Analytics, etc.
+- [mongodb_logger](https://github.com/le0pard/mongodb_logger) — an alternative logger for Rails or Rack based app, which log all requests of you application into MongoDB database (allow to store and search any information from logs; web panel allow filter logs, build graphs using MapReduce by information from logs).
+- [Hatchet](https://github.com/gshutler/hatchet) — logging library that provides the ability to add class/module specific filters.
+- [Whoops](http://whoopsapp.com) — a free, self-hosted tool for logging application events like errors or background worker completion (uses Rails for web frontend and MongoDB).
+
 ### Testing
 
 - [RSpec](https://github.com/rspec/rspec) — RSpec meta-gem that depends on the other components.
