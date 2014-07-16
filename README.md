@@ -218,6 +218,8 @@ This is a curated collection of essential Ruby and Ruby on Rails resources. It w
 
 ### Scheduling
 
+(info collected from [Stack Overflow](http://stackoverflow.com/questions/24745809/massive-scheduling-in-ruby))
+
 - [rufus-scheduler](https://github.com/jmettraux/rufus-scheduler) — an in-process, in-memory scheduler with no persistence, accepting at, in, cron and every jobs.
 - [sidekiq-cron](https://github.com/ondrejbartas/sidekiq-cron) — scheduler based on rufus-scheduler and [Sidekiq](http://sidekiq.org) ([Redis](http://redis.io) based message queue) for persistence. Inherits web UI from Sidekiq.
 - [sidekiq-scheduler](https://github.com/Moove-it/sidekiq-scheduler) — one more job scheduler based on rufus-scheduler and Sidekiq.
