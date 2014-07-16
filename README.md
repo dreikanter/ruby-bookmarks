@@ -76,6 +76,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [CodeAcademy](http://www.codecademy.com/tracks/ruby)
 - [confreaks.com](http://confreaks.com/) — expert recording services for conferences, seminars, and workshops.
 - [Learnable](https://learnable.com/topics/ruby) — video courses and books ($30 per month).
+- [Destroy All Software](https://www.destroyallsoftware.com/) - by Gary Bernhardt
 
 ## Other Learning Materials
 
