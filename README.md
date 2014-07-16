@@ -280,7 +280,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 
 - [RSpec](https://github.com/rspec/rspec) — RSpec meta-gem that depends on the other components.
 - [rspec-rails](https://github.com/rspec/rspec-rails) — Rails integration for RSpec.
-- [Cocumber](https://github.com/cucumber/cucumber) — a tool for running automated tests written in plain language.
+- [Cucumber](https://github.com/cucumber/cucumber) — a tool for running automated tests written in plain language.
 - [shoulda](https://github.com/thoughtbot/shoulda)
 - [factory_girl](https://github.com/thoughtbot/factory_girl) — a fixtures replacement with a straightforward definition syntax, support for multiple build strategies (saved instances, unsaved instances, attribute hashes, and stubbed objects), and support for multiple factories for the same class, including factory inheritance.
 - [factory_girl_rails](https://github.com/thoughtbot/factory_girl_rails) — Rails integration for `factory_girl`.
