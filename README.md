@@ -187,6 +187,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [Sinatra](http://sinatrarb.com) — a DSL for quickly creating web applications in Ruby with minimal effort.
 - [Padrino](http://padrinorb.com) — a Ruby framework built upon the Sinatra web library, created to make it fun and easy to code more advanced web applications while still adhering to the spirit that makes Sinatra great!
 - [Cuba](https://github.com/soveran/cuba) — a microframework for web development originally inspired by [Rum](https://github.com/chneukirchen/rum), a tiny but powerful mapper for Rack applications. It integrates many templates via Tilt, and testing via Cutest and Capybara.
+- [Lotus](https://github.com/lotus/lotus) — a complete MVC web framework.
 
 [Benchmark results](http://www.madebymarket.com/blog/dev/ruby-web-benchmark-report.html) for different Ruby, web framework and app server combinations (actual on July 2014).
 
