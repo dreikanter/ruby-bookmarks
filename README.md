@@ -52,6 +52,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [RubyMotion](http://www.amazon.com/RubyMotion-Pragmatic-Programmers-Clay-Allsopp/dp/1937785289/) by Clay Allsopp.
 - [Build Awesome Command-Line Applications in Ruby 2](http://pragprog.com/book/dccar2/build-awesome-command-line-applications-in-ruby-2) by David Copeland
 - [Sinatra Book](https://github.com/sinatra/sinatra-book/) — a cookbook full of excellent tutorials and recipes for developing Sinatra web applications.
+- [The Guide to Cuba](http://theguidetocuba.io) — this book will teach you how to create a Ruby web application from scratch using Cuba microframework.
 
 ## Blogs
 
@@ -183,6 +184,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [Ruby on Rails](http://rubyonrails.org) — an open source full-stack framework web application framework.
 - [Sinatra](http://sinatrarb.com) — a DSL for quickly creating web applications in Ruby with minimal effort.
 - [Padrino](http://padrinorb.com) — a Ruby framework built upon the Sinatra web library, created to make it fun and easy to code more advanced web applications while still adhering to the spirit that makes Sinatra great!
+- [Cuba](https://github.com/soveran/cuba) — a microframework for web development originally inspired by [Rum](https://github.com/chneukirchen/rum), a tiny but powerful mapper for Rack applications. It integrates many templates via Tilt, and testing via Cutest and Capybara.
 
 [Benchmark results](http://www.madebymarket.com/blog/dev/ruby-web-benchmark-report.html) for different Ruby, web framework and app server combinations (actual on July 2014).
 
