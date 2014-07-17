@@ -209,6 +209,13 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [Kaminari](https://github.com/amatsuda/kaminari) — clean, powerful, customizable and sophisticated paginator for modern web app frameworks and ORMs.
 - [dotenv](https://github.com/bkeepers/dotenv) — loads environment variables from .env file into ENV in development.
 - [suspenders](https://github.com/thoughtbot/suspenders) — a Rails template with [Thoughtbot](http://thoughtbot.com) standard defaults, ready to deploy to Heroku.
+- [High Voltage](https://github.com/thoughtbot/high_voltage) — easily include static pages in your Rails app.
+- [email_validator](https://github.com/balexand/email_validator) — an email validator for Rails 3 and 4.
+
+### Rack
+
+- [Rack::Timeout](https://github.com/heroku/rack-timeout) — abort requests that are taking too long.
+- [Rack::Protection](http://rkh.github.io/rack-protection/) — protects against typical web attacks. Should work for all Rack apps, including Rails.
 
 ### Authentication and Authorization
 
