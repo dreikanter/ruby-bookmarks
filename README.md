@@ -240,6 +240,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [que](https://github.com/chanks/que) — a Ruby job queue that uses PostgreSQL's advisory locks for speed and reliability.
 - [Resque](https://github.com/resque/resque) — a Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later.
 - [Sidekiq](http://sidekiq.org) — a full-featured background processing framework for Ruby. It aims to be simple to integrate with any modern Rails application and much higher performance than other existing solutions.
+- [Sucker Punch](https://github.com/brandonhilkert/sucker_punch) — an asynchronous processing library using Celluloid, heavily influenced by Sidekiq and girl_friday.
 
 ### Scheduling
 
