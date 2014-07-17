@@ -99,6 +99,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [A community-driven Rails 3 & 4 style guide](https://github.com/bbatsov/rails-style-guide)
 - [GitHub Ruby Coding Style](https://github.com/styleguide/ruby)
 - See also: [RuboCop](https://github.com/bbatsov/rubocop) — a Ruby static code analyzer, based on the community Ruby style guide.
+- [Thoughtbot Style Guides](https://github.com/thoughtbot/guides) — short guidelines on Ruby, Rails, Git some other technologies.
 
 ## Podcasts
 
@@ -206,6 +207,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [CarrierWave](https://github.com/carrierwaveuploader/carrierwave) — classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks.
 - [Kaminari](https://github.com/amatsuda/kaminari) — clean, powerful, customizable and sophisticated paginator for modern web app frameworks and ORMs.
 - [dotenv](https://github.com/bkeepers/dotenv) — loads environment variables from .env file into ENV in development.
+- [suspenders](https://github.com/thoughtbot/suspenders) — a Rails template with [Thoughtbot](http://thoughtbot.com) standard defaults, ready to deploy to Heroku.
 
 ### Authentication and Authorization
 
