@@ -271,8 +271,10 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 
 **CSS**
 
-- [SASS](https://github.com/sass/sass) — an extension of CSS3, adding nested rules, variables, mixins, selector inheritance, and more. It's translated to well-formatted, standard CSS using the command line tool or a web-framework plugin.
 - [LESS](https://github.com/cowboyd/less.rb) — leaner CSS, in your browser or Ruby.
+- [Bourbon](http://bourbon.io) — alightweight mixin library for Sass.
+- [SASS](https://github.com/sass/sass) — an extension of CSS3, adding nested rules, variables, mixins, selector inheritance, and more. It's translated to well-formatted, standard CSS using the command line tool or a web-framework plugin.
+- [Bitters](https://github.com/thoughtbot/bitters) — add a dash of pre-defined style to your Bourbon.
 
 **Markdown**
 
