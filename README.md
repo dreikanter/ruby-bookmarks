@@ -287,6 +287,13 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [Hatchet](https://github.com/gshutler/hatchet) — logging library that provides the ability to add class/module specific filters.
 - [Whoops](http://whoopsapp.com) — a free, self-hosted tool for logging application events like errors or background worker completion (uses Rails for web frontend and MongoDB).
 
+### SDK, API Wrappers, Service Clients
+
+- [Yt](https://github.com/Fullscreen/yt) — YouTube API Ruby client.
+- [Dropbox Core API](https://www.dropbox.com/developers/core/start/ruby) for Ruby.
+- [AWS SDK](http://aws.amazon.com/sdkforruby/) — Amazon Web Services API for Ruby.
+- [PayPal](https://github.com/paypal/rest-api-sdk-ruby) — this SDK provides Ruby APIs to create, process and manage payment.
+
 ### Testing
 
 - [RSpec](https://github.com/rspec/rspec) — RSpec meta-gem that depends on the other components.
