@@ -324,6 +324,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 
 ### Profiling
 
+- [ruby-prof](https://github.com/ruby-prof/ruby-prof) — a code profiler for MRI rubies.
 - [Timecop](https://github.com/travisjeffery/timecop) — a gem providing "time travel", "time freezing", and "time acceleration" capabilities, making it simple to test time-dependent code. It provides a unified method to mock Time.now, Date.today, and DateTime.now in a single call.
 - [timecop-console](https://github.com/ferndopolis/timecop-console) — expose Timecop's capabilities to the UI in your rails app, allowing QA to take advantage of it.
 
