@@ -316,6 +316,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [factory_girl_rails](https://github.com/thoughtbot/factory_girl_rails) — Rails integration for `factory_girl`.
 - [Capybara](https://github.com/jnicklas/capybara) — a tool helping you test web applications by simulating how a real user would interact with your app. It is agnostic about the driver running your tests and comes with Rack::Test and Selenium support built in. WebKit is supported through an external gem.
 - [capybara-webkit](https://github.com/thoughtbot/capybara-webkit) A Capybara driver for headless WebKit so you can test JavaScript web apps.
+- [Formulaic](https://github.com/thoughtbot/formulaic) — simplify form filling with Capybara.
 - [Mocha](https://github.com/freerange/mocha) — a Ruby library for mocking and stubbing.
 - [Spring](https://github.com/rails/spring) — Rails application preloader to speeds up development by keeping your application running in the background so you don't need to boot it every time you run a test, rake task or migration.
 - [Faker](https://github.com/stympy/faker) — a library for generating fake data such as names, addresses, and phone numbers.
