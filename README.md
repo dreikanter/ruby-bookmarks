@@ -320,7 +320,11 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [Mocha](https://github.com/freerange/mocha) — a Ruby library for mocking and stubbing.
 - [Spring](https://github.com/rails/spring) — Rails application preloader to speeds up development by keeping your application running in the background so you don't need to boot it every time you run a test, rake task or migration.
 - [Faker](https://github.com/stympy/faker) — a library for generating fake data such as names, addresses, and phone numbers.
+
+### Profiling
+
 - [Timecop](https://github.com/travisjeffery/timecop) — a gem providing "time travel", "time freezing", and "time acceleration" capabilities, making it simple to test time-dependent code. It provides a unified method to mock Time.now, Date.today, and DateTime.now in a single call.
+- [timecop-console](https://github.com/ferndopolis/timecop-console) — expose Timecop's capabilities to the UI in your rails app, allowing QA to take advantage of it.
 
 ### Misc
 
