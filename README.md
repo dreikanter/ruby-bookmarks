@@ -91,6 +91,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [RubyMonk](https://rubymonk.com) — free, interactive tutorials to help you discover Ruby idioms, in your browser!
 - [SitePoint](http://www.sitepoint.com/ruby/) — articles on Ruby programming.
 - [Better Specs](http://betterspecs.org) — RSpec best practices.
+- [Sourcegraph](https://sourcegraph.com) — search engine for code examples/ Here is a [demo video](https://www.youtube.com/watch?v=YYL0ZoPeB5w).
 
 ## Style Guides
 
