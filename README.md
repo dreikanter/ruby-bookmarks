@@ -80,6 +80,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [confreaks.com](http://confreaks.com/) — expert recording services for conferences, seminars, and workshops.
 - [Learnable](https://learnable.com/topics/ruby) — video courses and books ($30 per month).
 - [Destroy All Software](https://www.destroyallsoftware.com/) - by Gary Bernhardt
+- [GoRails](https://gorails.com) — a series of screencasts and guides for all aspects of Ruby on Rails. Learn how to setup your machine, build a Rails application, and deploy it to a server.
 
 ## Other Learning Materials
 
