@@ -180,6 +180,26 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [Smarterer.com](http://smarterer.com/home) — crowdsourced tests for Ruby, Rails, and a lot of other technologies.
 - [oDesk](https://www.odesk.com/tests) — a global freelance platform that includes qualification testing for programming languages and frameworkks.
 
+## Hosting
+
+**Not PAAS**
+
+- [DigitalOcean](https://digitalocean.com) — fast VPS hosting. Among other features they provide one-click Rails installation that uses Nginx with Unicorn on Ubuntu.
+
+**PAAS**
+
+- [Heroku](https://heroku.com) — cloud computing designed and built for developers. [More details](https://devcenter.heroku.com/categories/language-support#ruby) on Ruby support.
+- [NineFold](https://ninefold.com) — Rails-friendly hosting with a generous free tier (1.5 GB RAM, 1 CPU, 25 GB for DataBase server in the US region). Credit card required even if you fit the free tier.
+- [OpenShift](https://www.openshift.com) — Red Hat's Platform-as-a-Service that allows developers to quickly develop, host, and scale applications in a cloud environment. Capable for Rails apps [git-push deployment](https://www.openshift.com/developers/ruby). There also [a free tier](https://www.openshift.com/products/pricing) (no credit card required).
+- [AppFog](https://appfog.com) — another developer-friendly cloud service.
+
+**Some materials on Rails deployment**
+
+- [A guide to setting up a Ruby on Rails production environment](https://gorails.com/deploy/ubuntu/14.04) at DigitalOcean.
+- [How To Automate Ruby On Rails Application Deployments Using Capistrano](https://www.digitalocean.com/community/tutorials/how-to-automate-ruby-on-rails-application-deployments-using-capistrano)
+- [How to Use the DigitalOcean Dokku Application](https://www.digitalocean.com/community/tutorials/how-to-use-the-digitalocean-dokku-application)
+- [How To Use the Dokku One-Click DigitalOcean Image to Run a Ruby on Rails App](https://www.digitalocean.com/community/tutorials/how-to-use-the-dokku-one-click-digitalocean-image-to-run-a-ruby-on-rails-app)
+
 ## Gems
 
 ### Web Frameworks
