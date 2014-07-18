@@ -182,7 +182,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 
 ## Hosting
 
-**Not PAAS**
+**VPS**
 
 - [DigitalOcean](https://digitalocean.com) — fast VPS hosting. Among other features they provide one-click Rails installation that uses Nginx with Unicorn on Ubuntu.
 
