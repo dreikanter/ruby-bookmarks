@@ -324,6 +324,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 
 ### SDK, API Wrappers, Service Clients
 
+- [Fog](https://fog.io) — cloud services library, top to bottom: collections provide a simplified interface, making clouds easier to work with and switch between; requests allow power users to get the most out of the features of each individual cloud; mocks make testing and integrating a breeze.
 - [Yt](https://github.com/Fullscreen/yt) — YouTube API Ruby client.
 - [Dropbox Core API](https://www.dropbox.com/developers/core/start/ruby) for Ruby.
 - [AWS SDK](http://aws.amazon.com/sdkforruby/) — Amazon Web Services API for Ruby.
