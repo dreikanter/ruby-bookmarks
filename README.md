@@ -153,6 +153,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [Pow!](http://pow.cx) — a zero-config Rack server for Mac OS X.
     - [Powder](https://github.com/Rodreegez/powder) — user-friendly CLI wraper for Pow.
     - [Powify](https://github.com/sethvargo/powify) — a management tool for Pow by 37 signals. It allows you to easily install, update, and manage pow and pow applications seamlessly.
+- [Prax](http://ysbaddaden.github.io/prax/) — a pure ruby alternative to Pow! that runs on GNU/Linux.
 
 - [The Ruby Web Benchmark Report](http://www.madebymarket.com/blog/dev/ruby-web-benchmark-report.html) (July 2014) — „I benchmarked every single version of Ruby available as of the beginning of this test — January 2014. On each version I benchmarked every Rack server and web framework combination I could find. I tested with both Apache Bench and wrk to see if there are flaws that one benchmarking tool picks up on that the other didn’t. The goal of the benchmark is the fastest benchmark run, not the average.“
 
