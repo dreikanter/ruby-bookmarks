@@ -234,6 +234,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [High Voltage](https://github.com/thoughtbot/high_voltage) — easily include static pages in your Rails app.
 - [email_validator](https://github.com/balexand/email_validator) — an email validator for Rails 3 and 4.
 - [Squasher](https://github.com/jalkoby/squasher) — compresses old migrations in a Rails application. If you work on a big project with lots of migrations, every rake db:migrate might take a few seconds, or creating of a new database might take a few minutes. That's because Rails loads all those migration files. Squasher removes all the migrations and creates a single migration with the final database state of the specified date (a new migration will look like a schema).
+- [Metamagic](https://github.com/lassebunk/metamagic) — a simple Ruby on Rails plugin for creating meta tags. It supports regular meta tags, OpenGraph (Facebook), Twitter Cards, and custom tags.
 
 ### Rack
 
