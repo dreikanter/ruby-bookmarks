@@ -358,6 +358,13 @@ Binary:
 - [PayPal](https://github.com/paypal/rest-api-sdk-ruby) — this SDK provides Ruby APIs to create, process and manage payment.
 - [Shoppe](http://tryshoppe.com/) — e-commerce platform for Ruby on Rails.
 
+### Mail
+
+- [Pony](https://github.com/benprew/pony) — the express way to send email in Ruby.
+- [Mailgun-Ruby](https://github.com/mailgun/mailgun-ruby) — Mailgun's Official Ruby Library.
+- [AWS::SES](https://github.com/drewblas/aws-ses) — easy ruby DSL & interface to [Amazon SES](http://aws.amazon.com/ses/). See also the [official Ruby SDK](http://aws.amazon.com/sdkforruby/).
+- [Mail](https://github.com/mikel/mail) — a library that is designed to handle emails generation, parsing and sending in a simple, rubyesque manner.
+
 ### Testing
 
 - [RSpec](https://github.com/rspec/rspec) — RSpec meta-gem that depends on the other components.
