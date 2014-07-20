@@ -284,6 +284,22 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [Brakeman](https://github.com/presidentbeef/brakeman) — a static analysis security vulnerability scanner for Ruby on Rails applications.
 - [Codesake::Dawn](https://github.com/codesake/codesake-dawn) - Codesake::Dawn is a security source code scanner for ruby powered code. It is especially designed for web applications, but it works also with general purpose ruby scripts. Codesake::Dawn supports all major MVC frameworks like ruby on rails, Padrino and Sinatra; it provides more than 170 security checks with their own mitigation suggestion.
 
+### Serialization
+
+Text:
+
+- [JSON](https://github.com/flori/json) — includes pure Ruby and C implementation for JSON.
+- [JSON::Stream](https://github.com/dgraham/json-stream) — a streaming JSON parser that generates SAX-like events.
+- [YAJL](https://github.com/brianmario/yajl-ruby) — a streaming JSON parsing and encoding library for Ruby (C bindings to YAJL).
+- [OJ](https://github.com/ohler55/oj) — Optimized JSON, as the name implies, was written to provide speed optimized JSON handling. So far it has achieved that, and is about 2 times faster than any other Ruby JSON parser, and 3 or more times faster at serializing JSON.
+- [TOML](https://github.com/jm/toml) — a sane configuration format [from @mojombo](https://github.com/toml-lang/toml).
+
+Binary:
+
+- [BSON](https://github.com/mongodb/bson-ruby) — Ruby implementation of the BSON Specification (2.0.0+), http://bsonspec.org
+- [MessagePack](https://github.com/msgpack/msgpack-ruby) — an efficient binary serialization format. It lets you exchange data among multiple languages like JSON but it's faster and smaller. For example, small integers (like flags or error code) are encoded into a single byte, and typical short strings only require an extra byte in addition to the strings themselves. See http://msgpack.org
+- [Protobuf](https://github.com/localshred/protobuf) — Ruby implementation for Protocol Buffers.
+
 ### Graphics
 
 - [RMagick](https://github.com/rmagick/rmagick) — an interface to the ImageMagick and GraphicsMagick image processing libraries.
