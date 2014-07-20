@@ -265,7 +265,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [Backburner](https://github.com/nesquena/backburner) — a beanstalkd-powered job queue that can handle a very high volume of jobs.
 - [Stalker](https://github.com/han/stalker) — a minimalist queuing DSL for Beanstalk.
 - [Delayed::Job](https://github.com/tobi/delayed_job) — database backed asynchronous priority queue.
-- [Minion](https://github.com/orionz/minion) — simple job queue over AMPQ (based on AMQP gem and Bunny).
+- [Minion](https://github.com/orionz/minion) — simple job queue based on AMQP gem and Bunny.
 - [Qu](https://github.com/bkeepers/qu) — a Ruby library for queuing and processing background jobs.
 - [que](https://github.com/chanks/que) — a Ruby job queue that uses PostgreSQL's advisory locks for speed and reliability.
 - [Resque](https://github.com/resque/resque) — a Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later.
