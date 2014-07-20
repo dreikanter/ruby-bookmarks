@@ -154,6 +154,8 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
     - [Powder](https://github.com/Rodreegez/powder) — user-friendly CLI wraper for Pow.
     - [Powify](https://github.com/sethvargo/powify) — a management tool for Pow by 37 signals. It allows you to easily install, update, and manage pow and pow applications seamlessly.
 - [Prax](http://ysbaddaden.github.io/prax/) — a pure ruby alternative to Pow! that runs on GNU/Linux.
+- [TorqueBox](http://torquebox.org) — an application platform that supports popular technologies such as Ruby on Rails and Sinatra, while extending the footprint of Ruby applications to include built-in support for services such as messaging, scheduling, caching, and daemons. TorqueBox provides an all-in-one environment, built upon the latest JBoss AS Java application server and JRuby. Functionality such as clustering, load-balancing and high-availability is included right out-of-the-box.
+
 
 - [The Ruby Web Benchmark Report](http://www.madebymarket.com/blog/dev/ruby-web-benchmark-report.html) (July 2014) — „I benchmarked every single version of Ruby available as of the beginning of this test — January 2014. On each version I benchmarked every Rack server and web framework combination I could find. I tested with both Apache Bench and wrk to see if there are flaws that one benchmarking tool picks up on that the other didn’t. The goal of the benchmark is the fastest benchmark run, not the average.“
 
