@@ -253,11 +253,11 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 
 - [AMQP](https://github.com/ruby-amqp/amqp) — EventMachine-based RabbitMQ client.
 - ★ [Bunny](http://rubybunny.info) — RabbitMQ Ruby client based on AMQP gem.
-- [Stalker](https://github.com/han/stalker) — a minimalist queuing DSL for Beanstalk.
 
 ### Background Jobs
 
 - [Backburner](https://github.com/nesquena/backburner) — a beanstalkd-powered job queue that can handle a very high volume of jobs.
+- [Stalker](https://github.com/han/stalker) — a minimalist queuing DSL for Beanstalk.
 - [Delayed::Job](https://github.com/tobi/delayed_job) — database backed asynchronous priority queue.
 - [Minion](https://github.com/orionz/minion) — simple job queue over AMPQ (based on AMQP gem and Bunny).
 - [Qu](https://github.com/bkeepers/qu) — a Ruby library for queuing and processing background jobs.
