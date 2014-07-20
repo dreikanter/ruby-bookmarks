@@ -346,11 +346,17 @@ Binary:
 
 ### SDK, API Wrappers, Service Clients
 
+- [AWS SDK](http://aws.amazon.com/sdkforruby/) — Amazon Web Services API for Ruby.
+- [Dropbox Core API](https://www.dropbox.com/developers/core/start/ruby) for Ruby.
 - [Fog](https://fog.io) — cloud services library, top to bottom: collections provide a simplified interface, making clouds easier to work with and switch between; requests allow power users to get the most out of the features of each individual cloud; mocks make testing and integrating a breeze.
 - [Yt](https://github.com/Fullscreen/yt) — YouTube API Ruby client.
-- [Dropbox Core API](https://www.dropbox.com/developers/core/start/ruby) for Ruby.
-- [AWS SDK](http://aws.amazon.com/sdkforruby/) — Amazon Web Services API for Ruby.
+
+### E-commerce
+
+- [FastSpring](https://github.com/fastspring/fastspring-ruby) — subscription API for Rails.
+- [Active Merchant](https://github.com/Shopify/active_merchant) — a simple and unified API to access dozens of different payment gateways with very different internal APIs.
 - [PayPal](https://github.com/paypal/rest-api-sdk-ruby) — this SDK provides Ruby APIs to create, process and manage payment.
+- [Shoppe](http://tryshoppe.com/) — e-commerce platform for Ruby on Rails.
 
 ### Testing
 
@@ -378,7 +384,6 @@ Binary:
 
 - [Prawn](https://github.com/prawnpdf/prawn) — fast, nimble PDF generation.
 - [Dalli](https://github.com/mperham/dalli) — high performance Memcached client for Ruby.
-- [Active Merchant](https://github.com/Shopify/active_merchant) — a simple and unified API to access dozens of different payment gateways with very different internal APIs.
 - [EventMachine](https://github.com/eventmachine/eventmachine) — fast, simple event-processing library.
 - [rpush](https://github.com/rpush/rpush) — push notification service, supporting Apple Push Notification Service, Google Cloud Messaging, Amazon Device Messaging, Windows Phone Push Notification Service.
 - [Rubyzip](https://github.com/rubyzip/rubyzip) — reading and writing zip files.
