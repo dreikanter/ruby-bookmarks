@@ -255,6 +255,8 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 
 - [AMQP](https://github.com/ruby-amqp/amqp) — EventMachine-based RabbitMQ client.
 - ★ [Bunny](http://rubybunny.info) — RabbitMQ Ruby client based on AMQP gem.
+- [rbzmq](https://github.com/zeromq/rbzmq) — Ruby binding for ZeroMQ.
+- ★ [ffi-rzmq](https://github.com/chuckremes/ffi-rzmq) — FFI bindings for ZeroMQ so the library can be used under JRuby and other FFI-compliant ruby runtimes.
 
 ### Background Jobs
 
