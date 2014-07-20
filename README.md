@@ -290,20 +290,18 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [MiniMagick](https://github.com/minimagick/minimagick) — a ruby wrapper for ImageMagick or GraphicsMagick command line.
 - [psd.rb](https://github.com/layervault/psd.rb) Parse Photoshop files in Ruby with ease
 
-### Parsers
-
-**HTML, XML**
+### HTML, XML
 
 - [Nokogiri](http://nokogiri.org) — an HTML, XML, SAX, and Reader parser. Among Nokogiri’s many features is the ability to search documents via XPath or CSS3 selectors.
 
-**CSS**
+### CSS
 
 - [LESS](https://github.com/cowboyd/less.rb) — leaner CSS, in your browser or Ruby.
 - [Bourbon](http://bourbon.io) — alightweight mixin library for Sass.
 - [SASS](https://github.com/sass/sass) — an extension of CSS3, adding nested rules, variables, mixins, selector inheritance, and more. It's translated to well-formatted, standard CSS using the command line tool or a web-framework plugin.
 - [Bitters](https://github.com/thoughtbot/bitters) — add a dash of pre-defined style to your Bourbon.
 
-**Markdown**
+### Markdown
 
 - [kramdown](https://github.com/gettalong/kramdown) — yet-another-markdown-parser but fast, pure Ruby, using a strict syntax definition and supporting several common extensions, http://kramdown.gettalong.org
 - [redcarpet](https://github.com/vmg/redcarpet) — a fast, safe and extensible Markdown to (X)HTML parser.
