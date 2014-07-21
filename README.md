@@ -386,6 +386,7 @@ Binary:
 - [Timecop](https://github.com/travisjeffery/timecop) — a gem providing "time travel", "time freezing", and "time acceleration" capabilities, making it simple to test time-dependent code. It provides a unified method to mock Time.now, Date.today, and DateTime.now in a single call.
 - [timecop-console](https://github.com/ferndopolis/timecop-console) — expose Timecop's capabilities to the UI in your rails app, allowing QA to take advantage of it.
 - [stackprof](https://github.com/tmm1/stackprof) — a sampling call-stack profiler for ruby 2.1+.
+- [stackprof-webnav](https://github.com/alisnic/stackprof-webnav) — web UI for viewing stackprof dumps.
 
 ### Misc
 
