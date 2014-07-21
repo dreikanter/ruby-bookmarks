@@ -93,6 +93,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [SitePoint](http://www.sitepoint.com/ruby/) — articles on Ruby programming.
 - [Better Specs](http://betterspecs.org) — RSpec best practices.
 - [Sourcegraph](https://sourcegraph.com) — search engine for code examples/ Here is a [demo video](https://www.youtube.com/watch?v=YYL0ZoPeB5w).
+- [Basic Algorithms written in Ruby](https://github.com/Djo/algorithms).
 
 ## Style Guides
 
