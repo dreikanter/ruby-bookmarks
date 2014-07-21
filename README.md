@@ -157,9 +157,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [Prax](http://ysbaddaden.github.io/prax/) — a pure ruby alternative to Pow! that runs on GNU/Linux.
 - [TorqueBox](http://torquebox.org) — an application platform that supports popular technologies such as Ruby on Rails and Sinatra, while extending the footprint of Ruby applications to include built-in support for services such as messaging, scheduling, caching, and daemons. TorqueBox provides an all-in-one environment, built upon the latest JBoss AS Java application server and JRuby. Functionality such as clustering, load-balancing and high-availability is included right out-of-the-box.
 
-
 - [The Ruby Web Benchmark Report](http://www.madebymarket.com/blog/dev/ruby-web-benchmark-report.html) (July 2014) — „I benchmarked every single version of Ruby available as of the beginning of this test — January 2014. On each version I benchmarked every Rack server and web framework combination I could find. I tested with both Apache Bench and wrk to see if there are flaws that one benchmarking tool picks up on that the other didn’t. The goal of the benchmark is the fastest benchmark run, not the average.“
-
 
 **Deployment Automation and Configuration Management**
 
@@ -277,11 +275,11 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 
 (info collected from [Stack Overflow](http://stackoverflow.com/questions/24745809/massive-scheduling-in-ruby))
 
-- [rufus-scheduler](https://github.com/jmettraux/rufus-scheduler) — an in-process, in-memory scheduler with no persistence, accepting at, in, cron and every jobs.
+- ★ [rufus-scheduler](https://github.com/jmettraux/rufus-scheduler) — an in-process, in-memory scheduler with no persistence, accepting at, in, cron and every jobs.
 - [sidekiq-cron](https://github.com/ondrejbartas/sidekiq-cron) — scheduler based on rufus-scheduler and [Sidekiq](http://sidekiq.org) ([Redis](http://redis.io) based message queue) for persistence. Inherits web UI from Sidekiq.
 - [sidekiq-scheduler](https://github.com/Moove-it/sidekiq-scheduler) — one more job scheduler based on rufus-scheduler and Sidekiq.
-- ★ [resque-scheduler](https://github.com/resque/resque-scheduler) — rufus-scheduler + Resque.
-- ★ [Clockwork](https://github.com/tomykaira/clockwork) — a cron replacement. It runs as a lightweight, long-running Ruby process which sits alongside your web processes (Mongrel/Thin) and your worker processes (DJ/Resque/Minion/Stalker) to schedule recurring work at particular times or dates. Here is a [blog post](http://adam.herokuapp.com/past/2010/4/13/rethinking_cron/) with more details.
+- [resque-scheduler](https://github.com/resque/resque-scheduler) — rufus-scheduler + Resque.
+- [Clockwork](https://github.com/tomykaira/clockwork) — a cron replacement. It runs as a lightweight, long-running Ruby process which sits alongside your web processes (Mongrel/Thin) and your worker processes (DJ/Resque/Minion/Stalker) to schedule recurring work at particular times or dates. Here is a [blog post](http://adam.herokuapp.com/past/2010/4/13/rethinking_cron/) with more details.
 - [Whenever](https://github.com/javan/whenever) — a Ruby wrapper for crond, with a clear syntax (each job is a separate process).
 
 ### Security
