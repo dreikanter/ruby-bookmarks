@@ -225,7 +225,6 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [Simple Form](https://github.com/plataformatec/simple_form) — forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.
 - [ResqueMailer](https://github.com/zapnap/resque_mailer) — Rails plugin for sending asynchronous email with ActionMailer and Resque.
 - [Paperclip](https://github.com/thoughtbot/paperclip) — easy file attachment management for ActiveRecord.
-- [Peek](https://github.com/peek/peek) — status bar with debug information for Rails apps.
 - [Jammit](http://documentcloud.github.io/jammit/) — an industrial strength asset packaging library for Rails, providing both the CSS and JavaScript concatenation and compression that you'd expect, as well as YUI Compressor, Closure Compiler, and UglifyJS compatibility, ahead-of-time gzipping, built-in JavaScript template support, and optional Data-URI / MHTML image and font embedding.
 - [Thinking Sphinx](https://github.com/pat/thinking-sphinx) — a library for connecting ActiveRecord to the Sphinx full-text search tool, and integrates closely with Rails (but also works with other Ruby web frameworks).
 - [CarrierWave](https://github.com/carrierwaveuploader/carrierwave) — classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks.
@@ -387,6 +386,9 @@ Binary:
 - [timecop-console](https://github.com/ferndopolis/timecop-console) — expose Timecop's capabilities to the UI in your rails app, allowing QA to take advantage of it.
 - [stackprof](https://github.com/tmm1/stackprof) — a sampling call-stack profiler for ruby 2.1+.
 - [stackprof-webnav](https://github.com/alisnic/stackprof-webnav) — web UI for viewing stackprof dumps.
+- [rblineprof](https://github.com/tmm1/rblineprof) — line-profiler.
+- [Peek](https://github.com/peek/peek) — status bar showing performance info for Rails apps.
+- [Peek::Rblineprof](https://github.com/peek/peek-rblineprof) — peek into how much each line of your Rails application takes throughout a request.
 
 ### Misc
 
