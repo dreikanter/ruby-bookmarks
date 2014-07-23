@@ -238,6 +238,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [Better Errors](https://github.com/charliesome/better_errors) — replaces the standard Rails error page with a much better and more useful error page. It is also usable outside of Rails in any Rack app as Rack middleware.
 - [Quiet Assets](https://github.com/evrone/quiet_assets) — turns off the Rails asset pipeline log.
 - [RailsAdmin](https://github.com/sferik/rails_admin) — a Rails engine that provides an easy-to-use interface for managing your data.
+- [font-awesome-rails](https://github.com/bokmann/font-awesome-rails) — the [Font Awesome](http://fortawesome.github.io/Font-Awesome/) font bundled as an asset for the rails asset pipeline.
 
 ### Rack
 
