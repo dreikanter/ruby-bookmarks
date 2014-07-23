@@ -399,3 +399,4 @@ Binary:
 - [Rubyzip](https://github.com/rubyzip/rubyzip) — reading and writing zip files.
 - [JsonCompare](https://github.com/a2design-company/json-compare) — returns the difference between two JSON files.
 - [Dante](https://github.com/nesquena/dante) — turn any ruby code into a daemon.
+- [thread](https://github.com/meh/ruby-thread) — extensions to the thread library (includes thread pool).
