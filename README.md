@@ -398,3 +398,4 @@ Binary:
 - [rpush](https://github.com/rpush/rpush) — push notification service, supporting Apple Push Notification Service, Google Cloud Messaging, Amazon Device Messaging, Windows Phone Push Notification Service.
 - [Rubyzip](https://github.com/rubyzip/rubyzip) — reading and writing zip files.
 - [JsonCompare](https://github.com/a2design-company/json-compare) — returns the difference between two JSON files.
+- [Dante](https://github.com/nesquena/dante) — turn any ruby code into a daemon.
