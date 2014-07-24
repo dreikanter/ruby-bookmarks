@@ -100,8 +100,11 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [A community-driven Ruby coding style guide](https://github.com/bbatsov/ruby-style-guide)
 - [A community-driven Rails 3 & 4 style guide](https://github.com/bbatsov/rails-style-guide)
 - [GitHub Ruby Coding Style](https://github.com/styleguide/ruby)
-- See also: [RuboCop](https://github.com/bbatsov/rubocop) — a Ruby static code analyzer, based on the community Ruby style guide.
 - [Thoughtbot Style Guides](https://github.com/thoughtbot/guides) — short guidelines on Ruby, Rails, Git some other technologies.
+
+See also [Code quality analysis tools](#tools).
+
+Code quality tools
 
 ## Podcasts
 
@@ -129,6 +132,11 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
     - [BracketHighlighter](https://github.com/facelessuser/BracketHighlighter) — bracket and tag highlighter for Sublime Text.
 - [RubyMine](http://jetbrains.com/ruby/) — intelligent Ruby and Rails IDE.
 - [Atom](http://atom.io) - a brand-new hackable text editor from Github.
+
+**Code quality analysis**
+
+- [RuboCop](https://github.com/bbatsov/rubocop) — a Ruby static code analyzer, based on the community Ruby style guide.
+- [RubyCritic](https://github.com/whitesmith/rubycritic) — a gem that wraps around static analysis gems such as Reek, Flay and Flog to provide a quality report of your Ruby code.
 
 **Environment management**
 
