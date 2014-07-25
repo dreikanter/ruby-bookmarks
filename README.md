@@ -102,9 +102,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [GitHub Ruby Coding Style](https://github.com/styleguide/ruby)
 - [Thoughtbot Style Guides](https://github.com/thoughtbot/guides) — short guidelines on Ruby, Rails, Git some other technologies.
 
-See also [Code quality analysis tools](#tools).
-
-Code quality tools
+See also [Code quality analysis tools](#code-quality-analysis).
 
 ## Podcasts
 
@@ -115,7 +113,7 @@ Code quality tools
 
 ## Tools
 
-**IDEs and text editors**
+### IDEs and text editors
 
 - StackOverflow: [What Ruby IDE do you prefer?](http://stackoverflow.com/questions/16991/what-ruby-ide-do-you-prefer)
 - ★ [Sublime Text](sublimetext.com) — one of the best text editors for coding. Here are some essential add-ons:
@@ -123,37 +121,37 @@ Code quality tools
     - [Soda Theme](http://buymeasoda.github.com/soda-theme/) — dark and light custom UI themes for Sublime Text.
     - [RSpec plugin](https://github.com/SublimeText/RSpec)
     - [ApplySyntax](https://github.com/facelessuser/ApplySyntax) — a plugin for Sublime Text 2 and 3 that allows you to detect and apply the syntax of files that might not otherwise be detected properly. For example, files with the .rb extension are usually Ruby files, but when they are found in a Rails project, they could be RSpec spec files, Cucumber step files, Ruby on Rails files (controllers, models, etc), or just plain Ruby files. This is actually the problem I was trying to solve when I started working on this plugin.
-    - [BeautifyRuby](https://github.com/CraigWilliams/BeautifyRuby) — beautifies Ruby code.
+    - [BeautifyRuby](https://github.com/CraigWilliams/BeautifyRuby) — beautifies Ruby code.
     - [Sublime Ruby Debugger](https://github.com/shuky19/sublime_debugger) — a debugger plugin for interactive ruby and RoR debugging on Sublime Text.
     - [All Autocomplete](https://github.com/alienhard/SublimeAllAutocomplete) — extends the default autocomplete to find matches in all open files.
-    - [ChangeQuotes](https://github.com/colinta/SublimeChangeQuotes) — converts single to double or double to single quotes. Attempts to preserve correct escaping, though this could be improved I'm sure.
+    - [ChangeQuotes](https://github.com/colinta/SublimeChangeQuotes) — converts single to double or double to single quotes. Attempts to preserve correct escaping, though this could be improved I'm sure.
     - [CoffeeScript](https://github.com/Xavura/CoffeeScript-Sublime-Plugin) — syntax highlighting and checking, commands, shortcuts, snippets, compilation and more.
     - [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements) — provides enhancements to the operations on Sidebar of Files and Folders.
     - [BracketHighlighter](https://github.com/facelessuser/BracketHighlighter) — bracket and tag highlighter for Sublime Text.
 - [RubyMine](http://jetbrains.com/ruby/) — intelligent Ruby and Rails IDE.
 - [Atom](http://atom.io) - a brand-new hackable text editor from Github.
 
-**Code quality analysis**
+### Code quality analysis
 
 - [RuboCop](https://github.com/bbatsov/rubocop) — a Ruby static code analyzer, based on the community Ruby style guide.
 - [RubyCritic](https://github.com/whitesmith/rubycritic) — a gem that wraps around static analysis gems such as Reek, Flay and Flog to provide a quality report of your Ruby code.
 
-**Environment management**
+### Environment management
 
 - ★ [rbenv](https://github.com/sstephenson/rbenv) — a tool to to pick a Ruby version for your application and guarantee that your development environment matches production. Put rbenv to work with Bundler for painless Ruby upgrades and bulletproof deployments.
 - [RVM](https://rvm.io) — a command-line tool which allows you to easily install, manage, and work with multiple ruby environments from interpreters to sets of gems.
 
-**Ruby distributions**
+### Ruby distributions
 
 - [RubyInstaller](http://rubyinstaller.org) — a self-contained Windows-based installer that includes the Ruby language, an execution environment, important documentation, and more.
 - [RubyStack](https://bitnami.com/stack/ruby) — a complete development environment for Ruby on Rails that can be deployed in one click. It includes the latest stable release of Ruby, RVM, Rails, Apache, NGinx, MySQL, SQLite, Git and Subversion, Memcache and Varnish, Sphinx, PHP and phpMyAdmin.
 
-**Documentation**
+### Documentation
 
 - [Dash](http://kapeli.com/dash) — an API Documentation Browser and Code Snippet Manager. Dash stores snippets of code and instantly searches offline documentation sets for 150+ APIs, including Ruby core libraries, and Ruby on Rails.
 - [Zeal](http://zealdocs.org/) – Dash alternative for Linux & Windows.
 
-**Application and Web Servers**
+### Application and Web Servers
 
 - [Unicorn](http://unicorn.bogomips.org) – Rack HTTP server for fast clients and Unix.
 - [Phusion Passenger](https://phusionpassenger.com) — a fast and robust web server and application server for Ruby, Python and Node.js.
@@ -167,13 +165,13 @@ Code quality tools
 
 - [The Ruby Web Benchmark Report](http://www.madebymarket.com/blog/dev/ruby-web-benchmark-report.html) (July 2014) — „I benchmarked every single version of Ruby available as of the beginning of this test — January 2014. On each version I benchmarked every Rack server and web framework combination I could find. I tested with both Apache Bench and wrk to see if there are flaws that one benchmarking tool picks up on that the other didn’t. The goal of the benchmark is the fastest benchmark run, not the average.“
 
-**Deployment Automation and Configuration Management**
+### Deployment Automation and Configuration Management
 
 - [Capistrano](https://github.com/capistrano/capistrano) — remote multi-server automation tool.
 - [Chef](https://github.com/opscode/chef) — a systems integration framework, built to bring the benefits of configuration management to your entire infrastructure.
 - [Mina](https://github.com/mina-deploy/mina) – really fast deployer and server automation tool.
 
-**Other tools**
+### Other tools
 
 - [Pry](https://github.com/pry/pry) — an IRB alternative and runtime developer console.
 - [Reek](https://github.com/troessner/reek) — code smell detection for Ruby.
