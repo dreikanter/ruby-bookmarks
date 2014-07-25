@@ -163,6 +163,8 @@ See also [Code quality analysis tools](#code-quality-analysis).
 - [Prax](http://ysbaddaden.github.io/prax/) — a pure ruby alternative to Pow! that runs on GNU/Linux.
 - [TorqueBox](http://torquebox.org) — an application platform that supports popular technologies such as Ruby on Rails and Sinatra, while extending the footprint of Ruby applications to include built-in support for services such as messaging, scheduling, caching, and daemons. TorqueBox provides an all-in-one environment, built upon the latest JBoss AS Java application server and JRuby. Functionality such as clustering, load-balancing and high-availability is included right out-of-the-box.
 
+See also:
+
 - [The Ruby Web Benchmark Report](http://www.madebymarket.com/blog/dev/ruby-web-benchmark-report.html) (July 2014) — „I benchmarked every single version of Ruby available as of the beginning of this test — January 2014. On each version I benchmarked every Rack server and web framework combination I could find. I tested with both Apache Bench and wrk to see if there are flaws that one benchmarking tool picks up on that the other didn’t. The goal of the benchmark is the fastest benchmark run, not the average.“
 
 ### Deployment Automation and Configuration Management
@@ -218,7 +220,9 @@ See also [Code quality analysis tools](#code-quality-analysis).
 - ★ [Cuba](https://github.com/soveran/cuba) — a microframework for web development originally inspired by [Rum](https://github.com/chneukirchen/rum), a tiny but powerful mapper for Rack applications. It integrates many templates via Tilt, and testing via Cutest and Capybara.
 - [Lotus](https://github.com/lotus/lotus) — a complete MVC web framework.
 
-[Benchmark results](http://www.madebymarket.com/blog/dev/ruby-web-benchmark-report.html) for different Ruby, web framework and app server combinations (actual on July 2014).
+See also:
+
+- [Benchmark results](http://www.madebymarket.com/blog/dev/ruby-web-benchmark-report.html) for different Ruby, web framework and app server combinations (actual on July 2014).
 
 ### API
 
@@ -339,6 +343,9 @@ Binary:
 - [redcarpet](https://github.com/vmg/redcarpet) — a fast, safe and extensible Markdown to (X)HTML parser.
 - [maruku](https://github.com/bhollis/maruku) — a pure-Ruby Markdown-superset interpreter.
 - [markup](https://github.com/github/markup) — the code GitHub uses to render `README.your_favorite_markup`.
+
+See also:
+
 - StackOverflow: [Better ruby markdown interpreter?](http://stackoverflow.com/questions/373002/better-ruby-markdown-interpreter)
 
 ### Template engines
