@@ -1,6 +1,6 @@
 # Ruby Bookmarks
 
-This is a curated collection of essential Ruby and Ruby on Rails resources. The project aims to maintain a well-structured reference equally useful both for beginners and advanced web developers. ★&nbsp;stands here for Editors' Choice.
+This is a curated collection of essential Ruby and Ruby on Rails resources. The project aims to maintain a well-structured reference equally useful both for beginners and advanced web developers. :star2:&nbsp;stands here for Editors' Choice.
 
 This list is not intended to include any random resource related to Ruby programming (we already have a most complete gem catalogue at [ruby-toolbox.com](https://ruby-toolbox.com)), but only the best and most actual alternatives in each area. You will find here latest editions of the most important books, time and community tested gems (alive projects only!), and actively updated websites. *Sharing and pull requests are very much appreciated!*
 
@@ -12,15 +12,15 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 
 ### For beginners and intermediate level developers
 
-- ★ [Eloquent Ruby](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional/dp/0321584104/) by Russ Olsen.
+- :star2: [Eloquent Ruby](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional/dp/0321584104/) by Russ Olsen.
 - [Programming Ruby 1.9 & 2.0](http://pragprog.com/book/ruby4/programming-ruby-1-9-2-0) by Dave Thomas, Andy Hunt, and Chad Fowler.
 - [Learn Ruby The Hard Way](http://ruby.learncodethehardway.org/book/) by Zed A. Shaw. Available to pre-order at [amazon](http://www.amazon.com/Learn-Ruby-Hard-Shaws-Series/dp/032188499X).
 - [The Ruby Programming Language](http://www.amazon.com/Ruby-Programming-Language-David-Flanagan/dp/0596516177) by David Flanagan and Yukihiro "Matz" Matsumoto
 
 ### Advancing Ruby knowledge
 
-- ★ [Ruby Under a Microscope: An Illustrated Guide to Ruby Internals](http://www.amazon.com/Ruby-Under-Microscope-Illustrated-Internals/dp/1593275277/) by Pat Shaughnessy.
-- ★ [Confident Ruby: 32 Patterns for Joyful Coding](http://www.amazon.com/Confident-Ruby-Patterns-Joyful-Coding-ebook/dp/B00ETE0D2S/) by Avdi Grimm.
+- :star2: [Ruby Under a Microscope: An Illustrated Guide to Ruby Internals](http://www.amazon.com/Ruby-Under-Microscope-Illustrated-Internals/dp/1593275277/) by Pat Shaughnessy.
+- :star2: [Confident Ruby: 32 Patterns for Joyful Coding](http://www.amazon.com/Confident-Ruby-Patterns-Joyful-Coding-ebook/dp/B00ETE0D2S/) by Avdi Grimm.
 - [Exceptional Ruby: Master the Art of Handling Failure in Ruby](http://pragprog.com/book/ager/exceptional-ruby) by Avdi Grimm.
 - [Metaprogramming Ruby: Program Like the Ruby Pros](http://www.amazon.com/Metaprogramming-Ruby-Program-Like-Pros-ebook/dp/B00A376YAK/) by Paolo Perrotta.
 - [The Well-Grounded Rubyist](http://www.amazon.com/The-Well-Grounded-Rubyist-David-Black/dp/1617291692/) by David A. Black.
@@ -28,7 +28,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 
 ### Ruby on Rails for beginners
 
-- ★ [The Rails 4 Way](http://www.amazon.com/Rails-Edition-Addison-Wesley-Professional-Series-ebook/dp/B00KKNO8YQ/) by Obie Fernandez and Kevin Faustino.
+- :star2: [The Rails 4 Way](http://www.amazon.com/Rails-Edition-Addison-Wesley-Professional-Series-ebook/dp/B00KKNO8YQ/) by Obie Fernandez and Kevin Faustino.
 - [Agile Web Development with Rails 4](http://www.amazon.com/Agile-Development-Rails-Facets-Ruby/dp/1937785564/) by Sam Ruby, Dave Thomas, and David Heinemeier Hansson.
 - [Rails 4 in Action](http://manning.com/bigg2) by Steve Klabnik, Ryan Bigg and Yehuda Katz.
 
@@ -58,19 +58,19 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 
 - [Ruby Inside](http://rubyinside.com) — one of the most popular Ruby blogs.
 - [RubyFlow](http://rubyflow.com) — the Ruby Community Blog.
-- ★ [Green Ruby News](http://greenruby.org)
+- :star2: [Green Ruby News](http://greenruby.org)
 - [Random Ruby and Rails tips](http://rubyquicktips.com)
-- ★ [Practicing Ruby](https://practicingruby.com) — delightful lessons for dedicated programmers.
+- :star2: [Practicing Ruby](https://practicingruby.com) — delightful lessons for dedicated programmers.
 - [Yehuda Katz](http://yehudakatz.com)
 - [Sitepoint](http://www.sitepoint.com/ruby/)
 - [A Fresh Cup](http://afreshcup.com/) - links to new resources and insightful blog posts.
 
 ## Screencasts and courses
 
-- ★ [Pluralsight](http://www.pluralsight.com/training/Courses#ruby) Ruby Course Library.
-- ★ [RubyTapas](http://rubytapas.com) by Avdi Grimm.
-- ★ [The Pragmatic Studio](http://pragmaticstudio.com)
-- ★ [Lynda.com](http://www.lynda.com/search?q=ruby)
+- :star2: [Pluralsight](http://www.pluralsight.com/training/Courses#ruby) Ruby Course Library.
+- :star2: [RubyTapas](http://rubytapas.com) by Avdi Grimm.
+- :star2: [The Pragmatic Studio](http://pragmaticstudio.com)
+- :star2: [Lynda.com](http://www.lynda.com/search?q=ruby)
 - [Ruby screencasts at TutsPlus.com](http://courses.tutsplus.com/topics/code/categories/ruby/courses)
 - [Rails screencasts at TutsPlus.com](http://courses.tutsplus.com/topics/code/categories/rails/courses)
 - [RailsCasts](http://railscasts.com)
@@ -118,7 +118,7 @@ See also:
 ### IDEs and text editors
 
 - StackOverflow: [What Ruby IDE do you prefer?](http://stackoverflow.com/questions/16991/what-ruby-ide-do-you-prefer)
-- ★ [Sublime Text](sublimetext.com) — one of the best text editors for coding. Here are some essential add-ons:
+- :star2: [Sublime Text](sublimetext.com) — one of the best text editors for coding. Here are some essential add-ons:
     - [Package Control](https://sublime.wbond.net) — Sublime Text package manager that makes it exceedingly simple to find, install and keep packages up-to-date.
     - [Soda Theme](http://buymeasoda.github.com/soda-theme/) — dark and light custom UI themes for Sublime Text.
     - [RSpec plugin](https://github.com/SublimeText/RSpec)
@@ -140,7 +140,7 @@ See also:
 
 ### Environment management
 
-- ★ [rbenv](https://github.com/sstephenson/rbenv) — a tool to to pick a Ruby version for your application and guarantee that your development environment matches production. Put rbenv to work with Bundler for painless Ruby upgrades and bulletproof deployments.
+- :star2: [rbenv](https://github.com/sstephenson/rbenv) — a tool to to pick a Ruby version for your application and guarantee that your development environment matches production. Put rbenv to work with Bundler for painless Ruby upgrades and bulletproof deployments.
 - [RVM](https://rvm.io) — a command-line tool which allows you to easily install, manage, and work with multiple ruby environments from interpreters to sets of gems.
 
 ### Ruby distributions
@@ -219,7 +219,7 @@ See also:
 - [Ruby on Rails](http://rubyonrails.org) — an open source full-stack framework web application framework.
 - [Sinatra](http://sinatrarb.com) — a DSL for quickly creating web applications in Ruby with minimal effort.
 - [Padrino](http://padrinorb.com) — a Ruby framework built upon the Sinatra web library, created to make it fun and easy to code more advanced web applications while still adhering to the spirit that makes Sinatra great!
-- ★ [Cuba](https://github.com/soveran/cuba) — a microframework for web development originally inspired by [Rum](https://github.com/chneukirchen/rum), a tiny but powerful mapper for Rack applications. It integrates many templates via Tilt, and testing via Cutest and Capybara.
+- :star2: [Cuba](https://github.com/soveran/cuba) — a microframework for web development originally inspired by [Rum](https://github.com/chneukirchen/rum), a tiny but powerful mapper for Rack applications. It integrates many templates via Tilt, and testing via Cutest and Capybara.
 - [Lotus](https://github.com/lotus/lotus) — a complete MVC web framework.
 
 See also:
@@ -241,7 +241,7 @@ See also:
 - [Thinking Sphinx](https://github.com/pat/thinking-sphinx) — a library for connecting ActiveRecord to the Sphinx full-text search tool, and integrates closely with Rails (but also works with other Ruby web frameworks).
 - [CarrierWave](https://github.com/carrierwaveuploader/carrierwave) — classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks.
 - [Kaminari](https://github.com/amatsuda/kaminari) — clean, powerful, customizable and sophisticated paginator for modern web app frameworks and ORMs.
-- ★ [dotenv](https://github.com/bkeepers/dotenv) — loads environment variables from .env file into ENV in development.
+- :star2: [dotenv](https://github.com/bkeepers/dotenv) — loads environment variables from .env file into ENV in development.
 - [suspenders](https://github.com/thoughtbot/suspenders) — a Rails template with [Thoughtbot](http://thoughtbot.com) standard defaults, ready to deploy to Heroku.
 - [High Voltage](https://github.com/thoughtbot/high_voltage) — easily include static pages in your Rails app.
 - [email_validator](https://github.com/balexand/email_validator) — an email validator for Rails 3 and 4.
@@ -269,9 +269,9 @@ See also:
 ### Message Queuing
 
 - [AMQP](https://github.com/ruby-amqp/amqp) — EventMachine-based RabbitMQ client.
-- ★ [Bunny](http://rubybunny.info) — RabbitMQ Ruby client based on AMQP gem.
+- :star2: [Bunny](http://rubybunny.info) — RabbitMQ Ruby client based on AMQP gem.
 - [rbzmq](https://github.com/zeromq/rbzmq) — Ruby binding for ZeroMQ.
-- ★ [ffi-rzmq](https://github.com/chuckremes/ffi-rzmq) — FFI bindings for ZeroMQ so the library can be used under JRuby and other FFI-compliant ruby runtimes.
+- :star2: [ffi-rzmq](https://github.com/chuckremes/ffi-rzmq) — FFI bindings for ZeroMQ so the library can be used under JRuby and other FFI-compliant ruby runtimes.
 
 ### Background Jobs
 
@@ -294,7 +294,7 @@ See also:
 
 (info collected from [Stack Overflow](http://stackoverflow.com/questions/24745809/massive-scheduling-in-ruby))
 
-- ★ [rufus-scheduler](https://github.com/jmettraux/rufus-scheduler) — an in-process, in-memory scheduler with no persistence, accepting at, in, cron and every jobs.
+- :star2: [rufus-scheduler](https://github.com/jmettraux/rufus-scheduler) — an in-process, in-memory scheduler with no persistence, accepting at, in, cron and every jobs.
 - [sidekiq-cron](https://github.com/ondrejbartas/sidekiq-cron) — scheduler based on rufus-scheduler and [Sidekiq](http://sidekiq.org) ([Redis](http://redis.io) based message queue) for persistence. Inherits web UI from Sidekiq.
 - [sidekiq-scheduler](https://github.com/Moove-it/sidekiq-scheduler) — one more job scheduler based on rufus-scheduler and Sidekiq.
 - [resque-scheduler](https://github.com/resque/resque-scheduler) — rufus-scheduler + Resque.
