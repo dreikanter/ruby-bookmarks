@@ -281,6 +281,11 @@ Code quality tools
 - [Sidekiq](http://sidekiq.org) — a full-featured background processing framework for Ruby. It aims to be simple to integrate with any modern Rails application and much higher performance than other existing solutions.
 - [Sucker Punch](https://github.com/brandonhilkert/sucker_punch) — an asynchronous processing library using Celluloid, heavily influenced by Sidekiq and girl_friday.
 
+### Multithreading
+
+- [thread](https://github.com/meh/ruby-thread) — extensions to the thread library (includes thread pool).
+- [Sprawling](https://github.com/dreikanter/ruby-bookmarks) — spawn gem for Rails to easily fork or thread long-running code blocks.
+
 ### Scheduling
 
 (info collected from [Stack Overflow](http://stackoverflow.com/questions/24745809/massive-scheduling-in-ruby))
@@ -410,4 +415,3 @@ Binary:
 - [Rubyzip](https://github.com/rubyzip/rubyzip) — reading and writing zip files.
 - [JsonCompare](https://github.com/a2design-company/json-compare) — returns the difference between two JSON files.
 - [Dante](https://github.com/nesquena/dante) — turn any ruby code into a daemon.
-- [thread](https://github.com/meh/ruby-thread) — extensions to the thread library (includes thread pool).
