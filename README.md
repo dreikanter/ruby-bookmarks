@@ -94,6 +94,9 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [Better Specs](http://betterspecs.org) — RSpec best practices.
 - [Sourcegraph](https://sourcegraph.com) — search engine for code examples/ Here is a [demo video](https://www.youtube.com/watch?v=YYL0ZoPeB5w).
 - [Basic Algorithms written in Ruby](https://github.com/Djo/algorithms).
+- [Jumpstart Lab](http://tutorials.jumpstartlab.com/) - a list of beginner and advanced-level Ruby, Rails, and Sinatra project tutorials.  Includes challenging independent projects as well.
+- [RubyOffRails](https://rubyoffrails.com/) - An online Ruby course recently open sourced.
+- [The Odin Project](http://www.theodinproject.com/ruby-programming) - an online Ruby lesson plan with a community to help.
 
 ## Style Guides
 
