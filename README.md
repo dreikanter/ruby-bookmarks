@@ -121,18 +121,7 @@ See also:
 ### IDEs and text editors
 
 - StackOverflow: [What Ruby IDE do you prefer?](http://stackoverflow.com/questions/16991/what-ruby-ide-do-you-prefer)
-- :star2: [Sublime Text](sublimetext.com) — one of the best text editors for coding. Here are some essential add-ons:
-    - [Package Control](https://sublime.wbond.net) — Sublime Text package manager that makes it exceedingly simple to find, install and keep packages up-to-date.
-    - [Soda Theme](http://buymeasoda.github.com/soda-theme/) — dark and light custom UI themes for Sublime Text.
-    - [RSpec plugin](https://github.com/SublimeText/RSpec)
-    - [ApplySyntax](https://github.com/facelessuser/ApplySyntax) — a plugin for Sublime Text 2 and 3 that allows you to detect and apply the syntax of files that might not otherwise be detected properly. For example, files with the .rb extension are usually Ruby files, but when they are found in a Rails project, they could be RSpec spec files, Cucumber step files, Ruby on Rails files (controllers, models, etc), or just plain Ruby files. This is actually the problem I was trying to solve when I started working on this plugin.
-    - [BeautifyRuby](https://github.com/CraigWilliams/BeautifyRuby) — beautifies Ruby code.
-    - [Sublime Ruby Debugger](https://github.com/shuky19/sublime_debugger) — a debugger plugin for interactive ruby and RoR debugging on Sublime Text.
-    - [All Autocomplete](https://github.com/alienhard/SublimeAllAutocomplete) — extends the default autocomplete to find matches in all open files.
-    - [ChangeQuotes](https://github.com/colinta/SublimeChangeQuotes) — converts single to double or double to single quotes. Attempts to preserve correct escaping, though this could be improved I'm sure.
-    - [CoffeeScript](https://github.com/Xavura/CoffeeScript-Sublime-Plugin) — syntax highlighting and checking, commands, shortcuts, snippets, compilation and more.
-    - [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements) — provides enhancements to the operations on Sidebar of Files and Folders.
-    - [BracketHighlighter](https://github.com/facelessuser/BracketHighlighter) — bracket and tag highlighter for Sublime Text.
+- :star2: [Sublime Text](sublimetext.com) — one of the best text editors for coding. Take a look at [Sublime Bookmarks](https://github.com/dreikanter/sublime-bookmarks) — a comprehensive list of plugins and other related stuff.
 - [RubyMine](http://jetbrains.com/ruby/) — intelligent Ruby and Rails IDE.
 - [Atom](http://atom.io) - a brand-new hackable text editor from Github.
 
