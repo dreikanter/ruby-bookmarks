@@ -143,7 +143,8 @@ See also:
 ### Documentation
 
 - [Dash](http://kapeli.com/dash) — an API Documentation Browser and Code Snippet Manager. Dash stores snippets of code and instantly searches offline documentation sets for 150+ APIs, including Ruby core libraries, and Ruby on Rails.
-- [Zeal](http://zealdocs.org/) – Dash alternative for Linux & Windows.
+- [Zeal](http://zealdocs.org) – Dash alternative for Linux & Windows.
+- [DevDocs](http://devdocs.io) — multiple API documentations in a fast, organized, and searchable web interface.
 
 ### Application and Web Servers
 
