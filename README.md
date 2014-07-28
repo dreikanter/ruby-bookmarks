@@ -270,6 +270,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [Resque](https://github.com/resque/resque) — a Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later.
 - [Sidekiq](http://sidekiq.org) — a full-featured background processing framework for Ruby. It aims to be simple to integrate with any modern Rails application and much higher performance than other existing solutions.
 - [Sucker Punch](https://github.com/brandonhilkert/sucker_punch) — an asynchronous processing library using Celluloid, heavily influenced by Sidekiq and girl_friday.
+- [Ost](https://github.com/soveran/ost) — a lightweight Redis based queues and workers.
 
 ### Scheduling
 
