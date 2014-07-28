@@ -242,7 +242,7 @@ See also:
 - [Better Errors](https://github.com/charliesome/better_errors) — replaces the standard Rails error page with a much better and more useful error page. It is also usable outside of Rails in any Rack app as Rack middleware.
 - [Quiet Assets](https://github.com/evrone/quiet_assets) — turns off the Rails asset pipeline log.
 - [RailsAdmin](https://github.com/sferik/rails_admin) — a Rails engine that provides an easy-to-use interface for managing your data.
-- [paper_trail](https://github.com/airblade/paper_trail) — track changes to your models' data. Good for auditing or versioning.Track changes to your models' data. Good for auditing or versioning.
+- [paper_trail](https://github.com/airblade/paper_trail) — track changes to your models' data. Good for auditing or versioning.
 - [font-awesome-rails](https://github.com/bokmann/font-awesome-rails) — the [Font Awesome](http://fortawesome.github.io/Font-Awesome/) font bundled as an asset for the rails asset pipeline.
 - [gemoji](https://github.com/github/gemoji) — emoji images and names.
 - [rails_emoji](https://github.com/jsw0528/rails_emoji) — one more emoji gem for Ruby on Rails.
