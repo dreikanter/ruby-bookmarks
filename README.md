@@ -343,7 +343,7 @@ Binary:
 - [Hatchet](https://github.com/gshutler/hatchet) — logging library that provides the ability to add class/module specific filters.
 - [Whoops](http://whoopsapp.com) — a free, self-hosted tool for logging application events like errors or background worker completion (uses Rails for web frontend and MongoDB).
 
-### SDK, API Wrappers, Service Clients
+### SDKs and API Wrapers
 
 - [AWS SDK](http://aws.amazon.com/sdkforruby/) — Amazon Web Services API for Ruby.
 - [Dropbox Core API](https://www.dropbox.com/developers/core/start/ruby) for Ruby.
