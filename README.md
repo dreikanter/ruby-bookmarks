@@ -1,6 +1,6 @@
 # Ruby Bookmarks
 
-This is a curated collection of essential Ruby and Ruby on Rails resources. The project aims to maintain a well-structured reference equally useful both for beginners and advanced web developers. ★&nbsp;stands here for Editors' Choice.
+This is a curated collection of essential Ruby and Ruby on Rails resources. The project aims to maintain a well-structured reference equally useful both for beginners and advanced web developers. :star2:&nbsp;stands here for Editors' Choice.
 
 This list is not intended to include any random resource related to Ruby programming (we already have a most complete gem catalogue at [ruby-toolbox.com](https://ruby-toolbox.com)), but only the best and most actual alternatives in each area. You will find here latest editions of the most important books, time and community tested gems (alive projects only!), and actively updated websites. *Sharing and pull requests are very much appreciated!*
 
@@ -10,36 +10,36 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 
 ## Books
 
-**For beginners and intermediate level developers**
+### For beginners and intermediate level developers
 
-- ★ [Eloquent Ruby](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional/dp/0321584104/) by Russ Olsen.
+- :star2: [Eloquent Ruby](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional/dp/0321584104/) by Russ Olsen.
 - [Programming Ruby 1.9 & 2.0](http://pragprog.com/book/ruby4/programming-ruby-1-9-2-0) by Dave Thomas, Andy Hunt, and Chad Fowler.
 - [Learn Ruby The Hard Way](http://ruby.learncodethehardway.org/book/) by Zed A. Shaw. Available to pre-order at [amazon](http://www.amazon.com/Learn-Ruby-Hard-Shaws-Series/dp/032188499X).
 - [The Ruby Programming Language](http://www.amazon.com/Ruby-Programming-Language-David-Flanagan/dp/0596516177) by David Flanagan and Yukihiro "Matz" Matsumoto
 
-**Advancing Ruby knowledge**
+### Advancing Ruby knowledge
 
-- ★ [Ruby Under a Microscope: An Illustrated Guide to Ruby Internals](http://www.amazon.com/Ruby-Under-Microscope-Illustrated-Internals/dp/1593275277/) by Pat Shaughnessy.
-- ★ [Confident Ruby: 32 Patterns for Joyful Coding](http://www.amazon.com/Confident-Ruby-Patterns-Joyful-Coding-ebook/dp/B00ETE0D2S/) by Avdi Grimm.
+- :star2: [Ruby Under a Microscope: An Illustrated Guide to Ruby Internals](http://www.amazon.com/Ruby-Under-Microscope-Illustrated-Internals/dp/1593275277/) by Pat Shaughnessy.
+- :star2: [Confident Ruby: 32 Patterns for Joyful Coding](http://www.amazon.com/Confident-Ruby-Patterns-Joyful-Coding-ebook/dp/B00ETE0D2S/) by Avdi Grimm.
 - [Exceptional Ruby: Master the Art of Handling Failure in Ruby](http://pragprog.com/book/ager/exceptional-ruby) by Avdi Grimm.
 - [Metaprogramming Ruby: Program Like the Ruby Pros](http://www.amazon.com/Metaprogramming-Ruby-Program-Like-Pros-ebook/dp/B00A376YAK/) by Paolo Perrotta.
 - [The Well-Grounded Rubyist](http://www.amazon.com/The-Well-Grounded-Rubyist-David-Black/dp/1617291692/) by David A. Black.
 - [Practical Object-Oriented Development in Ruby](http://poodr.com) by Sandi Metz.
 
-**Ruby on Rails for beginners**
+### Ruby on Rails for beginners
 
-- ★ [The Rails 4 Way](http://www.amazon.com/Rails-Edition-Addison-Wesley-Professional-Series-ebook/dp/B00KKNO8YQ/) by Obie Fernandez and Kevin Faustino.
+- :star2: [The Rails 4 Way](http://www.amazon.com/Rails-Edition-Addison-Wesley-Professional-Series-ebook/dp/B00KKNO8YQ/) by Obie Fernandez and Kevin Faustino.
 - [Agile Web Development with Rails 4](http://www.amazon.com/Agile-Development-Rails-Facets-Ruby/dp/1937785564/) by Sam Ruby, Dave Thomas, and David Heinemeier Hansson.
 - [Rails 4 in Action](http://manning.com/bigg2) by Steve Klabnik, Ryan Bigg and Yehuda Katz.
 
-**Ruby on Rails, advanced level**
+### Ruby on Rails, advanced level
 
 - [Crafting Rails 4 Applications: Expert Practices for Everyday Rails Development](http://www.amazon.com/Crafting-Rails-Applications-Practices-Development/dp/1937785556/) by José Valim.
 - [Rails AntiPatterns: Best Practice Ruby on Rails Refactoring](http://www.amazon.com/Rails-AntiPatterns-Refactoring-Addison-Wesley-Professional/dp/0321604814/) by Chad Pytel, Tammer Saleh.
 - [Deploying Rails: Automate, Deploy, Scale, Maintain, and Sleep at Night](http://www.amazon.com/Deploying-Rails-Automate-Deploy-Maintain/dp/1934356956/) by Tom Copeland, Anthony Burns.
 - [Multitenancy with Rails](http://leanpub.com/multi-tenancy-rails) by Ryan Bigg.
 
-**Testing**
+### Testing
 
 - [The RSpec Book: Behaviour Driven Development with RSpec, Cucumber, and Friends](http://www.amazon.com/The-RSpec-Book-Behaviour-Development/dp/1934356379/) by David Chelimsky, Dave Astels, Bryan Helmkamp, Dan North, Zach Dennis, Aslak Hellesoy.
 - [Rails 4 Test Prescriptions: Build a Healthy Codebase](http://pragprog.com/book/nrtest2/rails-4-test-prescriptions) by Noel Rappin — a comprehensive guide to how tests can help you design and write better Rails applications. In this completely revised edition, you’ll learn why testing works and how to test effectively using Rails 4, Minitest 5, and RSpec 3, as well as popular testing libraries such as factory_girl and Cucumber.
@@ -47,7 +47,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [Everyday Rails Testing with RSpec](https://leanpub.com/everydayrailsrspec) by Aaron Sumner. Practical advice for adding reliable tests to your Rails apps with RSpec
 - [What Do I Test?](https://whatdoitest.com/) by Eric Steele.
 
-**Other frameworks and tools**
+### Other frameworks and tools
 
 - [RubyMotion](http://www.amazon.com/RubyMotion-Pragmatic-Programmers-Clay-Allsopp/dp/1937785289/) by Clay Allsopp.
 - [Build Awesome Command-Line Applications in Ruby 2](http://pragprog.com/book/dccar2/build-awesome-command-line-applications-in-ruby-2) by David Copeland
@@ -58,19 +58,19 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 
 - [Ruby Inside](http://rubyinside.com) — one of the most popular Ruby blogs.
 - [RubyFlow](http://rubyflow.com) — the Ruby Community Blog.
-- ★ [Green Ruby News](http://greenruby.org)
+- :star2: [Green Ruby News](http://greenruby.org)
 - [Random Ruby and Rails tips](http://rubyquicktips.com)
-- ★ [Practicing Ruby](https://practicingruby.com) — delightful lessons for dedicated programmers.
+- :star2: [Practicing Ruby](https://practicingruby.com) — delightful lessons for dedicated programmers.
 - [Yehuda Katz](http://yehudakatz.com)
 - [Sitepoint](http://www.sitepoint.com/ruby/)
 - [A Fresh Cup](http://afreshcup.com/) - links to new resources and insightful blog posts.
 
 ## Screencasts and courses
 
-- ★ [Pluralsight](http://www.pluralsight.com/training/Courses#ruby) Ruby Course Library.
-- ★ [RubyTapas](http://rubytapas.com) by Avdi Grimm.
-- ★ [The Pragmatic Studio](http://pragmaticstudio.com)
-- ★ [Lynda.com](http://www.lynda.com/search?q=ruby)
+- :star2: [Pluralsight](http://www.pluralsight.com/training/Courses#ruby) Ruby Course Library.
+- :star2: [RubyTapas](http://rubytapas.com) by Avdi Grimm.
+- :star2: [The Pragmatic Studio](http://pragmaticstudio.com)
+- :star2: [Lynda.com](http://www.lynda.com/search?q=ruby)
 - [Ruby screencasts at TutsPlus.com](http://courses.tutsplus.com/topics/code/categories/ruby/courses)
 - [Rails screencasts at TutsPlus.com](http://courses.tutsplus.com/topics/code/categories/rails/courses)
 - [RailsCasts](http://railscasts.com)
@@ -94,14 +94,20 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [Better Specs](http://betterspecs.org) — RSpec best practices.
 - [Sourcegraph](https://sourcegraph.com) — search engine for code examples/ Here is a [demo video](https://www.youtube.com/watch?v=YYL0ZoPeB5w).
 - [Basic Algorithms written in Ruby](https://github.com/Djo/algorithms).
+- [Jumpstart Lab](http://tutorials.jumpstartlab.com/) - a list of beginner and advanced-level Ruby, Rails, and Sinatra project tutorials.  Includes challenging independent projects as well.
+- [RubyOffRails](https://rubyoffrails.com/) - An online Ruby course recently open sourced.
+- [The Odin Project](http://www.theodinproject.com/ruby-programming) - an online Ruby lesson plan with a community to help.
 
 ## Style Guides
 
 - [A community-driven Ruby coding style guide](https://github.com/bbatsov/ruby-style-guide)
 - [A community-driven Rails 3 & 4 style guide](https://github.com/bbatsov/rails-style-guide)
 - [GitHub Ruby Coding Style](https://github.com/styleguide/ruby)
-- See also: [RuboCop](https://github.com/bbatsov/rubocop) — a Ruby static code analyzer, based on the community Ruby style guide.
 - [Thoughtbot Style Guides](https://github.com/thoughtbot/guides) — short guidelines on Ruby, Rails, Git some other technologies.
+
+See also:
+
+- [Code quality analysis tools](#code-quality-analysis).
 
 ## Podcasts
 
@@ -112,40 +118,34 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 
 ## Tools
 
-**IDEs and text editors**
+### IDEs and text editors
 
 - StackOverflow: [What Ruby IDE do you prefer?](http://stackoverflow.com/questions/16991/what-ruby-ide-do-you-prefer)
-- ★ [Sublime Text](sublimetext.com) — one of the best text editors for coding. Here are some essential add-ons:
-    - [Package Control](https://sublime.wbond.net) — Sublime Text package manager that makes it exceedingly simple to find, install and keep packages up-to-date.
-    - [Soda Theme](http://buymeasoda.github.com/soda-theme/) — dark and light custom UI themes for Sublime Text.
-    - [RSpec plugin](https://github.com/SublimeText/RSpec)
-    - [ApplySyntax](https://github.com/facelessuser/ApplySyntax) — a plugin for Sublime Text 2 and 3 that allows you to detect and apply the syntax of files that might not otherwise be detected properly. For example, files with the .rb extension are usually Ruby files, but when they are found in a Rails project, they could be RSpec spec files, Cucumber step files, Ruby on Rails files (controllers, models, etc), or just plain Ruby files. This is actually the problem I was trying to solve when I started working on this plugin.
-    - [BeautifyRuby](https://github.com/CraigWilliams/BeautifyRuby) — beautifies Ruby code.
-    - [Sublime Ruby Debugger](https://github.com/shuky19/sublime_debugger) — a debugger plugin for interactive ruby and RoR debugging on Sublime Text.
-    - [All Autocomplete](https://github.com/alienhard/SublimeAllAutocomplete) — extends the default autocomplete to find matches in all open files.
-    - [ChangeQuotes](https://github.com/colinta/SublimeChangeQuotes) — converts single to double or double to single quotes. Attempts to preserve correct escaping, though this could be improved I'm sure.
-    - [CoffeeScript](https://github.com/Xavura/CoffeeScript-Sublime-Plugin) — syntax highlighting and checking, commands, shortcuts, snippets, compilation and more.
-    - [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements) — provides enhancements to the operations on Sidebar of Files and Folders.
-    - [BracketHighlighter](https://github.com/facelessuser/BracketHighlighter) — bracket and tag highlighter for Sublime Text.
+- :star2: [Sublime Text](sublimetext.com) — one of the best text editors for coding. Take a look at [Sublime Bookmarks](https://github.com/dreikanter/sublime-bookmarks) — a comprehensive list of plugins and other related stuff.
 - [RubyMine](http://jetbrains.com/ruby/) — intelligent Ruby and Rails IDE.
 - [Atom](http://atom.io) - a brand-new hackable text editor from Github.
 
-**Environment management**
+### Code quality analysis
 
-- ★ [rbenv](https://github.com/sstephenson/rbenv) — a tool to to pick a Ruby version for your application and guarantee that your development environment matches production. Put rbenv to work with Bundler for painless Ruby upgrades and bulletproof deployments.
+- [RuboCop](https://github.com/bbatsov/rubocop) — a Ruby static code analyzer, based on the community Ruby style guide.
+- [RubyCritic](https://github.com/whitesmith/rubycritic) — a gem that wraps around static analysis gems such as Reek, Flay and Flog to provide a quality report of your Ruby code.
+
+### Environment management
+
+- :star2: [rbenv](https://github.com/sstephenson/rbenv) — a tool to to pick a Ruby version for your application and guarantee that your development environment matches production. Put rbenv to work with Bundler for painless Ruby upgrades and bulletproof deployments.
 - [RVM](https://rvm.io) — a command-line tool which allows you to easily install, manage, and work with multiple ruby environments from interpreters to sets of gems.
 
-**Ruby distributions**
+### Ruby distributions
 
 - [RubyInstaller](http://rubyinstaller.org) — a self-contained Windows-based installer that includes the Ruby language, an execution environment, important documentation, and more.
 - [RubyStack](https://bitnami.com/stack/ruby) — a complete development environment for Ruby on Rails that can be deployed in one click. It includes the latest stable release of Ruby, RVM, Rails, Apache, NGinx, MySQL, SQLite, Git and Subversion, Memcache and Varnish, Sphinx, PHP and phpMyAdmin.
 
-**Documentation**
+### Documentation
 
 - [Dash](http://kapeli.com/dash) — an API Documentation Browser and Code Snippet Manager. Dash stores snippets of code and instantly searches offline documentation sets for 150+ APIs, including Ruby core libraries, and Ruby on Rails.
 - [Zeal](http://zealdocs.org/) – Dash alternative for Linux & Windows.
 
-**Application and Web Servers**
+### Application and Web Servers
 
 - [Unicorn](http://unicorn.bogomips.org) – Rack HTTP server for fast clients and Unix.
 - [Phusion Passenger](https://phusionpassenger.com) — a fast and robust web server and application server for Ruby, Python and Node.js.
@@ -157,15 +157,17 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [Prax](http://ysbaddaden.github.io/prax/) — a pure ruby alternative to Pow! that runs on GNU/Linux.
 - [TorqueBox](http://torquebox.org) — an application platform that supports popular technologies such as Ruby on Rails and Sinatra, while extending the footprint of Ruby applications to include built-in support for services such as messaging, scheduling, caching, and daemons. TorqueBox provides an all-in-one environment, built upon the latest JBoss AS Java application server and JRuby. Functionality such as clustering, load-balancing and high-availability is included right out-of-the-box.
 
+See also:
+
 - [The Ruby Web Benchmark Report](http://www.madebymarket.com/blog/dev/ruby-web-benchmark-report.html) (July 2014) — „I benchmarked every single version of Ruby available as of the beginning of this test — January 2014. On each version I benchmarked every Rack server and web framework combination I could find. I tested with both Apache Bench and wrk to see if there are flaws that one benchmarking tool picks up on that the other didn’t. The goal of the benchmark is the fastest benchmark run, not the average.“
 
-**Deployment Automation and Configuration Management**
+### Deployment Automation and Configuration Management
 
 - [Capistrano](https://github.com/capistrano/capistrano) — remote multi-server automation tool.
 - [Chef](https://github.com/opscode/chef) — a systems integration framework, built to bring the benefits of configuration management to your entire infrastructure.
 - [Mina](https://github.com/mina-deploy/mina) – really fast deployer and server automation tool.
 
-**Other tools**
+### Other tools
 
 - [Pry](https://github.com/pry/pry) — an IRB alternative and runtime developer console.
 - [Reek](https://github.com/troessner/reek) — code smell detection for Ruby.
@@ -184,18 +186,18 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 
 ## Hosting
 
-**VPS**
+### VPS
 
 - [DigitalOcean](https://digitalocean.com) — fast VPS hosting. Among other features they provide one-click Rails installation that uses Nginx with Unicorn on Ubuntu.
 
-**PAAS**
+### PAAS
 
 - [Heroku](https://heroku.com) — cloud computing designed and built for developers. [More details](https://devcenter.heroku.com/categories/language-support#ruby) on Ruby support.
 - [NineFold](https://ninefold.com) — Rails-friendly hosting with a generous free tier (1.5 GB RAM, 1 CPU, 25 GB for DataBase server in the US region). Credit card required even if you fit the free tier.
 - [OpenShift](https://www.openshift.com) — Red Hat's Platform-as-a-Service that allows developers to quickly develop, host, and scale applications in a cloud environment. Capable for Rails apps [git-push deployment](https://www.openshift.com/developers/ruby). There also [a free tier](https://www.openshift.com/products/pricing) (no credit card required).
 - [AppFog](https://appfog.com) — another developer-friendly cloud service.
 
-**Some materials on Rails deployment**
+### Some materials on Rails deployment
 
 - [A guide to setting up a Ruby on Rails production environment](https://gorails.com/deploy/ubuntu/14.04) at DigitalOcean.
 - [How To Automate Ruby On Rails Application Deployments Using Capistrano](https://www.digitalocean.com/community/tutorials/how-to-automate-ruby-on-rails-application-deployments-using-capistrano)
@@ -209,10 +211,12 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [Ruby on Rails](http://rubyonrails.org) — an open source full-stack framework web application framework.
 - [Sinatra](http://sinatrarb.com) — a DSL for quickly creating web applications in Ruby with minimal effort.
 - [Padrino](http://padrinorb.com) — a Ruby framework built upon the Sinatra web library, created to make it fun and easy to code more advanced web applications while still adhering to the spirit that makes Sinatra great!
-- ★ [Cuba](https://github.com/soveran/cuba) — a microframework for web development originally inspired by [Rum](https://github.com/chneukirchen/rum), a tiny but powerful mapper for Rack applications. It integrates many templates via Tilt, and testing via Cutest and Capybara.
+- :star2: [Cuba](https://github.com/soveran/cuba) — a microframework for web development originally inspired by [Rum](https://github.com/chneukirchen/rum), a tiny but powerful mapper for Rack applications. It integrates many templates via Tilt, and testing via Cutest and Capybara.
 - [Lotus](https://github.com/lotus/lotus) — a complete MVC web framework.
 
-[Benchmark results](http://www.madebymarket.com/blog/dev/ruby-web-benchmark-report.html) for different Ruby, web framework and app server combinations (actual on July 2014).
+See also:
+
+- [Benchmark results](http://www.madebymarket.com/blog/dev/ruby-web-benchmark-report.html) for different Ruby, web framework and app server combinations (actual on July 2014).
 
 ### API
 
@@ -225,12 +229,11 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [Simple Form](https://github.com/plataformatec/simple_form) — forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.
 - [ResqueMailer](https://github.com/zapnap/resque_mailer) — Rails plugin for sending asynchronous email with ActionMailer and Resque.
 - [Paperclip](https://github.com/thoughtbot/paperclip) — easy file attachment management for ActiveRecord.
-- [Peek](https://github.com/peek/peek) — status bar with debug information for Rails apps.
 - [Jammit](http://documentcloud.github.io/jammit/) — an industrial strength asset packaging library for Rails, providing both the CSS and JavaScript concatenation and compression that you'd expect, as well as YUI Compressor, Closure Compiler, and UglifyJS compatibility, ahead-of-time gzipping, built-in JavaScript template support, and optional Data-URI / MHTML image and font embedding.
 - [Thinking Sphinx](https://github.com/pat/thinking-sphinx) — a library for connecting ActiveRecord to the Sphinx full-text search tool, and integrates closely with Rails (but also works with other Ruby web frameworks).
 - [CarrierWave](https://github.com/carrierwaveuploader/carrierwave) — classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks.
 - [Kaminari](https://github.com/amatsuda/kaminari) — clean, powerful, customizable and sophisticated paginator for modern web app frameworks and ORMs.
-- ★ [dotenv](https://github.com/bkeepers/dotenv) — loads environment variables from .env file into ENV in development.
+- :star2: [dotenv](https://github.com/bkeepers/dotenv) — loads environment variables from .env file into ENV in development.
 - [suspenders](https://github.com/thoughtbot/suspenders) — a Rails template with [Thoughtbot](http://thoughtbot.com) standard defaults, ready to deploy to Heroku.
 - [High Voltage](https://github.com/thoughtbot/high_voltage) — easily include static pages in your Rails app.
 - [email_validator](https://github.com/balexand/email_validator) — an email validator for Rails 3 and 4.
@@ -238,6 +241,11 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [Metamagic](https://github.com/lassebunk/metamagic) — a simple Ruby on Rails plugin for creating meta tags. It supports regular meta tags, OpenGraph (Facebook), Twitter Cards, and custom tags.
 - [Better Errors](https://github.com/charliesome/better_errors) — replaces the standard Rails error page with a much better and more useful error page. It is also usable outside of Rails in any Rack app as Rack middleware.
 - [Quiet Assets](https://github.com/evrone/quiet_assets) — turns off the Rails asset pipeline log.
+- [RailsAdmin](https://github.com/sferik/rails_admin) — a Rails engine that provides an easy-to-use interface for managing your data.
+- [paper_trail](https://github.com/airblade/paper_trail) — track changes to your models' data. Good for auditing or versioning.
+- [font-awesome-rails](https://github.com/bokmann/font-awesome-rails) — the [Font Awesome](http://fortawesome.github.io/Font-Awesome/) font bundled as an asset for the rails asset pipeline.
+- [gemoji](https://github.com/github/gemoji) — emoji images and names.
+- [rails_emoji](https://github.com/jsw0528/rails_emoji) — one more emoji gem for Ruby on Rails.
 
 ### Rack
 
@@ -255,9 +263,9 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 ### Message Queuing
 
 - [AMQP](https://github.com/ruby-amqp/amqp) — EventMachine-based RabbitMQ client.
-- ★ [Bunny](http://rubybunny.info) — RabbitMQ Ruby client based on AMQP gem.
+- :star2: [Bunny](http://rubybunny.info) — RabbitMQ Ruby client based on AMQP gem.
 - [rbzmq](https://github.com/zeromq/rbzmq) — Ruby binding for ZeroMQ.
-- ★ [ffi-rzmq](https://github.com/chuckremes/ffi-rzmq) — FFI bindings for ZeroMQ so the library can be used under JRuby and other FFI-compliant ruby runtimes.
+- :star2: [ffi-rzmq](https://github.com/chuckremes/ffi-rzmq) — FFI bindings for ZeroMQ so the library can be used under JRuby and other FFI-compliant ruby runtimes.
 
 ### Background Jobs
 
@@ -273,11 +281,16 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [Ost](https://github.com/soveran/ost) — a lightweight Redis based queues and workers.
 - [Ohm](https://github.com/soveran/ohm) — object-hash mapping for Redis.
 
+### Multithreading
+
+- [thread](https://github.com/meh/ruby-thread) — extensions to the thread library (includes thread pool).
+- [Sprawling](https://github.com/dreikanter/ruby-bookmarks) — spawn gem for Rails to easily fork or thread long-running code blocks.
+
 ### Scheduling
 
 (info collected from [Stack Overflow](http://stackoverflow.com/questions/24745809/massive-scheduling-in-ruby))
 
-- ★ [rufus-scheduler](https://github.com/jmettraux/rufus-scheduler) — an in-process, in-memory scheduler with no persistence, accepting at, in, cron and every jobs.
+- :star2: [rufus-scheduler](https://github.com/jmettraux/rufus-scheduler) — an in-process, in-memory scheduler with no persistence, accepting at, in, cron and every jobs.
 - [sidekiq-cron](https://github.com/ondrejbartas/sidekiq-cron) — scheduler based on rufus-scheduler and [Sidekiq](http://sidekiq.org) ([Redis](http://redis.io) based message queue) for persistence. Inherits web UI from Sidekiq.
 - [sidekiq-scheduler](https://github.com/Moove-it/sidekiq-scheduler) — one more job scheduler based on rufus-scheduler and Sidekiq.
 - [resque-scheduler](https://github.com/resque/resque-scheduler) — rufus-scheduler + Resque.
@@ -328,6 +341,9 @@ Binary:
 - [redcarpet](https://github.com/vmg/redcarpet) — a fast, safe and extensible Markdown to (X)HTML parser.
 - [maruku](https://github.com/bhollis/maruku) — a pure-Ruby Markdown-superset interpreter.
 - [markup](https://github.com/github/markup) — the code GitHub uses to render `README.your_favorite_markup`.
+
+See also:
+
 - StackOverflow: [Better ruby markdown interpreter?](http://stackoverflow.com/questions/373002/better-ruby-markdown-interpreter)
 
 ### Template engines
@@ -387,6 +403,11 @@ Binary:
 - [ruby-prof](https://github.com/ruby-prof/ruby-prof) — a code profiler for MRI rubies.
 - [Timecop](https://github.com/travisjeffery/timecop) — a gem providing "time travel", "time freezing", and "time acceleration" capabilities, making it simple to test time-dependent code. It provides a unified method to mock Time.now, Date.today, and DateTime.now in a single call.
 - [timecop-console](https://github.com/ferndopolis/timecop-console) — expose Timecop's capabilities to the UI in your rails app, allowing QA to take advantage of it.
+- [stackprof](https://github.com/tmm1/stackprof) — a sampling call-stack profiler for ruby 2.1+.
+- [stackprof-webnav](https://github.com/alisnic/stackprof-webnav) — web UI for viewing stackprof dumps.
+- [rblineprof](https://github.com/tmm1/rblineprof) — line-profiler.
+- [Peek](https://github.com/peek/peek) — status bar showing performance info for Rails apps.
+- [Peek::Rblineprof](https://github.com/peek/peek-rblineprof) — peek into how much each line of your Rails application takes throughout a request.
 
 ### Misc
 
@@ -398,4 +419,8 @@ If there is a nice gem, but it is difficult to classify it with existing bookmar
 - [rpush](https://github.com/rpush/rpush) — push notification service, supporting Apple Push Notification Service, Google Cloud Messaging, Amazon Device Messaging, Windows Phone Push Notification Service.
 - [Rubyzip](https://github.com/rubyzip/rubyzip) — reading and writing zip files.
 - [JsonCompare](https://github.com/a2design-company/json-compare) — returns the difference between two JSON files.
+<<<<<<< HEAD
 - [MicroMachine](https://github.com/soveran/micromachine) — minimal Finite State Machine.
+=======
+- [Dante](https://github.com/nesquena/dante) — turn any ruby code into a daemon.
+>>>>>>> 9a6f55a00ed857dabf8a6a13b1602085444c3ef4
