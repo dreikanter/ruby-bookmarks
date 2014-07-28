@@ -388,6 +388,8 @@ Binary:
 
 ### Misc
 
+If there is a nice gem, but it is difficult to classify it with existing bookmarks groups, or it is still one of his kind, put it here
+
 - [Prawn](https://github.com/prawnpdf/prawn) — fast, nimble PDF generation.
 - [Dalli](https://github.com/mperham/dalli) — high performance Memcached client for Ruby.
 - [EventMachine](https://github.com/eventmachine/eventmachine) — fast, simple event-processing library.
