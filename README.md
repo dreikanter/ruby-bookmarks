@@ -15,7 +15,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - :star2: [Eloquent Ruby](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional/dp/0321584104/) by Russ Olsen.
 - [Programming Ruby 1.9 & 2.0](http://pragprog.com/book/ruby4/programming-ruby-1-9-2-0) by Dave Thomas, Andy Hunt, and Chad Fowler.
 - [Learn Ruby The Hard Way](http://ruby.learncodethehardway.org/book/) by Zed A. Shaw. Available to pre-order at [amazon](http://www.amazon.com/Learn-Ruby-Hard-Shaws-Series/dp/032188499X).
-- [The Ruby Programming Language](http://www.amazon.com/Ruby-Programming-Language-David-Flanagan/dp/0596516177) by David Flanagan and Yukihiro "Matz" Matsumoto
+- [The Ruby Programming Language](http://www.amazon.com/Ruby-Programming-Language-David-Flanagan/dp/0596516177) by David Flanagan and Yukihiro "Matz" Matsumoto.
 
 ### Advancing Ruby knowledge
 
@@ -50,7 +50,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 ### Other frameworks and tools
 
 - [RubyMotion](http://www.amazon.com/RubyMotion-Pragmatic-Programmers-Clay-Allsopp/dp/1937785289/) by Clay Allsopp.
-- [Build Awesome Command-Line Applications in Ruby 2](http://pragprog.com/book/dccar2/build-awesome-command-line-applications-in-ruby-2) by David Copeland
+- [Build Awesome Command-Line Applications in Ruby 2](http://pragprog.com/book/dccar2/build-awesome-command-line-applications-in-ruby-2) by David Copeland.
 - [Sinatra Book](https://github.com/sinatra/sinatra-book/) — a cookbook full of excellent tutorials and recipes for developing Sinatra web applications.
 - [The Guide to Cuba](http://theguidetocuba.io) — this book will teach you how to create a Ruby web application from scratch using Cuba microframework.
 
@@ -63,7 +63,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - :star2: [Practicing Ruby](https://practicingruby.com) — delightful lessons for dedicated programmers.
 - [Yehuda Katz](http://yehudakatz.com)
 - [Sitepoint](http://www.sitepoint.com/ruby/)
-- [A Fresh Cup](http://afreshcup.com/) - links to new resources and insightful blog posts.
+- [A Fresh Cup](http://afreshcup.com/) — links to new resources and insightful blog posts.
 
 ## Screencasts and courses
 
@@ -79,8 +79,8 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [CodeAcademy](http://www.codecademy.com/tracks/ruby)
 - [confreaks.com](http://confreaks.com/) — expert recording services for conferences, seminars, and workshops.
 - [Learnable](https://learnable.com/topics/ruby) — video courses and books ($30 per month).
-- [Destroy All Software](https://www.destroyallsoftware.com/) - by Gary Bernhardt
-- [GoRails](https://gorails.com) — a series of screencasts and guides for all aspects of Ruby on Rails. Learn how to setup your machine, build a Rails application, and deploy it to a server.
+- [Destroy All Software](https://www.destroyallsoftware.com/) — by Gary Bernhardt.
+- :star2: [GoRails](https://gorails.com) — a series of screencasts and guides for all aspects of Ruby on Rails. Learn how to setup your machine, build a Rails application, and deploy it to a server.
 
 ## Other Learning Materials
 
@@ -94,9 +94,9 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [Better Specs](http://betterspecs.org) — RSpec best practices.
 - [Sourcegraph](https://sourcegraph.com) — search engine for code examples/ Here is a [demo video](https://www.youtube.com/watch?v=YYL0ZoPeB5w).
 - [Basic Algorithms written in Ruby](https://github.com/Djo/algorithms).
-- [Jumpstart Lab](http://tutorials.jumpstartlab.com/) - a list of beginner and advanced-level Ruby, Rails, and Sinatra project tutorials.  Includes challenging independent projects as well.
-- [RubyOffRails](https://rubyoffrails.com/) - An online Ruby course recently open sourced.
-- [The Odin Project](http://www.theodinproject.com/ruby-programming) - an online Ruby lesson plan with a community to help.
+- [Jumpstart Lab](http://tutorials.jumpstartlab.com/) — a list of beginner and advanced-level Ruby, Rails, and Sinatra project tutorials.  Includes challenging independent projects as well.
+- [RubyOffRails](https://rubyoffrails.com/) — An online Ruby course recently open sourced.
+- [The Odin Project](http://www.theodinproject.com/ruby-programming) — an online Ruby lesson plan with a community to help.
 
 ## Style Guides
 
@@ -123,7 +123,7 @@ See also:
 - StackOverflow: [What Ruby IDE do you prefer?](http://stackoverflow.com/questions/16991/what-ruby-ide-do-you-prefer)
 - :star2: [Sublime Text](sublimetext.com) — one of the best text editors for coding. Take a look at [Sublime Bookmarks](https://github.com/dreikanter/sublime-bookmarks) — a comprehensive list of plugins and other related stuff.
 - [RubyMine](http://jetbrains.com/ruby/) — intelligent Ruby and Rails IDE.
-- [Atom](http://atom.io) - a brand-new hackable text editor from Github.
+- [Atom](http://atom.io) — a brand-new hackable text editor from Github.
 
 ### Code quality analysis
 
@@ -323,7 +323,7 @@ Binary:
 
 - [RMagick](https://github.com/rmagick/rmagick) — an interface to the ImageMagick and GraphicsMagick image processing libraries.
 - [MiniMagick](https://github.com/minimagick/minimagick) — a ruby wrapper for ImageMagick or GraphicsMagick command line.
-- [psd.rb](https://github.com/layervault/psd.rb) Parse Photoshop files in Ruby with ease
+- [psd.rb](https://github.com/layervault/psd.rb) Parse Photoshop files in Ruby with ease.
 
 ### HTML, XML
 
@@ -412,7 +412,7 @@ See also:
 
 ### Misc
 
-If there is a nice gem, but it is difficult to classify it with existing bookmarks groups, or it is still one of his kind, put it here
+If there is a nice gem, but it is difficult to classify it with existing bookmarks groups, or it is still one of his kind, put it here.
 
 - [Prawn](https://github.com/prawnpdf/prawn) — fast, nimble PDF generation.
 - [Dalli](https://github.com/mperham/dalli) — high performance Memcached client for Ruby.
@@ -420,8 +420,5 @@ If there is a nice gem, but it is difficult to classify it with existing bookmar
 - [rpush](https://github.com/rpush/rpush) — push notification service, supporting Apple Push Notification Service, Google Cloud Messaging, Amazon Device Messaging, Windows Phone Push Notification Service.
 - [Rubyzip](https://github.com/rubyzip/rubyzip) — reading and writing zip files.
 - [JsonCompare](https://github.com/a2design-company/json-compare) — returns the difference between two JSON files.
-<<<<<<< HEAD
 - [MicroMachine](https://github.com/soveran/micromachine) — minimal Finite State Machine.
-=======
 - [Dante](https://github.com/nesquena/dante) — turn any ruby code into a daemon.
->>>>>>> 9a6f55a00ed857dabf8a6a13b1602085444c3ef4
