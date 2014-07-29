@@ -352,6 +352,7 @@ See also:
 - [Mustache](https://github.com/defunkt/mustache) — logic-less Ruby templates. A framework-agnostic way to render logic-free views.
 - [HAML](http://haml.info/) — a very compact markup language, that accelerates and simplifies template creation down to veritable haiku.
 - [Slim](https://github.com/slim-template/slim) – a templating language that reduce the syntax to the essential parts without becoming cryptic.
+- [Tilt](https://github.com/rtomayko/tilt) — generic interface to multiple Ruby template engines.
 
 ### Logging
 
