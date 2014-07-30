@@ -347,6 +347,11 @@ See also:
 
 - StackOverflow: [Better ruby markdown interpreter?](http://stackoverflow.com/questions/373002/better-ruby-markdown-interpreter)
 
+### Syntax Highlighters
+
+- [Rouge](https://github.com/jneen/rouge) — a pure-ruby code highlighter that is compatible with pygments.
+- [pygments.rb](https://github.com/tmm1/pygments.rb) — a Ruby wrapper for the Python [pygments](http://pygments.org) syntax highlighter.
+
 ### Template engines
 
 - [Mustache](https://github.com/defunkt/mustache) — logic-less Ruby templates. A framework-agnostic way to render logic-free views.
