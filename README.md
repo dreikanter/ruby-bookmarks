@@ -166,7 +166,7 @@ See also:
 
 - [Capistrano](https://github.com/capistrano/capistrano) — remote multi-server automation tool.
 - [Chef](https://github.com/opscode/chef) — a systems integration framework, built to bring the benefits of configuration management to your entire infrastructure.
-- [Mina](https://github.com/mina-deploy/mina) – really fast deployer and server automation tool.
+- :star2: [Mina](https://github.com/mina-deploy/mina) – really fast deployer and server automation tool.
 
 ### Other tools
 
