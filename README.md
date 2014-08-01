@@ -423,3 +423,4 @@ If there is a nice gem, but it is difficult to classify it with existing bookmar
 - [JsonCompare](https://github.com/a2design-company/json-compare) — returns the difference between two JSON files.
 - [MicroMachine](https://github.com/soveran/micromachine) — minimal Finite State Machine.
 - [Dante](https://github.com/nesquena/dante) — turn any ruby code into a daemon.
+- [Memoist](https://github.com/matthewrudy/memoist) — an extraction of ActiveSupport::Memoizable with few extensions.
