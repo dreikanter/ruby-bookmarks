@@ -407,7 +407,7 @@ See also:
 - [Spring](https://github.com/rails/spring) — Rails application preloader to speeds up development by keeping your application running in the background so you don't need to boot it every time you run a test, rake task or migration.
 - [Faker](https://github.com/stympy/faker) — a library for generating fake data such as names, addresses, and phone numbers.
 
-### Profiling
+### Profiling and Performance
 
 - [ruby-prof](https://github.com/ruby-prof/ruby-prof) — a code profiler for MRI rubies.
 - [Timecop](https://github.com/travisjeffery/timecop) — a gem providing "time travel", "time freezing", and "time acceleration" capabilities, making it simple to test time-dependent code. It provides a unified method to mock Time.now, Date.today, and DateTime.now in a single call.
@@ -417,6 +417,7 @@ See also:
 - [rblineprof](https://github.com/tmm1/rblineprof) — line-profiler.
 - [Peek](https://github.com/peek/peek) — status bar showing performance info for Rails apps.
 - [Peek::Rblineprof](https://github.com/peek/peek-rblineprof) — peek into how much each line of your Rails application takes throughout a request.
+- [Bullet](https://github.com/flyerhzm/bullet) — a gem to help to increase application's performance by reducing the number of queries it makes. It will watch your queries while you develop your application and notify you when you should add eager loading (N+1 queries), when you're using eager loading that isn't necessary and when you should use counter cache.
 
 ### Misc
 
