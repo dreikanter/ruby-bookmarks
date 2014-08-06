@@ -253,6 +253,7 @@ See also:
 - [Rack::Timeout](https://github.com/heroku/rack-timeout) — abort requests that are taking too long.
 - [Rack::Protection](http://rkh.github.io/rack-protection/) — protects against typical web attacks. Should work for all Rack apps, including Rails.
 - [Rack::LiveReload](https://github.com/johnbintz/rack-livereload) — Bring in `livereload.js` into handy Rack middleware. No need for browser extensions anymore! Just plug it in your middleware stack and go! Even supports browsers without WebSockets!
+- [rack-mini-profiler](https://github.com/MiniProfiler/rack-mini-profiler) — middleware that displays speed badge for every html page. Designed to work both in production and in development.
 
 ### Authentication and Authorization
 
@@ -422,6 +423,7 @@ See also:
 - [Peek](https://github.com/peek/peek) — status bar showing performance info for Rails apps.
 - [Peek::Rblineprof](https://github.com/peek/peek-rblineprof) — peek into how much each line of your Rails application takes throughout a request.
 - [Bullet](https://github.com/flyerhzm/bullet) — a gem to help to increase application's performance by reducing the number of queries it makes. It will watch your queries while you develop your application and notify you when you should add eager loading (N+1 queries), when you're using eager loading that isn't necessary and when you should use counter cache.
+- [rack-mini-profiler](https://github.com/MiniProfiler/rack-mini-profiler) — middleware that displays speed badge for every html page. Designed to work both in production and in development.
 
 ### Misc
 
