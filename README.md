@@ -235,7 +235,6 @@ See also:
 - [Thinking Sphinx](https://github.com/pat/thinking-sphinx) — a library for connecting ActiveRecord to the Sphinx full-text search tool, and integrates closely with Rails (but also works with other Ruby web frameworks).
 - [CarrierWave](https://github.com/carrierwaveuploader/carrierwave) — classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks.
 - [Kaminari](https://github.com/amatsuda/kaminari) — clean, powerful, customizable and sophisticated paginator for modern web app frameworks and ORMs.
-- :star2: [dotenv](https://github.com/bkeepers/dotenv) — loads environment variables from .env file into ENV in development.
 - [suspenders](https://github.com/thoughtbot/suspenders) — a Rails template with [Thoughtbot](http://thoughtbot.com) standard defaults, ready to deploy to Heroku.
 - [High Voltage](https://github.com/thoughtbot/high_voltage) — easily include static pages in your Rails app.
 - [email_validator](https://github.com/balexand/email_validator) — an email validator for Rails 3 and 4.
@@ -360,6 +359,11 @@ See also:
 - [HAML](http://haml.info/) — a very compact markup language, that accelerates and simplifies template creation down to veritable haiku.
 - [Slim](https://github.com/slim-template/slim) – a templating language that reduce the syntax to the essential parts without becoming cryptic.
 - [Tilt](https://github.com/rtomayko/tilt) — generic interface to multiple Ruby template engines.
+
+### Environment Variables
+
+- :star2: [dotenv](https://github.com/bkeepers/dotenv) — loads environment variables from .env file into ENV in development.
+- [rbenv-vars](https://github.com/sstephenson/rbenv-vars) — an rbenv plugin that safely sets global and per-project environment variables.
 
 ### Logging
 
