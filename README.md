@@ -257,12 +257,16 @@ See also:
 - [Rack::LiveReload](https://github.com/johnbintz/rack-livereload) — Bring in `livereload.js` into handy Rack middleware. No need for browser extensions anymore! Just plug it in your middleware stack and go! Even supports browsers without WebSockets!
 - [rack-mini-profiler](https://github.com/MiniProfiler/rack-mini-profiler) — middleware that displays speed badge for every html page. Designed to work both in production and in development.
 
-### Authentication and Authorization
+### Authentication
 
 - [Devise](https://github.com/plataformatec/devise) — flexible authentication solution for Rails with Warden.
 - [OmniAuth](https://github.com/intridea/omniauth) — a flexible authentication system utilizing Rack middleware.
-- [CanCanCan](https://github.com/CanCanCommunity/cancancan) — a continuation of the dead. [CanCan](https://github.com/ryanb/cancan) project. Our mission is to keep CanCan alive and moving forward, with maintenance fixes and new features.
 - [Authlogic](https://github.com/binarylogic/authlogic) — a clean, simple, and unobtrusive ruby authentication solution.
+- [sorcery](https://github.com/NoamB/sorcery) — magical Authentication for Rails 3 and 4, with OAuth support. Supports ActiveRecord, DataMapper, Mongoid and MongoMapper.
+
+### Authorization
+
+- [CanCanCan](https://github.com/CanCanCommunity/cancancan) — a continuation of the dead. [CanCan](https://github.com/ryanb/cancan) project. Our mission is to keep CanCan alive and moving forward, with maintenance fixes and new features.
 - [Pundit](https://github.com/elabs/pundit) — minimal authorization through OO design and pure Ruby classes.
 
 ### Message Queuing
