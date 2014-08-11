@@ -171,6 +171,7 @@ See also:
 - [Capistrano](https://github.com/capistrano/capistrano) — remote multi-server automation tool.
 - [Chef](https://github.com/opscode/chef) — a systems integration framework, built to bring the benefits of configuration management to your entire infrastructure.
 - :star2: [Mina](https://github.com/mina-deploy/mina) – really fast deployer and server automation tool.
+- [Rails + Nginx + Unicorn Dockerfile](https://github.com/seapy/dockerfiles/tree/master/rails-nginx-unicorn?utm_source=rubyweekly&utm_medium=email) — easy useable docker for rails. less configuration, affordable production.
 
 ### Other tools
 
