@@ -110,6 +110,8 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 
 See also:
 
+- [Semantic Versioning](http://semver.org)
+- [Keep a CHANGELOG](http://keepachangelog.com) — don’t let your friends dump git logs into CHANGELOGs™
 - [Code quality analysis tools](#code-quality-analysis).
 
 ## Podcasts
