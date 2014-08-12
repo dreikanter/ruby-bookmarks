@@ -177,7 +177,7 @@ See also:
 
 ### Other tools
 
-- [Pry](https://github.com/pry/pry) — an IRB alternative and runtime developer console.
+- [Pry](http://pryrepl.org) — a powerful alternative to the standard IRB shell for Ruby. It features syntax highlighting, a flexible plugin architecture, runtime invocation and source and documentation browsing.
 - [Reek](https://github.com/troessner/reek) — code smell detection for Ruby.
 - [Foreman](https://github.com/ddollar/foreman) — manage Procfile-based applications.
 - [Rubular](http://rubular.com) — a Ruby-based regular expression editor. It's a handy way to test regular expressions as you write them.
