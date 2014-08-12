@@ -267,6 +267,7 @@ This is a curated collection of essential Ruby and Ruby on Rails resources. It w
 - [mongodb_logger](https://github.com/le0pard/mongodb_logger) — an alternative logger for Rails or Rack based app, which log all requests of you application into MongoDB database (allow to store and search any information from logs; web panel allow filter logs, build graphs using MapReduce by information from logs).
 - [Hatchet](https://github.com/gshutler/hatchet) — logging library that provides the ability to add class/module specific filters.
 - [Whoops](http://whoopsapp.com) — a free, self-hosted tool for logging application events like errors or background worker completion (uses Rails for web frontend and MongoDB).
+- [logstasher](https://github.com/shadabahmed/logstasher) Awesome rails logs
 
 ### Testing
 
@@ -290,3 +291,5 @@ This is a curated collection of essential Ruby and Ruby on Rails resources. It w
 - [Active Merchant](https://github.com/Shopify/active_merchant) — a simple and unified API to access dozens of different payment gateways with very different internal APIs.
 - [EventMachine](https://github.com/eventmachine/eventmachine) — fast, simple event-processing library.
 - [rpush](https://github.com/rpush/rpush) — push notification service, supporting Apple Push Notification Service, Google Cloud Messaging, Amazon Device Messaging, Windows Phone Push Notification Service.
+- [twig](https://github.com/rondevera/twig) Your personal Git branch assistant
+- [datashift](https://github.com/autotelik/datashift) Comprehensive Excel and CSV import/export tools for Ruby
