@@ -73,8 +73,8 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - :star2: [RubyTapas](http://rubytapas.com) by Avdi Grimm.
 - :star2: [The Pragmatic Studio](http://pragmaticstudio.com)
 - :star2: [Lynda.com](http://www.lynda.com/search?q=ruby)
-- [Ruby screencasts at TutsPlus.com](http://courses.tutsplus.com/topics/code/categories/ruby/courses)
-- [Rails screencasts at TutsPlus.com](http://courses.tutsplus.com/topics/code/categories/rails/courses)
+- [Ruby screencasts at TutsPlus.com](http://code.tutsplus.com/categories/ruby/courses)
+- [Rails screencasts at TutsPlus.com](http://code.tutsplus.com/categories/rails/courses)
 - [RailsCasts](http://railscasts.com)
 - [CodeSchool](https://www.codeschool.com/paths/ruby) (includes Rails for zombies).
 - [Learn Rails the Zombie Way](http://railsforzombies.org)
