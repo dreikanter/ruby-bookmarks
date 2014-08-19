@@ -126,7 +126,7 @@ See also:
 ### IDEs and text editors
 
 - StackOverflow: [What Ruby IDE do you prefer?](http://stackoverflow.com/questions/16991/what-ruby-ide-do-you-prefer)
-- :star2: [Sublime Text](sublimetext.com) — one of the best text editors for coding. Take a look at [Sublime Bookmarks](https://github.com/dreikanter/sublime-bookmarks) — a comprehensive list of plugins and other related stuff.
+- :star2: [Sublime Text](http://www.sublimetext.com) — one of the best text editors for coding. Take a look at [Sublime Bookmarks](https://github.com/dreikanter/sublime-bookmarks) — a comprehensive list of plugins and other related stuff.
 - [RubyMine](http://jetbrains.com/ruby/) — intelligent Ruby and Rails IDE.
 - [Atom](http://atom.io) — a brand-new hackable text editor from Github.
 
