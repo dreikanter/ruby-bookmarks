@@ -255,6 +255,7 @@ See also:
 - [gemoji](https://github.com/github/gemoji) — emoji images and names.
 - [rails_emoji](https://github.com/jsw0528/rails_emoji) — one more emoji gem for Ruby on Rails.
 - [Royce](https://github.com/MartinJNash/Royce) — a Ruby on Rails roles solution.
+- [rails_param](https://github.com/nicolasblanco/rails_param) — parameter Validation & Type Coercion.
 
 ### Rack
 
