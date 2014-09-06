@@ -83,7 +83,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [Learnable](https://learnable.com/topics/ruby) — video courses and books ($30 per month).
 - [Destroy All Software](https://www.destroyallsoftware.com/) — by Gary Bernhardt.
 - :star2: [GoRails](https://gorails.com) — a series of screencasts and guides for all aspects of Ruby on Rails. Learn how to setup your machine, build a Rails application, and deploy it to a server.
-- [RubySteps](http://patmaddox.com/rubysteps/) - daily emails on Ruby, Rails, TDD, OOP, and Refactoring with code examples and challenges ($149 per month). 
+- [RubySteps](http://patmaddox.com/rubysteps/) - daily emails on Ruby, Rails, TDD, OOP, and Refactoring with code examples and challenges ($149 per month).
 
 ## Other Learning Materials
 
@@ -254,6 +254,7 @@ See also:
 - [font-awesome-rails](https://github.com/bokmann/font-awesome-rails) — the [Font Awesome](http://fortawesome.github.io/Font-Awesome/) font bundled as an asset for the rails asset pipeline.
 - [gemoji](https://github.com/github/gemoji) — emoji images and names.
 - [rails_emoji](https://github.com/jsw0528/rails_emoji) — one more emoji gem for Ruby on Rails.
+- [Royce](https://github.com/MartinJNash/Royce) — a Ruby on Rails roles solution.
 
 ### Rack
 
