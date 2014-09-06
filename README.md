@@ -302,6 +302,8 @@ See also:
 
 - [thread](https://github.com/meh/ruby-thread) — extensions to the thread library (includes thread pool).
 - [Sprawling](https://github.com/dreikanter/ruby-bookmarks) — spawn gem for Rails to easily fork or thread long-running code blocks.
+- [Parallel](https://github.com/grosser/parallel) — Run any code in parallel Processes(&gt; use all CPUs) or Threads(&gt; speedup blocking operations).
+Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 ### Scheduling
 
