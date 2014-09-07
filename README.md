@@ -12,15 +12,23 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 
 ### For beginners and intermediate level developers
 
-- :star2: [Eloquent Ruby](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional/dp/0321584104/) by Russ Olsen.
+- :star2: Eloquent Ruby by *Russ Olsen*.
+  - [Official site](http://eloquentruby.com/)
+  - [Amazon](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional/dp/0321584104/)
 - [Programming Ruby 1.9 & 2.0](http://pragprog.com/book/ruby4/programming-ruby-1-9-2-0) by Dave Thomas, Andy Hunt, and Chad Fowler.
 - [Learn Ruby The Hard Way](http://ruby.learncodethehardway.org/book/) by Zed A. Shaw. Available to pre-order at [amazon](http://www.amazon.com/Learn-Ruby-Hard-Shaws-Series/dp/032188499X).
 - [The Ruby Programming Language](http://www.amazon.com/Ruby-Programming-Language-David-Flanagan/dp/0596516177) by David Flanagan and Yukihiro "Matz" Matsumoto.
 
 ### Advancing Ruby knowledge
 
-- :star2: [Ruby Under a Microscope: An Illustrated Guide to Ruby Internals](http://www.amazon.com/Ruby-Under-Microscope-Illustrated-Internals/dp/1593275277/) by Pat Shaughnessy.
-- :star2: [Confident Ruby: 32 Patterns for Joyful Coding](http://www.amazon.com/Confident-Ruby-Patterns-Joyful-Coding-ebook/dp/B00ETE0D2S/) by Avdi Grimm.
+- :star2: Ruby Under a Microscope: An Illustrated Guide to Ruby Internals by *Pat Shaughnessy*.
+  - [Official site](http://patshaughnessy.net/ruby-under-a-microscope)
+  - [Amazon](http://www.amazon.com/Ruby-Under-Microscope-Illustrated-Internals/dp/1593275277/)
+  - [O'Reilly](http://shop.oreilly.com/product/9781593275273.do)
+- :star2: Confident Ruby: 32 Patterns for Joyful Coding by *Avdi Grimm*.
+  - [Official site](http://www.confidentruby.com/)
+  - [Amazon](http://www.amazon.com/Confident-Ruby-Patterns-Joyful-Coding-ebook/dp/B00ETE0D2S/)
+  - [Pragprog](https://pragprog.com/book/agcr/confident-ruby)
 - [Exceptional Ruby: Master the Art of Handling Failure in Ruby](http://pragprog.com/book/ager/exceptional-ruby) by Avdi Grimm.
 - [Metaprogramming Ruby: Program Like the Ruby Pros](http://www.amazon.com/Metaprogramming-Ruby-Program-Like-Pros-ebook/dp/B00A376YAK/) by Paolo Perrotta.
 - [The Well-Grounded Rubyist](http://www.amazon.com/The-Well-Grounded-Rubyist-David-Black/dp/1617291692/) by David A. Black.
@@ -30,7 +38,9 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 
 ### Ruby on Rails for beginners
 
-- :star2: [The Rails 4 Way](http://www.amazon.com/Rails-Edition-Addison-Wesley-Professional-Series-ebook/dp/B00KKNO8YQ/) by Obie Fernandez and Kevin Faustino.
+- :star2: The Rails 4 Way by *Obie Fernandez* and *Kevin Faustino*.
+  - [Amazon](http://www.amazon.com/Rails-Edition-Addison-Wesley-Professional-Series-ebook/dp/B00KKNO8YQ/)
+  - [Informit](http://www.informit.com/store/rails-4-way-9780321944276)
 - [Agile Web Development with Rails 4](http://www.amazon.com/Agile-Development-Rails-Facets-Ruby/dp/1937785564/) by Sam Ruby, Dave Thomas, and David Heinemeier Hansson.
 - [Rails 4 in Action](http://manning.com/bigg2) by Steve Klabnik, Ryan Bigg and Yehuda Katz.
 
@@ -73,8 +83,8 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - :star2: [RubyTapas](http://rubytapas.com) by Avdi Grimm.
 - :star2: [The Pragmatic Studio](http://pragmaticstudio.com)
 - :star2: [Lynda.com](http://www.lynda.com/search?q=ruby)
-- [Ruby screencasts at TutsPlus.com](http://courses.tutsplus.com/topics/code/categories/ruby/courses)
-- [Rails screencasts at TutsPlus.com](http://courses.tutsplus.com/topics/code/categories/rails/courses)
+- [Ruby screencasts at TutsPlus.com](http://code.tutsplus.com/categories/ruby/courses)
+- [Rails screencasts at TutsPlus.com](http://code.tutsplus.com/categories/rails/courses)
 - [RailsCasts](http://railscasts.com)
 - [CodeSchool](https://www.codeschool.com/paths/ruby) (includes Rails for zombies).
 - [Learn Rails the Zombie Way](http://railsforzombies.org)
@@ -126,7 +136,7 @@ See also:
 ### IDEs and text editors
 
 - StackOverflow: [What Ruby IDE do you prefer?](http://stackoverflow.com/questions/16991/what-ruby-ide-do-you-prefer)
-- :star2: [Sublime Text](sublimetext.com) — one of the best text editors for coding. Take a look at [Sublime Bookmarks](https://github.com/dreikanter/sublime-bookmarks) — a comprehensive list of plugins and other related stuff.
+- :star2: [Sublime Text](http://www.sublimetext.com) — one of the best text editors for coding. Take a look at [Sublime Bookmarks](https://github.com/dreikanter/sublime-bookmarks) — a comprehensive list of plugins and other related stuff.
 - [RubyMine](http://jetbrains.com/ruby/) — intelligent Ruby and Rails IDE.
 - [Atom](http://atom.io) — a brand-new hackable text editor from Github.
 
@@ -254,6 +264,8 @@ See also:
 - [font-awesome-rails](https://github.com/bokmann/font-awesome-rails) — the [Font Awesome](http://fortawesome.github.io/Font-Awesome/) font bundled as an asset for the rails asset pipeline.
 - [gemoji](https://github.com/github/gemoji) — emoji images and names.
 - [rails_emoji](https://github.com/jsw0528/rails_emoji) — one more emoji gem for Ruby on Rails.
+- [Royce](https://github.com/MartinJNash/Royce) — a Ruby on Rails roles solution.
+- [rails_param](https://github.com/nicolasblanco/rails_param) — parameter Validation & Type Coercion.
 
 ### Rack
 
@@ -300,6 +312,8 @@ See also:
 
 - [thread](https://github.com/meh/ruby-thread) — extensions to the thread library (includes thread pool).
 - [Sprawling](https://github.com/dreikanter/ruby-bookmarks) — spawn gem for Rails to easily fork or thread long-running code blocks.
+- [Parallel](https://github.com/grosser/parallel) — Run any code in parallel Processes(&gt; use all CPUs) or Threads(&gt; speedup blocking operations).
+Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 ### Scheduling
 
@@ -454,3 +468,4 @@ If there is a nice gem, but it is difficult to classify it with existing bookmar
 - [Awesome Print](https://github.com/michaeldv/awesome_print) — a Ruby library that pretty prints Ruby objects in full color exposing their internal structure with proper indentation. Rails ActiveRecord objects and usage within Rails templates are supported via included mixins.
 - [twig](https://github.com/rondevera/twig) Your personal Git branch assistant
 - [datashift](https://github.com/autotelik/datashift) Comprehensive Excel and CSV import/export tools for Ruby
+- [Configurations](https://github.com/beatrichartz/configurations) — provides a unified approach to do configurations for gems or other ruby code.
