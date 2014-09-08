@@ -12,15 +12,23 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 
 ### For beginners and intermediate level developers
 
-- :star2: [Eloquent Ruby](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional/dp/0321584104/) by Russ Olsen.
+- :star2: Eloquent Ruby by *Russ Olsen*.
+  - [Official site](http://eloquentruby.com/)
+  - [Amazon](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional/dp/0321584104/)
 - [Programming Ruby 1.9 & 2.0](http://pragprog.com/book/ruby4/programming-ruby-1-9-2-0) by Dave Thomas, Andy Hunt, and Chad Fowler.
 - [Learn Ruby The Hard Way](http://ruby.learncodethehardway.org/book/) by Zed A. Shaw. Available to pre-order at [amazon](http://www.amazon.com/Learn-Ruby-Hard-Shaws-Series/dp/032188499X).
 - [The Ruby Programming Language](http://www.amazon.com/Ruby-Programming-Language-David-Flanagan/dp/0596516177) by David Flanagan and Yukihiro "Matz" Matsumoto.
 
 ### Advancing Ruby knowledge
 
-- :star2: [Ruby Under a Microscope: An Illustrated Guide to Ruby Internals](http://www.amazon.com/Ruby-Under-Microscope-Illustrated-Internals/dp/1593275277/) by Pat Shaughnessy.
-- :star2: [Confident Ruby: 32 Patterns for Joyful Coding](http://www.amazon.com/Confident-Ruby-Patterns-Joyful-Coding-ebook/dp/B00ETE0D2S/) by Avdi Grimm.
+- :star2: Ruby Under a Microscope: An Illustrated Guide to Ruby Internals by *Pat Shaughnessy*.
+  - [Official site](http://patshaughnessy.net/ruby-under-a-microscope)
+  - [Amazon](http://www.amazon.com/Ruby-Under-Microscope-Illustrated-Internals/dp/1593275277/)
+  - [O'Reilly](http://shop.oreilly.com/product/9781593275273.do)
+- :star2: Confident Ruby: 32 Patterns for Joyful Coding by *Avdi Grimm*.
+  - [Official site](http://www.confidentruby.com/)
+  - [Amazon](http://www.amazon.com/Confident-Ruby-Patterns-Joyful-Coding-ebook/dp/B00ETE0D2S/)
+  - [Pragprog](https://pragprog.com/book/agcr/confident-ruby)
 - [Exceptional Ruby: Master the Art of Handling Failure in Ruby](http://pragprog.com/book/ager/exceptional-ruby) by Avdi Grimm.
 - [Metaprogramming Ruby: Program Like the Ruby Pros](http://www.amazon.com/Metaprogramming-Ruby-Program-Like-Pros-ebook/dp/B00A376YAK/) by Paolo Perrotta.
 - [The Well-Grounded Rubyist](http://www.amazon.com/The-Well-Grounded-Rubyist-David-Black/dp/1617291692/) by David A. Black.
@@ -30,7 +38,9 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 
 ### Ruby on Rails for beginners
 
-- :star2: [The Rails 4 Way](http://www.amazon.com/Rails-Edition-Addison-Wesley-Professional-Series-ebook/dp/B00KKNO8YQ/) by Obie Fernandez and Kevin Faustino.
+- :star2: The Rails 4 Way by *Obie Fernandez* and *Kevin Faustino*.
+  - [Amazon](http://www.amazon.com/Rails-Edition-Addison-Wesley-Professional-Series-ebook/dp/B00KKNO8YQ/)
+  - [Informit](http://www.informit.com/store/rails-4-way-9780321944276)
 - [Agile Web Development with Rails 4](http://www.amazon.com/Agile-Development-Rails-Facets-Ruby/dp/1937785564/) by Sam Ruby, Dave Thomas, and David Heinemeier Hansson.
 - [Rails 4 in Action](http://manning.com/bigg2) by Steve Klabnik, Ryan Bigg and Yehuda Katz.
 
@@ -390,6 +400,7 @@ See also:
 - [mongodb_logger](https://github.com/le0pard/mongodb_logger) — an alternative logger for Rails or Rack based app, which log all requests of you application into MongoDB database (allow to store and search any information from logs; web panel allow filter logs, build graphs using MapReduce by information from logs).
 - [Hatchet](https://github.com/gshutler/hatchet) — logging library that provides the ability to add class/module specific filters.
 - [Whoops](http://whoopsapp.com) — a free, self-hosted tool for logging application events like errors or background worker completion (uses Rails for web frontend and MongoDB).
+- [logstasher](https://github.com/shadabahmed/logstasher) Awesome rails logs
 
 ### SDKs and API Wrapers
 
@@ -455,4 +466,6 @@ If there is a nice gem, but it is difficult to classify it with existing bookmar
 - [Dante](https://github.com/nesquena/dante) — turn any ruby code into a daemon.
 - [Memoist](https://github.com/matthewrudy/memoist) — an extraction of ActiveSupport::Memoizable with few extensions.
 - [Awesome Print](https://github.com/michaeldv/awesome_print) — a Ruby library that pretty prints Ruby objects in full color exposing their internal structure with proper indentation. Rails ActiveRecord objects and usage within Rails templates are supported via included mixins.
+- [twig](https://github.com/rondevera/twig) Your personal Git branch assistant
+- [datashift](https://github.com/autotelik/datashift) Comprehensive Excel and CSV import/export tools for Ruby
 - [Configurations](https://github.com/beatrichartz/configurations) — provides a unified approach to do configurations for gems or other ruby code.
