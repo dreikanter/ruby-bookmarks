@@ -489,7 +489,7 @@ See also:
 ### CLI
 
 - [colorize](https://github.com/fazibear/colorize) — String class extension. It add some methods to set color, background color and text effect on console easier using ANSI escape sequences.
-
+- [TTY](https://github.com/peter-murach/tty) — a toolbox for developing beautiful command line clients in Ruby.
 
 ### Misc
 
