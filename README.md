@@ -1,6 +1,8 @@
 # Ruby Bookmarks
 
-This is a curated collection of essential Ruby and Ruby on Rails resources. The project aims to maintain a well-structured reference equally useful both for beginners and advanced web developers. :star2:&nbsp;stands here for Editors' Choice.
+This is a curated collection of essential Ruby and Ruby on Rails resources. The project aims to maintain a well-structured reference equally useful both for beginners and advanced web developers.
+
+:star2:&nbsp;stands here for Editors' Choice.
 
 This list is not intended to include any random resource related to Ruby programming (we already have a most complete gem catalogue at [ruby-toolbox.com](https://ruby-toolbox.com)), but only the best and most actual alternatives in each area. You will find here latest editions of the most important books, time and community tested gems (alive projects only!), and actively updated websites. *Sharing and pull requests are very much appreciated!*
 
@@ -12,23 +14,15 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 
 ### For beginners and intermediate level developers
 
-- :star2: Eloquent Ruby by *Russ Olsen*.
-  - [Official site](http://eloquentruby.com/)
-  - [Amazon](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional/dp/0321584104/)
+- :star2: Eloquent Ruby by *Russ Olsen*. [Official site](http://eloquentruby.com/), [Amazon](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional/dp/0321584104/).
 - [Programming Ruby 1.9 & 2.0](http://pragprog.com/book/ruby4/programming-ruby-1-9-2-0) by Dave Thomas, Andy Hunt, and Chad Fowler.
 - [Learn Ruby The Hard Way](http://ruby.learncodethehardway.org/book/) by Zed A. Shaw. Available to pre-order at [amazon](http://www.amazon.com/Learn-Ruby-Hard-Shaws-Series/dp/032188499X).
 - [The Ruby Programming Language](http://www.amazon.com/Ruby-Programming-Language-David-Flanagan/dp/0596516177) by David Flanagan and Yukihiro "Matz" Matsumoto.
 
 ### Advancing Ruby knowledge
 
-- :star2: Ruby Under a Microscope: An Illustrated Guide to Ruby Internals by *Pat Shaughnessy*.
-  - [Official site](http://patshaughnessy.net/ruby-under-a-microscope)
-  - [Amazon](http://www.amazon.com/Ruby-Under-Microscope-Illustrated-Internals/dp/1593275277/)
-  - [O'Reilly](http://shop.oreilly.com/product/9781593275273.do)
-- :star2: Confident Ruby: 32 Patterns for Joyful Coding by *Avdi Grimm*.
-  - [Official site](http://www.confidentruby.com/)
-  - [Amazon](http://www.amazon.com/Confident-Ruby-Patterns-Joyful-Coding-ebook/dp/B00ETE0D2S/)
-  - [Pragprog](https://pragprog.com/book/agcr/confident-ruby)
+- :star2: Ruby Under a Microscope: An Illustrated Guide to Ruby Internals by *Pat Shaughnessy*. [Official site](http://patshaughnessy.net/ruby-under-a-microscope), [Amazon](http://www.amazon.com/Ruby-Under-Microscope-Illustrated-Internals/dp/1593275277/), [O'Reilly](http://shop.oreilly.com/product/9781593275273.do).
+- :star2: Confident Ruby: 32 Patterns for Joyful Coding by *Avdi Grimm*. [Official site](http://www.confidentruby.com/), [Amazon](http://www.amazon.com/Confident-Ruby-Patterns-Joyful-Coding-ebook/dp/B00ETE0D2S/), [Pragprog](https://pragprog.com/book/agcr/confident-ruby).
 - [Exceptional Ruby: Master the Art of Handling Failure in Ruby](http://pragprog.com/book/ager/exceptional-ruby) by Avdi Grimm.
 - [Metaprogramming Ruby: Program Like the Ruby Pros](http://www.amazon.com/Metaprogramming-Ruby-Program-Like-Pros-ebook/dp/B00A376YAK/) by Paolo Perrotta.
 - [The Well-Grounded Rubyist](http://www.amazon.com/The-Well-Grounded-Rubyist-David-Black/dp/1617291692/) by David A. Black.
@@ -38,9 +32,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 
 ### Ruby on Rails for beginners
 
-- :star2: The Rails 4 Way by *Obie Fernandez* and *Kevin Faustino*.
-  - [Amazon](http://www.amazon.com/Rails-Edition-Addison-Wesley-Professional-Series-ebook/dp/B00KKNO8YQ/)
-  - [Informit](http://www.informit.com/store/rails-4-way-9780321944276)
+- :star2: The Rails 4 Way by *Obie Fernandez* and *Kevin Faustino*. [Amazon](http://www.amazon.com/Rails-Edition-Addison-Wesley-Professional-Series-ebook/dp/B00KKNO8YQ/), [Informit](http://www.informit.com/store/rails-4-way-9780321944276).
 - [Agile Web Development with Rails 4](http://www.amazon.com/Agile-Development-Rails-Facets-Ruby/dp/1937785564/) by Sam Ruby, Dave Thomas, and David Heinemeier Hansson.
 - [Rails 4 in Action](http://manning.com/bigg2) by Steve Klabnik, Ryan Bigg and Yehuda Katz.
 
