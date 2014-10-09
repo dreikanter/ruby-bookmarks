@@ -143,12 +143,15 @@ See also:
 ### Code quality analysis
 
 - [RuboCop](https://github.com/bbatsov/rubocop) — a Ruby static code analyzer, based on the community Ruby style guide.
+- [Guard plugin for RuboCop](https://github.com/yujinakayama/guard-rubocop) — allows you to automatically check Ruby code style with RuboCop when files are modified.
 - [RubyCritic](https://github.com/whitesmith/rubycritic) — a gem that wraps around static analysis gems such as Reek, Flay and Flog to provide a quality report of your Ruby code.
 
 ### Environment management
 
 - :star2: [rbenv](https://github.com/sstephenson/rbenv) — a tool to to pick a Ruby version for your application and guarantee that your development environment matches production. Put rbenv to work with Bundler for painless Ruby upgrades and bulletproof deployments.
+- [rbenv-vars](https://github.com/sstephenson/rbenv-vars) — an rbenv plugin that safely sets global and per-project environment variables.
 - [RVM](https://rvm.io) — a command-line tool which allows you to easily install, manage, and work with multiple ruby environments from interpreters to sets of gems.
+- [chruby](https://github.com/postmodern/chruby) — a tool that changes the current Ruby.
 
 ### Ruby distributions
 
@@ -177,13 +180,14 @@ See also:
 See also:
 
 - [The Ruby Web Benchmark Report](http://www.madebymarket.com/blog/dev/ruby-web-benchmark-report.html) (July 2014) — „I benchmarked every single version of Ruby available as of the beginning of this test — January 2014. On each version I benchmarked every Rack server and web framework combination I could find. I tested with both Apache Bench and wrk to see if there are flaws that one benchmarking tool picks up on that the other didn’t. The goal of the benchmark is the fastest benchmark run, not the average.“
+- [App Server Arena](https://blog.engineyard.com/2014/ruby-app-server-arena-pt1) — a comparison of popular ruby application servers.
 
 ### Deployment Automation and Configuration Management
 
 - [Capistrano](https://github.com/capistrano/capistrano) — remote multi-server automation tool.
 - [Chef](https://github.com/opscode/chef) — a systems integration framework, built to bring the benefits of configuration management to your entire infrastructure.
 - :star2: [Mina](https://github.com/mina-deploy/mina) – really fast deployer and server automation tool.
-- [Rails + Nginx + Unicorn Dockerfile](https://github.com/seapy/dockerfiles/tree/master/rails-nginx-unicorn?utm_source=rubyweekly&utm_medium=email) — easy useable docker for rails. less configuration, affordable production.
+- [Rails + Nginx + Unicorn Dockerfile](https://github.com/seapy/dockerfiles/tree/master/rails-nginx-unicorn) — easy useable docker for rails. less configuration, affordable production.
 
 ### Other tools
 
@@ -247,14 +251,11 @@ See also:
 
 - [Simple Form](https://github.com/plataformatec/simple_form) — forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.
 - [ResqueMailer](https://github.com/zapnap/resque_mailer) — Rails plugin for sending asynchronous email with ActionMailer and Resque.
-- [Paperclip](https://github.com/thoughtbot/paperclip) — easy file attachment management for ActiveRecord.
 - [Jammit](http://documentcloud.github.io/jammit/) — an industrial strength asset packaging library for Rails, providing both the CSS and JavaScript concatenation and compression that you'd expect, as well as YUI Compressor, Closure Compiler, and UglifyJS compatibility, ahead-of-time gzipping, built-in JavaScript template support, and optional Data-URI / MHTML image and font embedding.
-- [Thinking Sphinx](https://github.com/pat/thinking-sphinx) — a library for connecting ActiveRecord to the Sphinx full-text search tool, and integrates closely with Rails (but also works with other Ruby web frameworks).
 - [CarrierWave](https://github.com/carrierwaveuploader/carrierwave) — classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks.
 - [Kaminari](https://github.com/amatsuda/kaminari) — clean, powerful, customizable and sophisticated paginator for modern web app frameworks and ORMs.
 - [suspenders](https://github.com/thoughtbot/suspenders) — a Rails template with [Thoughtbot](http://thoughtbot.com) standard defaults, ready to deploy to Heroku.
 - [High Voltage](https://github.com/thoughtbot/high_voltage) — easily include static pages in your Rails app.
-- [email_validator](https://github.com/balexand/email_validator) — an email validator for Rails 3 and 4.
 - [Squasher](https://github.com/jalkoby/squasher) — compresses old migrations in a Rails application. If you work on a big project with lots of migrations, every rake db:migrate might take a few seconds, or creating of a new database might take a few minutes. That's because Rails loads all those migration files. Squasher removes all the migrations and creates a single migration with the final database state of the specified date (a new migration will look like a schema).
 - [Metamagic](https://github.com/lassebunk/metamagic) — a simple Ruby on Rails plugin for creating meta tags. It supports regular meta tags, OpenGraph (Facebook), Twitter Cards, and custom tags.
 - [Better Errors](https://github.com/charliesome/better_errors) — replaces the standard Rails error page with a much better and more useful error page. It is also usable outside of Rails in any Rack app as Rack middleware.
@@ -265,7 +266,14 @@ See also:
 - [gemoji](https://github.com/github/gemoji) — emoji images and names.
 - [rails_emoji](https://github.com/jsw0528/rails_emoji) — one more emoji gem for Ruby on Rails.
 - [Royce](https://github.com/MartinJNash/Royce) — a Ruby on Rails roles solution.
+- [YamlDb](https://github.com/ludicast/yaml_db) — a database-independent format for dumping and restoring data. It complements the the database-independent schema format found in db/schema.rb. The data is saved into db/data.yml.
+- [formtastic](https://github.com/justinfrench/formtastic) — a Rails form builder plugin with semantically rich and accessible markup.
+
+### Validation
+
 - [rails_param](https://github.com/nicolasblanco/rails_param) — parameter Validation & Type Coercion.
+- [email_validator](https://github.com/balexand/email_validator) — an email validator for Rails 3 and 4.
+- [validates_email_format_of](https://github.com/validates-email-format-of/validates_email_format_of) — validate e-mail addreses against RFC 2822 and RFC 3696 with this Ruby on Rails plugin and gem.
 
 ### Rack
 
@@ -274,6 +282,14 @@ See also:
 - [Rack::LiveReload](https://github.com/johnbintz/rack-livereload) — Bring in `livereload.js` into handy Rack middleware. No need for browser extensions anymore! Just plug it in your middleware stack and go! Even supports browsers without WebSockets!
 - [rack-mini-profiler](https://github.com/MiniProfiler/rack-mini-profiler) — middleware that displays speed badge for every html page. Designed to work both in production and in development.
 - [Coverband](https://github.com/danmayer/coverband) — Rack middleware to help measure production code coverage.
+
+### ActiveRecord
+
+- [Annotate](https://github.com/ctran/annotate_models) — Add a comment summarizing the current schema to the top or bottom of each of your ActiveRecord models, fixtures, tests and specs, factory_girl factories, routes.rb file, etc.
+- [Paperclip](https://github.com/thoughtbot/paperclip) — easy file attachment management for ActiveRecord.
+- [Thinking Sphinx](https://github.com/pat/thinking-sphinx) — a library for connecting ActiveRecord to the Sphinx full-text search tool, and integrates closely with Rails (but also works with other Ruby web frameworks).
+- [Ancestry](https://github.com/stefankroes/ancestry) — organise ActiveRecord model into a tree structure.
+- [Squeel](https://github.com/activerecord-hackery/squeel) — lets you write your Active Record queries with fewer strings, and more Ruby, by making the Arel awesomeness that lies beneath Active Record more accessible.
 
 ### Authentication
 
@@ -286,6 +302,28 @@ See also:
 
 - [CanCanCan](https://github.com/CanCanCommunity/cancancan) — a continuation of the dead. [CanCan](https://github.com/ryanb/cancan) project. Our mission is to keep CanCan alive and moving forward, with maintenance fixes and new features.
 - [Pundit](https://github.com/elabs/pundit) — minimal authorization through OO design and pure Ruby classes.
+
+### Avatars
+
+- [avatarly](https://github.com/lucek/avatarly) — a simple gem for creating gmail-like user avatars based on user email or any other string passed.
+
+### Bootstrap
+
+- [bootstrap-sass](https://github.com/twbs/bootstrap-sass) — official SASS port of Twitter Bootstrap.
+- [twitter-bootstrap-rails](https://github.com/seyhunak/twitter-bootstrap-rails) — Twitter Bootstrap for Rails asset pipeline.
+
+### Configuration and Environment Variables
+
+- :star2: [dotenv](https://github.com/bkeepers/dotenv) — loads environment variables from .env file into ENV in development.
+- [Figaro](https://github.com/laserlemon/figaro) — simple, Heroku-friendly Rails app configuration using ENV and a single YAML file.
+
+### Debugging
+
+- [Byebug](https://github.com/deivid-rodriguez/byebug) — a simple to use, feature rich debugger for Ruby 2. It uses the new TracePoint API for execution control and the new Debug Inspector API for call stack navigation, so it doesn't depend on internal core sources. It's developed as a C extension, so it's fast. And it has a full test suite so it's reliable.
+
+### Search
+
+- [Ransack](https://github.com/activerecord-hackery/ransack) — enables the creation of both simple and advanced search forms against your application's models.
 
 ### Message Queuing
 
@@ -363,6 +401,7 @@ Binary:
 - [Bourbon](http://bourbon.io) — alightweight mixin library for Sass.
 - [SASS](https://github.com/sass/sass) — an extension of CSS3, adding nested rules, variables, mixins, selector inheritance, and more. It's translated to well-formatted, standard CSS using the command line tool or a web-framework plugin.
 - [Bitters](https://github.com/thoughtbot/bitters) — add a dash of pre-defined style to your Bourbon.
+- [Autoprefixer](https://github.com/ai/autoprefixer-rails) — a tool to parse CSS and add vendor prefixes to CSS rules using values from the Can I Use. This gem provides Ruby and Ruby on Rails integration with this JavaScript tool.
 
 ### Markdown
 
@@ -386,11 +425,6 @@ See also:
 - [HAML](http://haml.info/) — a very compact markup language, that accelerates and simplifies template creation down to veritable haiku.
 - [Slim](https://github.com/slim-template/slim) – a templating language that reduce the syntax to the essential parts without becoming cryptic.
 - [Tilt](https://github.com/rtomayko/tilt) — generic interface to multiple Ruby template engines.
-
-### Environment Variables
-
-- :star2: [dotenv](https://github.com/bkeepers/dotenv) — loads environment variables from .env file into ENV in development.
-- [rbenv-vars](https://github.com/sstephenson/rbenv-vars) — an rbenv plugin that safely sets global and per-project environment variables.
 
 ### Logging
 
@@ -452,6 +486,11 @@ See also:
 - [Bullet](https://github.com/flyerhzm/bullet) — a gem to help to increase application's performance by reducing the number of queries it makes. It will watch your queries while you develop your application and notify you when you should add eager loading (N+1 queries), when you're using eager loading that isn't necessary and when you should use counter cache.
 - [rack-mini-profiler](https://github.com/MiniProfiler/rack-mini-profiler) — middleware that displays speed badge for every html page. Designed to work both in production and in development.
 
+### CLI
+
+- [colorize](https://github.com/fazibear/colorize) — String class extension. It add some methods to set color, background color and text effect on console easier using ANSI escape sequences.
+
+
 ### Misc
 
 If there is a nice gem, but it is difficult to classify it with existing bookmarks groups, or it is still one of his kind, put it here.
@@ -471,3 +510,5 @@ If there is a nice gem, but it is difficult to classify it with existing bookmar
 - [Configurations](https://github.com/beatrichartz/configurations) — provides a unified approach to do configurations for gems or other ruby code.
 - [awesome_print](https://github.com/michaeldv/awesome_print) — a Ruby library that pretty prints Ruby objects in full color exposing their internal structure with proper indentation. Rails ActiveRecord objects and usage within Rails templates are supported via included mixins.
 - [YYMMDD](https://github.com/sshaw/yymmdd) — tiny DSL for idiomatic date parsing and formatting.
+- [Libnotify](https://github.com/splattael/libnotify) — Ruby bindings for libnotify, a crossplatform user notification library.
+- [MemFs](https://github.com/simonc/memfs) — provides a fake file system that can be used for tests.
