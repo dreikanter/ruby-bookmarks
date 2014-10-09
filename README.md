@@ -42,6 +42,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [Rails AntiPatterns: Best Practice Ruby on Rails Refactoring](http://www.amazon.com/Rails-AntiPatterns-Refactoring-Addison-Wesley-Professional/dp/0321604814/) by Chad Pytel, Tammer Saleh.
 - [Deploying Rails: Automate, Deploy, Scale, Maintain, and Sleep at Night](http://www.amazon.com/Deploying-Rails-Automate-Deploy-Maintain/dp/1934356956/) by Tom Copeland, Anthony Burns.
 - [Multitenancy with Rails](http://leanpub.com/multi-tenancy-rails) by Ryan Bigg.
+- [Ruby Science](https://gumroad.com/l/ruby-science) by [thoughtbot](https://gumroad.com/l/ruby-science) — the reference for writing fantastic Rails applications.
 
 ### Testing
 
