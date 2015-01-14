@@ -13,7 +13,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 ## Books
 
 ### For beginners and intermediate level developers
-
+- [Why's Poignant Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/) by Why the Lucky Stiff
 - :star2: Eloquent Ruby by *Russ Olsen*. [Official site](http://eloquentruby.com/), [Amazon](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional/dp/0321584104/).
 - [Programming Ruby 1.9 & 2.0](http://pragprog.com/book/ruby4/programming-ruby-1-9-2-0) by Dave Thomas, Andy Hunt, and Chad Fowler.
 - [Learn Ruby The Hard Way](http://ruby.learncodethehardway.org/book/) by Zed A. Shaw. Available to pre-order at [amazon](http://www.amazon.com/Learn-Ruby-Hard-Shaws-Series/dp/032188499X).
