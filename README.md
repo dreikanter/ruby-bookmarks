@@ -365,6 +365,7 @@ If there is a nice gem, but it is difficult to classify it with existing bookmar
 - [YYMMDD](https://github.com/sshaw/yymmdd) — tiny DSL for idiomatic date parsing and formatting.
 - [Libnotify](https://github.com/splattael/libnotify) — Ruby bindings for libnotify, a crossplatform user notification library.
 - [MemFs](https://github.com/simonc/memfs) — provides a fake file system that can be used for tests.
+- [Github-Changelog-Generator](https://github.com/skywinder/Github-Changelog-Generator) — automatically generate change log from your tags, issues, labels and pull requests.
 
 ### Multithreading
 
