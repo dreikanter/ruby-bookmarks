@@ -2,7 +2,7 @@
 
 This is a curated collection of essential Ruby and Ruby on Rails resources. The project aims to maintain a well-structured reference equally useful both for beginners and advanced web developers.
 
-:star2:&nbsp;stands here for Editors' Choice.
+:star:&nbsp;stands here for Editors' Choice.
 
 This list is not intended to include any random resource related to Ruby programming (we already have a most complete gem catalogue at [ruby-toolbox.com](https://ruby-toolbox.com)), but only the best and most actual alternatives in each area. You will find here latest editions of the most important books, time and community tested gems (alive projects only!), and actively updated websites. *Sharing and pull requests are very much appreciated!*
 
