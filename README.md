@@ -191,6 +191,7 @@ See also:
 - [httpie](https://github.com/jakubroztocil/httpie) — extremely handy  command line HTTP client, a user-friendly cURL replacement.
 - [ngrok](https://ngrok.com) — introspected tunnels to localhost. ngrok creates a tunnel from the public internet (http://subdomain.ngrok.com) to a port on your local machine. You can give this URL to anyone to allow them to try out a web site you're developing without doing any deployment.
 - [eye](https://github.com/kostya/eye) — a process monitor.
+- [god](https://github.com/mojombo/god) - the Ruby Framework for Process Management
 
 ## Quizes, tests, exams
 
