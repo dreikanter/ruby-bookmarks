@@ -2,7 +2,7 @@
 
 This is a curated collection of essential Ruby and Ruby on Rails resources. The project aims to maintain a well-structured reference equally useful both for beginners and advanced web developers.
 
-:star:&nbsp;stands here for Editors' Choice.
+★&nbsp;stands here for Editors' Choice.
 
 This list is not intended to include any random resource related to Ruby programming (we already have a most complete gem catalogue at [ruby-toolbox.com](https://ruby-toolbox.com)), but only the best and most actual alternatives in each area. You will find here latest editions of the most important books, time and community tested gems (alive projects only!), and actively updated websites. *Sharing and pull requests are very much appreciated!*
 
@@ -14,15 +14,15 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 
 ### For beginners and intermediate level developers
 - [Why's Poignant Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/) by Why the Lucky Stiff
-- :star2: Eloquent Ruby by *Russ Olsen*. [Official site](http://eloquentruby.com/), [Amazon](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional/dp/0321584104/).
+- ★ Eloquent Ruby by *Russ Olsen*. [Official site](http://eloquentruby.com/), [Amazon](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional/dp/0321584104/).
 - [Programming Ruby 1.9 & 2.0](http://pragprog.com/book/ruby4/programming-ruby-1-9-2-0) by Dave Thomas, Andy Hunt, and Chad Fowler.
 - [Learn Ruby The Hard Way](http://ruby.learncodethehardway.org/book/) by Zed A. Shaw. Available to pre-order at [amazon](http://www.amazon.com/Learn-Ruby-Hard-Shaws-Series/dp/032188499X).
 - [The Ruby Programming Language](http://www.amazon.com/Ruby-Programming-Language-David-Flanagan/dp/0596516177) by David Flanagan and Yukihiro "Matz" Matsumoto.
 
 ### Advancing Ruby knowledge
 
-- :star2: Ruby Under a Microscope: An Illustrated Guide to Ruby Internals by *Pat Shaughnessy*. [Official site](http://patshaughnessy.net/ruby-under-a-microscope), [Amazon](http://www.amazon.com/Ruby-Under-Microscope-Illustrated-Internals/dp/1593275277/), [O'Reilly](http://shop.oreilly.com/product/9781593275273.do).
-- :star2: Confident Ruby: 32 Patterns for Joyful Coding by *Avdi Grimm*. [Official site](http://www.confidentruby.com/), [Amazon](http://www.amazon.com/Confident-Ruby-Patterns-Joyful-Coding-ebook/dp/B00ETE0D2S/), [Pragprog](https://pragprog.com/book/agcr/confident-ruby).
+- ★ Ruby Under a Microscope: An Illustrated Guide to Ruby Internals by *Pat Shaughnessy*. [Official site](http://patshaughnessy.net/ruby-under-a-microscope), [Amazon](http://www.amazon.com/Ruby-Under-Microscope-Illustrated-Internals/dp/1593275277/), [O'Reilly](http://shop.oreilly.com/product/9781593275273.do).
+- ★ Confident Ruby: 32 Patterns for Joyful Coding by *Avdi Grimm*. [Official site](http://www.confidentruby.com/), [Amazon](http://www.amazon.com/Confident-Ruby-Patterns-Joyful-Coding-ebook/dp/B00ETE0D2S/), [Pragprog](https://pragprog.com/book/agcr/confident-ruby).
 - [Exceptional Ruby: Master the Art of Handling Failure in Ruby](http://pragprog.com/book/ager/exceptional-ruby) by Avdi Grimm.
 - [Metaprogramming Ruby: Program Like the Ruby Pros](http://www.amazon.com/Metaprogramming-Ruby-Program-Like-Pros-ebook/dp/B00A376YAK/) by Paolo Perrotta.
 - [The Well-Grounded Rubyist](http://www.amazon.com/The-Well-Grounded-Rubyist-David-Black/dp/1617291692/) by David A. Black.
@@ -32,7 +32,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 
 ### Ruby on Rails for beginners
 
-- :star2: The Rails 4 Way by *Obie Fernandez* and *Kevin Faustino*. [Amazon](http://www.amazon.com/Rails-Edition-Addison-Wesley-Professional-Series-ebook/dp/B00KKNO8YQ/), [Informit](http://www.informit.com/store/rails-4-way-9780321944276).
+- ★ The Rails 4 Way by *Obie Fernandez* and *Kevin Faustino*. [Amazon](http://www.amazon.com/Rails-Edition-Addison-Wesley-Professional-Series-ebook/dp/B00KKNO8YQ/), [Informit](http://www.informit.com/store/rails-4-way-9780321944276).
 - [Agile Web Development with Rails 4](http://www.amazon.com/Agile-Development-Rails-Facets-Ruby/dp/1937785564/) by Sam Ruby, Dave Thomas, and David Heinemeier Hansson.
 - [Rails 4 in Action](http://manning.com/bigg2) by Steve Klabnik, Ryan Bigg and Yehuda Katz.
 
@@ -63,19 +63,19 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 
 - [Ruby Inside](http://rubyinside.com) — one of the most popular Ruby blogs.
 - [RubyFlow](http://rubyflow.com) — the Ruby Community Blog.
-- :star2: [Green Ruby News](http://greenruby.org)
+- ★ [Green Ruby News](http://greenruby.org)
 - [Random Ruby and Rails tips](http://rubyquicktips.com)
-- :star2: [Practicing Ruby](https://practicingruby.com) — delightful lessons for dedicated programmers.
+- ★ [Practicing Ruby](https://practicingruby.com) — delightful lessons for dedicated programmers.
 - [Yehuda Katz](http://yehudakatz.com)
 - [Sitepoint](http://www.sitepoint.com/ruby/)
 - [A Fresh Cup](http://afreshcup.com/) — links to new resources and insightful blog posts.
 
 ## Screencasts and courses
 
-- :star2: [Pluralsight](http://www.pluralsight.com/training/Courses#ruby) Ruby Course Library.
-- :star2: [RubyTapas](http://rubytapas.com) by Avdi Grimm.
-- :star2: [The Pragmatic Studio](http://pragmaticstudio.com)
-- :star2: [Lynda.com](http://www.lynda.com/search?q=ruby)
+- ★ [Pluralsight](http://www.pluralsight.com/training/Courses#ruby) Ruby Course Library.
+- ★ [RubyTapas](http://rubytapas.com) by Avdi Grimm.
+- ★ [The Pragmatic Studio](http://pragmaticstudio.com)
+- ★ [Lynda.com](http://www.lynda.com/search?q=ruby)
 - [Ruby screencasts at TutsPlus.com](http://code.tutsplus.com/categories/ruby/courses)
 - [Rails screencasts at TutsPlus.com](http://code.tutsplus.com/categories/rails/courses)
 - [RailsCasts](http://railscasts.com)
@@ -85,7 +85,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [confreaks.com](http://confreaks.com/) — expert recording services for conferences, seminars, and workshops.
 - [Learnable](https://learnable.com/topics/ruby) — video courses and books ($30 per month).
 - [Destroy All Software](https://www.destroyallsoftware.com/) — by Gary Bernhardt.
-- :star2: [GoRails](https://gorails.com) — a series of screencasts and guides for all aspects of Ruby on Rails. Learn how to setup your machine, build a Rails application, and deploy it to a server.
+- ★ [GoRails](https://gorails.com) — a series of screencasts and guides for all aspects of Ruby on Rails. Learn how to setup your machine, build a Rails application, and deploy it to a server.
 - [RubySteps](http://patmaddox.com/rubysteps/) - daily emails on Ruby, Rails, TDD, OOP, and Refactoring with code examples and challenges. Also mob programming events with guest developers and Pat Maddox. ($149 per month).
 
 ## Other Learning Materials
@@ -129,7 +129,7 @@ See also:
 ### IDEs and text editors
 
 - StackOverflow: [What Ruby IDE do you prefer?](http://stackoverflow.com/questions/16991/what-ruby-ide-do-you-prefer)
-- :star2: [Sublime Text](http://www.sublimetext.com) — one of the best text editors for coding. Take a look at [Sublime Bookmarks](https://github.com/dreikanter/sublime-bookmarks) — a comprehensive list of plugins and other related stuff.
+- ★ [Sublime Text](http://www.sublimetext.com) — one of the best text editors for coding. Take a look at [Sublime Bookmarks](https://github.com/dreikanter/sublime-bookmarks) — a comprehensive list of plugins and other related stuff.
 - [RubyMine](http://jetbrains.com/ruby/) — intelligent Ruby and Rails IDE.
 - [Atom](http://atom.io) — a brand-new hackable text editor from Github.
 
@@ -141,7 +141,7 @@ See also:
 
 ### Environment management
 
-- :star2: [rbenv](https://github.com/sstephenson/rbenv) — a tool to to pick a Ruby version for your application and guarantee that your development environment matches production. Put rbenv to work with Bundler for painless Ruby upgrades and bulletproof deployments.
+- ★ [rbenv](https://github.com/sstephenson/rbenv) — a tool to to pick a Ruby version for your application and guarantee that your development environment matches production. Put rbenv to work with Bundler for painless Ruby upgrades and bulletproof deployments.
 - [rbenv-vars](https://github.com/sstephenson/rbenv-vars) — an rbenv plugin that safely sets global and per-project environment variables.
 - [RVM](https://rvm.io) — a command-line tool which allows you to easily install, manage, and work with multiple ruby environments from interpreters to sets of gems.
 - [chruby](https://github.com/postmodern/chruby) — a tool that changes the current Ruby.
@@ -179,7 +179,7 @@ See also:
 
 - [Capistrano](https://github.com/capistrano/capistrano) — remote multi-server automation tool.
 - [Chef](https://github.com/opscode/chef) — a systems integration framework, built to bring the benefits of configuration management to your entire infrastructure.
-- :star2: [Mina](https://github.com/mina-deploy/mina) – really fast deployer and server automation tool.
+- ★ [Mina](https://github.com/mina-deploy/mina) – really fast deployer and server automation tool.
 - [Rails + Nginx + Unicorn Dockerfile](https://github.com/seapy/dockerfiles/tree/master/rails-nginx-unicorn) — easy useable docker for rails. less configuration, affordable production.
 
 ### Other tools
@@ -286,7 +286,7 @@ See also:
 
 ### Configuration and environment variables
 
-- :star2: [dotenv](https://github.com/bkeepers/dotenv) — loads environment variables from .env file into ENV in development.
+- ★ [dotenv](https://github.com/bkeepers/dotenv) — loads environment variables from .env file into ENV in development.
 - [Figaro](https://github.com/laserlemon/figaro) — simple, Heroku-friendly Rails app configuration using ENV and a single YAML file.
 
 ### Debugging
@@ -341,9 +341,9 @@ See also:
 ### Message Queuing
 
 - [AMQP](https://github.com/ruby-amqp/amqp) — EventMachine-based RabbitMQ client.
-- :star2: [Bunny](http://rubybunny.info) — RabbitMQ Ruby client based on AMQP gem.
+- ★ [Bunny](http://rubybunny.info) — RabbitMQ Ruby client based on AMQP gem.
 - [rbzmq](https://github.com/zeromq/rbzmq) — Ruby binding for ZeroMQ.
-- :star2: [ffi-rzmq](https://github.com/chuckremes/ffi-rzmq) — FFI bindings for ZeroMQ so the library can be used under JRuby and other FFI-compliant ruby runtimes.
+- ★ [ffi-rzmq](https://github.com/chuckremes/ffi-rzmq) — FFI bindings for ZeroMQ so the library can be used under JRuby and other FFI-compliant ruby runtimes.
 
 ### Misc
 
@@ -428,7 +428,7 @@ Validation:
 
 (info collected from [Stack Overflow](http://stackoverflow.com/questions/24745809/massive-scheduling-in-ruby))
 
-- :star2: [rufus-scheduler](https://github.com/jmettraux/rufus-scheduler) — an in-process, in-memory scheduler with no persistence, accepting at, in, cron and every jobs.
+- ★ [rufus-scheduler](https://github.com/jmettraux/rufus-scheduler) — an in-process, in-memory scheduler with no persistence, accepting at, in, cron and every jobs.
 - [sidekiq-cron](https://github.com/ondrejbartas/sidekiq-cron) — scheduler based on rufus-scheduler and [Sidekiq](http://sidekiq.org) ([Redis](http://redis.io) based message queue) for persistence. Inherits web UI from Sidekiq.
 - [sidekiq-scheduler](https://github.com/Moove-it/sidekiq-scheduler) — one more job scheduler based on rufus-scheduler and Sidekiq.
 - [resque-scheduler](https://github.com/resque/resque-scheduler) — rufus-scheduler + Resque.
@@ -500,7 +500,7 @@ Binary:
 - [Ruby on Rails](http://rubyonrails.org) — an open source full-stack framework web application framework.
 - [Sinatra](http://sinatrarb.com) — a DSL for quickly creating web applications in Ruby with minimal effort.
 - [Padrino](http://padrinorb.com) — a Ruby framework built upon the Sinatra web library, created to make it fun and easy to code more advanced web applications while still adhering to the spirit that makes Sinatra great!
-- :star2: [Cuba](https://github.com/soveran/cuba) — a microframework for web development originally inspired by [Rum](https://github.com/chneukirchen/rum), a tiny but powerful mapper for Rack applications. It integrates many templates via Tilt, and testing via Cutest and Capybara.
+- ★ [Cuba](https://github.com/soveran/cuba) — a microframework for web development originally inspired by [Rum](https://github.com/chneukirchen/rum), a tiny but powerful mapper for Rack applications. It integrates many templates via Tilt, and testing via Cutest and Capybara.
 - [Lotus](https://github.com/lotus/lotus) — a complete MVC web framework.
 - [Roda](http://roda.jeremyevans.net) — a new ruby web framework, allowing for fast and DRY code using a routing tree. Find out [why you should use it](http://roda.jeremyevans.net/why.html).
 
