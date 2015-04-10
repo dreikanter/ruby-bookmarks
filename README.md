@@ -418,6 +418,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 - [YamlDb](https://github.com/ludicast/yaml_db) — a database-independent format for dumping and restoring data. It complements the the database-independent schema format found in db/schema.rb. The data is saved into db/data.yml.
 - [formtastic](https://github.com/justinfrench/formtastic) — a Rails form builder plugin with semantically rich and accessible markup.
 - [rails_param](https://github.com/nicolasblanco/rails_param) — parameter Validation & Type Coercion.
+- [RailsFriendlyURLs](https://github.com/calonso/rails_friendly_urls) - Rails gem to configure absolutely any url within your project into a SEO-Friendly one.
 
 Validation:
 
