@@ -28,7 +28,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [The Well-Grounded Rubyist](http://www.amazon.com/The-Well-Grounded-Rubyist-David-Black/dp/1617291692/) by David A. Black.
 - [Practical Object-Oriented Development in Ruby](http://poodr.com) by Sandi Metz.
 - [Clean Ruby](http://clean-ruby.com/) by Jim Gay
-- [Reliably Deploying Rails Applications](by Ben Dixon) — arobust framework for provisioning servers with Chef and deploying reliably with Capistrano 3, including example code templates you can use directly.
+- [Reliably Deploying Rails Applications](https://leanpub.com/deploying_rails_applications) by Ben Dixon — a robust framework for provisioning servers with Chef and deploying reliably with Capistrano 3, including example code templates you can use directly.
 
 ### Ruby on Rails for beginners
 
