@@ -44,6 +44,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [Deploying Rails: Automate, Deploy, Scale, Maintain, and Sleep at Night](http://www.amazon.com/Deploying-Rails-Automate-Deploy-Maintain/dp/1934356956/) by Tom Copeland, Anthony Burns.
 - [Multitenancy with Rails](http://leanpub.com/multi-tenancy-rails) by Ryan Bigg.
 - [Ruby Science](https://gumroad.com/l/ruby-science) by [thoughtbot](https://gumroad.com/l/ruby-science) — the reference for writing fantastic Rails applications.
+- [Rebuilding Rails](https://rebuilding-rails.com/) by Noah Gibbs
 
 ### Testing
 
