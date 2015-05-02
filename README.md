@@ -195,7 +195,7 @@ See also:
 - [eye](https://github.com/kostya/eye) — a process monitor.
 - [god](https://github.com/mojombo/god) - the Ruby Framework for Process Management
 
-## Quizes, tests, exams
+## Quizzes, tests, exams
 
 - [codequizzes.com](http://codequizzes.com) — learn programming by doing, not by reading.
 - [codewars.com](http://www.codewars.com) — achieve mastery through challenge.
