@@ -89,6 +89,9 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [Destroy All Software](https://www.destroyallsoftware.com/) — by Gary Bernhardt.
 - ★ [GoRails](https://gorails.com) — a series of screencasts and guides for all aspects of Ruby on Rails. Learn how to setup your machine, build a Rails application, and deploy it to a server.
 - [RubySteps](http://patmaddox.com/rubysteps/) - daily emails on Ruby, Rails, TDD, OOP, and Refactoring with code examples and challenges. Also mob programming events with guest developers and Pat Maddox. ($149 per month).
+- [UT on Rails](http://www.schneems.com/ut-rails/) - 10 weeks long Ruby on Rails
+  screencasts. It assumes you know little about programming and not used Ruby,
+Rails or databases previously. Good for beginners.
 
 ## Other Learning Materials
 
