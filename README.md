@@ -26,7 +26,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [Exceptional Ruby: Master the Art of Handling Failure in Ruby](http://pragprog.com/book/ager/exceptional-ruby) by Avdi Grimm.
 - [Metaprogramming Ruby: Program Like the Ruby Pros](http://www.amazon.com/Metaprogramming-Ruby-Program-Like-Pros-ebook/dp/B00A376YAK/) by Paolo Perrotta.
 - [The Well-Grounded Rubyist](http://www.amazon.com/The-Well-Grounded-Rubyist-David-Black/dp/1617291692/) by David A. Black.
-- [Practical Object-Oriented Development in Ruby](http://poodr.com) by Sandi Metz.
+- [Practical Object-Oriented Design in Ruby](http://poodr.com) by Sandi Metz.
 - [Clean Ruby](http://clean-ruby.com/) by Jim Gay
 - [Reliably Deploying Rails Applications](https://leanpub.com/deploying_rails_applications) by Ben Dixon — a robust framework for provisioning servers with Chef and deploying reliably with Capistrano 3, including example code templates you can use directly.
 
