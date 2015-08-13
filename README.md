@@ -71,6 +71,8 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [Yehuda Katz](http://yehudakatz.com)
 - [Sitepoint](http://www.sitepoint.com/ruby/)
 - [A Fresh Cup](http://afreshcup.com/) — links to new resources and insightful blog posts.
+- [Black Bytes](http://www.blackbytes.info) - Ruby tutorials
+- [Weissblog](http://www.justinweiss.com/blog/archives/) - Rails tutorials
 
 ## Screencasts and courses
 
