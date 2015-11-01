@@ -53,6 +53,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [Continuous Testing](http://pragprog.com/news/continuous-testing-with-ruby-rails-and-javascript-now-in-print) by Ben Rady and Rod Coffin.
 - [Everyday Rails Testing with RSpec](https://leanpub.com/everydayrailsrspec) by Aaron Sumner. Practical advice for adding reliable tests to your Rails apps with RSpec
 - [What Do I Test?](https://whatdoitest.com/) by Eric Steele.
+- [Testing Rails](http://testingrailsbook.com) - Thoughtbot Testing Rails is a practical approach to learning testing.
 
 ### Other frameworks and tools
 
