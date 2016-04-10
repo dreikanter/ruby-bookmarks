@@ -296,6 +296,7 @@ See also:
 ### Configuration and environment variables
 
 - ★ [dotenv](https://github.com/bkeepers/dotenv) — loads environment variables from .env file into ENV in development.
+- [Chamber](https://github.com/thekompanee/chamber) — A surprisingly configurable convention-based approach to managing your application's custom configuration settings.
 - [Figaro](https://github.com/laserlemon/figaro) — simple, Heroku-friendly Rails app configuration using ENV and a single YAML file.
 
 ### Debugging
