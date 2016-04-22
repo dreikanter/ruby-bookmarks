@@ -36,7 +36,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - ★ The Rails 4 Way by *Obie Fernandez* and *Kevin Faustino*. [Amazon](http://www.amazon.com/Rails-Edition-Addison-Wesley-Professional-Series-ebook/dp/B00KKNO8YQ/), [Informit](http://www.informit.com/store/rails-4-way-9780321944276).
 - [Agile Web Development with Rails 4](http://www.amazon.com/Agile-Development-Rails-Facets-Ruby/dp/1937785564/) by Sam Ruby, Dave Thomas, and David Heinemeier Hansson.
 - [Rails 4 in Action](http://manning.com/bigg2) by Ryan Bigg, Yehuda Katz, Steve Klabnik, and Rebecca Skinner.
-- [THE RUBY ON RAILS TUTORIAL](https://www.railstutorial.org/book) by Michael Hartl
+- [The Ruby on Rails Tutorial](https://www.railstutorial.org/book) by Michael Hartl
 
 ### Ruby on Rails, advanced level
 
