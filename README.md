@@ -92,6 +92,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [Practical Object-Oriented Design in Ruby](http://poodr.com) by Sandi Metz.
 - [Clean Ruby](http://clean-ruby.com/) by Jim Gay
 - [Reliably Deploying Rails Applications](https://leanpub.com/deploying_rails_applications) by Ben Dixon — a robust framework for provisioning servers with Chef and deploying reliably with Capistrano 3, including example code templates you can use directly.
+- [Rubyfu(@Rubyfu)](http://rubyfu.net) - Ruby for hackers book(Open source). Collection of ideas, tricks and skills that could be useful for Hackers.
 
 ### Ruby on Rails for beginners
 
