@@ -287,7 +287,6 @@ See also:
 ### PAAS
 
 - [Heroku](https://heroku.com) — cloud computing designed and built for developers. [More details](https://devcenter.heroku.com/categories/language-support#ruby) on Ruby support.
-- [NineFold](https://ninefold.com) — Rails-friendly hosting with a generous free tier (1.5 GB RAM, 1 CPU, 25 GB for DataBase server in the US region). Credit card required even if you fit the free tier.
 - [OpenShift](https://www.openshift.com) — Red Hat's Platform-as-a-Service that allows developers to quickly develop, host, and scale applications in a cloud environment. Capable for Rails apps [git-push deployment](https://www.openshift.com/developers/ruby). There also [a free tier](https://www.openshift.com/products/pricing) (no credit card required).
 - [AppFog](https://appfog.com) — another developer-friendly cloud service.
 
