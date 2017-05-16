@@ -63,7 +63,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
   - [Rack](#rack)
   - [Rails](#rails)
   - [Scheduling](#scheduling)
-  - [SDKs and API Wrapers](#sdks-and-api-wrapers)
+  - [SDKs and API Wrappers](#sdks-and-api-wrappers)
   - [Search](#search)
   - [Security](#security)
   - [Serialization](#serialization)
@@ -242,7 +242,7 @@ See also:
 - [Thin](http://code.macournoyer.com/thin/) – A very fast & simple Ruby web server.
 - [Puma](https://github.com/puma/puma) — a Ruby web server built for concurrency.
 - [Pow!](http://pow.cx) — a zero-config Rack server for Mac OS X.
-    - [Powder](https://github.com/Rodreegez/powder) — user-friendly CLI wraper for Pow.
+    - [Powder](https://github.com/Rodreegez/powder) — user-friendly CLI wrapper for Pow.
     - [Powify](https://github.com/sethvargo/powify) — a management tool for Pow by 37 signals. It allows you to easily install, update, and manage pow and pow applications seamlessly.
 - [Prax](http://ysbaddaden.github.io/prax/) — a pure ruby alternative to Pow! that runs on GNU/Linux.
 - [TorqueBox](http://torquebox.org) — an application platform that supports popular technologies such as Ruby on Rails and Sinatra, while extending the footprint of Ruby applications to include built-in support for services such as messaging, scheduling, caching, and daemons. TorqueBox provides an all-in-one environment, built upon the latest JBoss AS Java application server and JRuby. Functionality such as clustering, load-balancing and high-availability is included right out-of-the-box.
@@ -276,7 +276,7 @@ See also:
 - [codequizzes.com](http://codequizzes.com) — learn programming by doing, not by reading.
 - [codewars.com](http://www.codewars.com) — achieve mastery through challenge.
 - [Smarterer.com](http://smarterer.com/home) — crowdsourced tests for Ruby, Rails, and a lot of other technologies.
-- [oDesk](https://www.odesk.com/tests) — a global freelance platform that includes qualification testing for programming languages and frameworkks.
+- [oDesk](https://www.odesk.com/tests) — a global freelance platform that includes qualification testing for programming languages and frameworks.
 
 ## Hosting
 
@@ -502,7 +502,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 Validation:
 
 - [email_validator](https://github.com/balexand/email_validator) — an email validator for Rails 3 and 4.
-- [validates_email_format_of](https://github.com/validates-email-format-of/validates_email_format_of) — validate e-mail addreses against RFC 2822 and RFC 3696 with this Ruby on Rails plugin and gem.
+- [validates_email_format_of](https://github.com/validates-email-format-of/validates_email_format_of) — validate e-mail addresses against RFC 2822 and RFC 3696 with this Ruby on Rails plugin and gem.
 
 ### Scheduling
 
@@ -515,7 +515,7 @@ Validation:
 - [Clockwork](https://github.com/tomykaira/clockwork) — a cron replacement. It runs as a lightweight, long-running Ruby process which sits alongside your web processes (Mongrel/Thin) and your worker processes (DJ/Resque/Minion/Stalker) to schedule recurring work at particular times or dates. Here is a [blog post](http://adam.herokuapp.com/past/2010/4/13/rethinking_cron/) with more details.
 - [Whenever](https://github.com/javan/whenever) — a Ruby wrapper for crond, with a clear syntax (each job is a separate process).
 
-### SDKs and API Wrapers
+### SDKs and API Wrappers
 
 - [AWS SDK](http://aws.amazon.com/sdkforruby/) — Amazon Web Services API for Ruby.
 - [Dropbox Core API](https://www.dropbox.com/developers/core/start/ruby) for Ruby.
