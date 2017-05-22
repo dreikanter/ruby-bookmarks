@@ -98,7 +98,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 ### Ruby on Rails for beginners
 
 - ★ The Rails 4 Way by *Obie Fernandez* and *Kevin Faustino*. [Amazon](http://www.amazon.com/Rails-Edition-Addison-Wesley-Professional-Series-ebook/dp/B00KKNO8YQ/), [Informit](http://www.informit.com/store/rails-4-way-9780321944276).
-- [Agile Web Development with Rails 5](http://a.co/aByGSbZ) by Sam Ruby, Dave Thomas, and David Heinemeier Hansson. (5.1 update on [Amazon](https://www.amazon.com/Agile-Web-Development-Rails-5-1/dp/1680502514/ref=sr_1_2) and [PragProg](https://pragprog.com/book/rails51/agile-web-development-with-rails-5-1))
+- [Agile Web Development with Rails 5](https://www.amazon.com/dp/1680501712/) by Sam Ruby, Dave Thomas, and David Heinemeier Hansson. (5.1 update on [Amazon](https://www.amazon.com/Agile-Web-Development-Rails-5-1/dp/1680502514/ref=sr_1_2) and [PragProg](https://pragprog.com/book/rails51/agile-web-development-with-rails-5-1))
 - [Rails 4 in Action](http://manning.com/bigg2) by Ryan Bigg, Yehuda Katz, Steve Klabnik, and Rebecca Skinner.
 - [The Ruby on Rails Tutorial](https://www.railstutorial.org/book) by Michael Hartl
 - [Learn Ruby on Rails](http://learn-rails.com/learn-ruby-on-rails.html) by Daniel Kehoe. [Amazon](http://www.amazon.com/dp/B00QK2T1SY).
