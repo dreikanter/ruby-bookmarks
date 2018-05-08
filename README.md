@@ -121,6 +121,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [Everyday Rails Testing with RSpec](https://leanpub.com/everydayrailsrspec) by Aaron Sumner. Practical advice for adding reliable tests to your Rails apps with RSpec
 - [What Do I Test?](https://whatdoitest.com/) by Eric Steele.
 - [Testing Rails](http://testingrailsbook.com) - Thoughtbot Testing Rails is a practical approach to learning testing.
+- [Rails Testing Handbook](https://semaphoreci.com/ebooks/rails-testing-handbook) — a free ebook by Semaphore on building Rails apps with BDD using RSpec and Cucumber. Based on Rails 5.
 
 ### Other frameworks and tools
 
