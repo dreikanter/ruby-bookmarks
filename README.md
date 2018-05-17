@@ -144,6 +144,13 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [Weissblog](http://www.justinweiss.com/blog/archives/) — Rails tutorials
 - [A Ruby Story](http://www.arubystory.com) - Ruby & Rails tutorials (with cat pictures).
 
+## Community Resources
+
+- [Ruby on Rails Survey](http://rails-hosting.com/) -- a biennial survey of the Ruby on Rails community.
+- [/r/rails](http://reddit.com/r/rails) -- Rails community on Reddit
+- [stackoverflow](https://stackoverflow.com/questions/tagged/ruby-on-rails) -- Questions tagged with 'ruby-on-rails'
+- [Ruby on Rails: Talk](https://groups.google.com/forum/#!forum/rubyonrails-talk) -- Google Groups / Ruby on Rails
+
 ## Screencasts and courses
 
 - ★ [Pluralsight](http://www.pluralsight.com/training/Courses#ruby) Ruby Course Library.
