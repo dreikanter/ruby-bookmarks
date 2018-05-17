@@ -160,7 +160,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [Learnable](https://learnable.com/topics/ruby) — video courses and books ($30 per month).
 - [Destroy All Software](https://www.destroyallsoftware.com/) — by Gary Bernhardt.
 - ★ [GoRails](https://gorails.com) — a series of screencasts and guides for all aspects of Ruby on Rails. Learn how to setup your machine, build a Rails application, and deploy it to a server.
-- [RubySteps](https://www.rubysteps.com/) - daily emails on Ruby, Rails, TDD, OOP, and Refactoring with code examples and challenges. Also mob programming events with guest developers and Pat Maddox. ($149 per month).
+- [RubySteps](https://www.rubysteps.com) - daily emails on Ruby, Rails, TDD, OOP, and Refactoring with code examples and challenges. Also mob programming events with guest developers and Pat Maddox. ($149 per month).
 - [UT on Rails](http://www.schneems.com/ut-rails/) - 10 weeks long Ruby on Rails
   screencasts. It assumes you know little about programming and not used Ruby,
 Rails or databases previously. Good for beginners.
