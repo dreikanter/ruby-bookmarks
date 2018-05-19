@@ -146,10 +146,12 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 
 ## Community Resources
 
-- [Ruby on Rails Survey](http://rails-hosting.com/) -- a biennial survey of the Ruby on Rails community.
-- [/r/rails](http://reddit.com/r/rails) -- Rails community on Reddit
-- [stackoverflow](https://stackoverflow.com/questions/tagged/ruby-on-rails) -- Questions tagged with 'ruby-on-rails'
-- [Ruby on Rails: Talk](https://groups.google.com/forum/#!forum/rubyonrails-talk) -- Google Groups / Ruby on Rails
+- [Ruby on Rails Survey](http://rails-hosting.com) — a biennial survey of the Ruby on Rails community.
+- [/r/rails](http://reddit.com/r/rails) — Ruby community on Reddit.
+- [/r/rails](http://reddit.com/r/rails) — Rails community on Reddit.
+- [StackOverflow](https://stackoverflow.com/questions/tagged/ruby) — Questions tagged with `ruby`.
+- [StackOverflow](https://stackoverflow.com/questions/tagged/ruby-on-rails) — Questions tagged with `ruby-on-rails`.
+- [Ruby on Rails: Talk](https://groups.google.com/forum/#!forum/rubyonrails-talk) — Ruby on Rails at Google Groups.
 
 ## Screencasts and courses
 
