@@ -147,7 +147,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 ## Community Resources
 
 - [Ruby on Rails Survey](http://rails-hosting.com) — a biennial survey of the Ruby on Rails community.
-- [/r/rails](http://reddit.com/r/rails) — Ruby community on Reddit.
+- [/r/ruby](http://reddit.com/r/ruby) — Ruby community on Reddit.
 - [/r/rails](http://reddit.com/r/rails) — Rails community on Reddit.
 - [StackOverflow](https://stackoverflow.com/questions/tagged/ruby) — Questions tagged with `ruby`.
 - [StackOverflow](https://stackoverflow.com/questions/tagged/ruby-on-rails) — Questions tagged with `ruby-on-rails`.
