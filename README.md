@@ -175,6 +175,8 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [UT on Rails](http://www.schneems.com/ut-rails/) - 10 weeks long Ruby on Rails
   screencasts. It assumes you know little about programming and not used Ruby,
 Rails or databases previously. Good for beginners.
+- ★ [Thoughtbot Upcase](https://thoughtbot.com/upcase/)
+- [Drifting Ruby](https://www.driftingruby.com/)
 
 ## Other Learning Materials
 
