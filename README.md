@@ -392,6 +392,7 @@ See also:
 - [FastSpring](https://github.com/fastspring/fastspring-ruby) — subscription API for Rails.
 - [Active Merchant](https://github.com/Shopify/active_merchant) — a simple and unified API to access dozens of different payment gateways with very different internal APIs.
 - [PayPal](https://github.com/paypal/rest-api-sdk-ruby) — this SDK provides Ruby APIs to create, process and manage payment.
+- [Solidus](https://github.com/solidusio/solidus) — An open source ecommerce solution built with Ruby on Rails.
 - [Shoppe](http://tryshoppe.com/) — e-commerce platform for Ruby on Rails.
 
 ### Graphics
