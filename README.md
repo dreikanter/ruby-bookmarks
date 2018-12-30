@@ -322,6 +322,7 @@ See also:
 - [Thinking Sphinx](https://github.com/pat/thinking-sphinx) — a library for connecting ActiveRecord to the Sphinx full-text search tool, and integrates closely with Rails (but also works with other Ruby web frameworks).
 - [Ancestry](https://github.com/stefankroes/ancestry) — organise ActiveRecord model into a tree structure.
 - [Squeel](https://github.com/activerecord-hackery/squeel) — lets you write your Active Record queries with fewer strings, and more Ruby, by making the Arel awesomeness that lies beneath Active Record more accessible.
+- [pp_sql](https://github.com/kvokka/pp_sql) - Rails ActiveRecord SQL queries log beautifier.
 
 ### API
 
