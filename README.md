@@ -141,7 +141,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [Yehuda Katz](http://yehudakatz.com)
 - [Sitepoint](http://www.sitepoint.com/ruby/)
 - [A Fresh Cup](http://afreshcup.com/) — links to new resources and insightful blog posts.
-- [Black Bytes](http://www.blackbytes.info) — Ruby tutorials
+- [RubyGuides](https://www.rubyguides.com) — Ruby tutorials & articles to help you become a better developer
 - [Weissblog](http://www.justinweiss.com/blog/archives/) — Rails tutorials
 - [A Ruby Story](http://www.arubystory.com) - Ruby & Rails tutorials (with cat pictures).
 
