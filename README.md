@@ -373,7 +373,7 @@ See also:
 ### CSS
 
 - [LESS](https://github.com/cowboyd/less.rb) — leaner CSS, in your browser or Ruby.
-- [Bourbon](http://bourbon.io) — alightweight mixin library for Sass.
+- [Bourbon](http://bourbon.io) — a lightweight mixin library for Sass.
 - [SASS](https://github.com/sass/sass) — an extension of CSS3, adding nested rules, variables, mixins, selector inheritance, and more. It's translated to well-formatted, standard CSS using the command line tool or a web-framework plugin.
 - [Bitters](https://github.com/thoughtbot/bitters) — add a dash of pre-defined style to your Bourbon.
 - [Autoprefixer](https://github.com/ai/autoprefixer-rails) — a tool to parse CSS and add vendor prefixes to CSS rules using values from the Can I Use. This gem provides Ruby and Ruby on Rails integration with this JavaScript tool.
@@ -458,7 +458,7 @@ If there is a nice gem, but it is difficult to classify it with existing bookmar
 - [twig](https://github.com/rondevera/twig) Your personal Git branch assistant
 - [datashift](https://github.com/autotelik/datashift) Comprehensive Excel and CSV import/export tools for Ruby
 - [Configurations](https://github.com/beatrichartz/configurations) — provides a unified approach to do configurations for gems or other ruby code.
-- [awesome_print](https://github.com/michaeldv/awesome_print) — a Ruby library that pretty prints Ruby objects in full color exposing their internal structure with proper indentation. Rails ActiveRecord objects and usage within Rails templates are supported via included mixins.
+- [awesome_print](https://github.com/awesome-print/awesome_print) — a Ruby library that pretty prints Ruby objects in full color exposing their internal structure with proper indentation. Rails ActiveRecord objects and usage within Rails templates are supported via included mixins.
 - [YYMMDD](https://github.com/sshaw/yymmdd) — tiny DSL for idiomatic date parsing and formatting.
 - [Libnotify](https://github.com/splattael/libnotify) — Ruby bindings for libnotify, a crossplatform user notification library.
 - [MemFs](https://github.com/simonc/memfs) — provides a fake file system that can be used for tests.
