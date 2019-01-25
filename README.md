@@ -195,6 +195,7 @@ Rails or databases previously. Good for beginners.
 - [RubyOffRails](https://rubyoffrails.com/) — An online Ruby course recently open sourced.
 - [The Odin Project](http://www.theodinproject.com/ruby-programming) — an online Ruby lesson plan with a community to help.
 - [Ruby one liners](https://github.com/learnbyexample/Command-line-text-processing/blob/master/ruby_one_liners.md) (a page from Command Line Text Processing project).
+- [Ruby Regexp](https://leanpub.com/rubyregexp) — free ebook to learn Ruby regular expressions, includes exercises.
 
 ## Style Guides
 
