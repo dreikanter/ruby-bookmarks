@@ -143,7 +143,8 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [A Fresh Cup](http://afreshcup.com/) — links to new resources and insightful blog posts.
 - [RubyGuides](https://www.rubyguides.com) — Ruby tutorials & articles to help you become a better developer
 - [Weissblog](http://www.justinweiss.com/blog/archives/) — Rails tutorials
-- [A Ruby Story](http://www.arubystory.com) - Ruby & Rails tutorials (with cat pictures).
+- [Santi Metz](https://www.sandimetz.com/blog/) - writes about flexible object-oriented code in Ruby and Rails, avid speaker and author of [Practical Object-Oriented Design in Ruby](http://poodr.com).
+- [Rails Girls](http://guides.railsgirls.com/) — Rails tutorials for girls in a variety of languages.
 
 ## Community Resources
 
@@ -156,7 +157,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 
 ## Screencasts and courses
 
-- ★ [Pluralsight](http://www.pluralsight.com/training/Courses#ruby) Ruby Course Library.
+- ★ [Pluralsight](https://www.pluralsight.com/search?q=ruby) Ruby Course Library.
 - ★ [RubyTapas](http://rubytapas.com) by Avdi Grimm.
 - ★ [The Pragmatic Studio](http://pragmaticstudio.com)
 - ★ [Lynda.com](http://www.lynda.com/search?q=ruby)
@@ -167,7 +168,6 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [Ruby screencasts at TutsPlus.com](http://code.tutsplus.com/categories/ruby/courses)
 - [Rails screencasts at TutsPlus.com](http://code.tutsplus.com/categories/rails/courses)
 - [RailsCasts](http://railscasts.com)
-- [CodeSchool](https://www.codeschool.com/paths/ruby) (includes Rails for zombies).
 - [Learn Rails the Zombie Way](http://railsforzombies.org)
 - [CodeAcademy](http://www.codecademy.com/tracks/ruby)
 - [confreaks.com](http://confreaks.com/) — expert recording services for conferences, seminars, and workshops.
@@ -180,6 +180,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 Rails or databases previously. Good for beginners.
 - ★ [Thoughtbot Upcase](https://thoughtbot.com/upcase/)
 - [Drifting Ruby](https://www.driftingruby.com/)
+- [The Complete Ruby on Rails Developer Course](https://www.udemy.com/the-complete-ruby-on-rails-developer-course/) - A complete begginer friendly low price course on udemy with a lot of extra infos.
 
 ## Other Learning Materials
 
