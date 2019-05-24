@@ -420,6 +420,7 @@ See also:
 - [Hatchet](https://github.com/gshutler/hatchet) — logging library that provides the ability to add class/module specific filters.
 - [Whoops](http://whoopsapp.com) — a free, self-hosted tool for logging application events like errors or background worker completion (uses Rails for web frontend and MongoDB).
 - [logstasher](https://github.com/shadabahmed/logstasher) Awesome rails logs
+- [Rails Pretty logger](https://github.com/kekik/rails-pretty-logger/) Check and search logs from dashboard, use hightlight to spot easily, add hourly rotation if needed.
 
 ### Mail
 
