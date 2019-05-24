@@ -334,6 +334,7 @@ See also:
 - [RABL](https://github.com/nesquena/rabl) — a Rails and Padrino ruby templating system for generating JSON, XML, MessagePack, PList and BSON.
 - [Grape](https://github.com/intridea/grape) — an opinionated micro-framework for creating REST-like APIs in Ruby.
 - [Pliny](https://github.com/interagent/pliny) – write excellent APIs in Ruby.
+- [Committee](https://github.com/interagent/committee) - A collection of middleware to help build services with JSON Schema, OpenAPI 2, OpenAPI 3.
 
 ### Authentication
 
@@ -353,16 +354,12 @@ See also:
 
 ### Background Jobs
 
+- [Sidekiq](http://sidekiq.org) — a full-featured background processing framework for Ruby. It aims to be simple to integrate with any modern Rails application and much higher performance than other existing solutions.
 - [Backburner](https://github.com/nesquena/backburner) — a beanstalkd-powered job queue that can handle a very high volume of jobs.
-- [Stalker](https://github.com/han/stalker) — a minimalist queuing DSL for Beanstalk.
 - [Delayed::Job](https://github.com/tobi/delayed_job) — database backed asynchronous priority queue.
-- [Minion](https://github.com/orionz/minion) — simple job queue based on AMQP gem and Bunny.
-- [Qu](https://github.com/bkeepers/qu) — a Ruby library for queuing and processing background jobs.
 - [que](https://github.com/chanks/que) — a Ruby job queue that uses PostgreSQL's advisory locks for speed and reliability.
 - [Resque](https://github.com/resque/resque) — a Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later.
-- [Sidekiq](http://sidekiq.org) — a full-featured background processing framework for Ruby. It aims to be simple to integrate with any modern Rails application and much higher performance than other existing solutions.
 - [Sucker Punch](https://github.com/brandonhilkert/sucker_punch) — an asynchronous processing library using Celluloid, heavily influenced by Sidekiq and girl_friday.
-- [Ost](https://github.com/soveran/ost) — a lightweight Redis based queues and workers.
 - [Ohm](https://github.com/soveran/ohm) — object-hash mapping for Redis.
 
 ### Bootstrap
@@ -391,6 +388,7 @@ See also:
 
 ### Debugging
 
+- [Pry](http://pryrepl.org) - A runtime developer console and IRB alternative with powerful introspection capabilities.
 - [Byebug](https://github.com/deivid-rodriguez/byebug) — a simple to use, feature rich debugger for Ruby 2. It uses the new TracePoint API for execution control and the new Debug Inspector API for call stack navigation, so it doesn't depend on internal core sources. It's developed as a C extension, so it's fast. And it has a full test suite so it's reliable.
 
 ### E-commerce
@@ -399,7 +397,6 @@ See also:
 - [Active Merchant](https://github.com/Shopify/active_merchant) — a simple and unified API to access dozens of different payment gateways with very different internal APIs.
 - [PayPal](https://github.com/paypal/rest-api-sdk-ruby) — this SDK provides Ruby APIs to create, process and manage payment.
 - [Solidus](https://github.com/solidusio/solidus) — An open source ecommerce solution built with Ruby on Rails.
-- [Shoppe](http://tryshoppe.com/) — e-commerce platform for Ruby on Rails.
 
 ### Graphics
 
@@ -413,12 +410,10 @@ See also:
 
 ### Logging
 
-- [MonoLogger](https://github.com/steveklabnik/mono_logger) — a lock-free logger for Ruby 2.0.
 - [Yell](https://github.com/rudionrails/yell) — Your Extensible Logging Library, a comprehensive logging replacement for Ruby.
 - [Fluentd](https://github.com/fluent/fluentd) — an open source data collector designed for processing data streams, which instantly enables you to have Log Management, Big Data Analytics, etc.
 - [mongodb_logger](https://github.com/le0pard/mongodb_logger) — an alternative logger for Rails or Rack based app, which log all requests of you application into MongoDB database (allow to store and search any information from logs; web panel allow filter logs, build graphs using MapReduce by information from logs).
 - [Hatchet](https://github.com/gshutler/hatchet) — logging library that provides the ability to add class/module specific filters.
-- [Whoops](http://whoopsapp.com) — a free, self-hosted tool for logging application events like errors or background worker completion (uses Rails for web frontend and MongoDB).
 - [logstasher](https://github.com/shadabahmed/logstasher) Awesome rails logs
 - [Rails Pretty logger](https://github.com/kekik/rails-pretty-logger/) Check and search logs from dashboard, use hightlight to spot easily, add hourly rotation if needed.
 
