@@ -34,10 +34,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
   - [Deployment Automation and Configuration Management](#deployment-automation-and-configuration-management)
   - [Other tools](#other-tools)
 - [Quizzes, tests, exams](#quizzes-tests-exams)
-- [Hosting](#hosting)
-  - [VPS](#vps)
-  - [PAAS](#paas)
-  - [Some materials on Rails deployment](#some-materials-on-rails-deployment)
+- [Deployment](#deployment)
 - [Gems](#gems)
   - [ActiveRecord](#activerecord)
   - [API](#api)
@@ -293,23 +290,11 @@ See also:
 
 ## Quizzes, tests, exams
 
-- [codequizzes.com](http://codequizzes.com) — learn programming by doing, not by reading.
-- [codewars.com](http://www.codewars.com) — achieve mastery through challenge.
-- [oDesk](https://www.odesk.com/tests) — a global freelance platform that includes qualification testing for programming languages and frameworks.
+- [codequizzes.com](http://codequizzes.com) — Learn programming by doing, not by reading.
+- [codewars.com](http://www.codewars.com) — Achieve mastery through challenge.
+- [21 Essential Ruby Interview Questions](https://www.toptal.com/ruby/interview-questions) at Toptal.
 
-## Hosting
-
-### VPS
-
-- [DigitalOcean](https://digitalocean.com) — fast VPS hosting. Among other features they provide one-click Rails installation that uses Nginx with Unicorn on Ubuntu.
-
-### PAAS
-
-- [Heroku](https://heroku.com) — cloud computing designed and built for developers. [More details](https://devcenter.heroku.com/categories/language-support#ruby) on Ruby support.
-- [OpenShift](https://www.openshift.com) — Red Hat's Platform-as-a-Service that allows developers to quickly develop, host, and scale applications in a cloud environment. Capable for Rails apps [git-push deployment](https://www.openshift.com/developers/ruby). There also [a free tier](https://www.openshift.com/products/pricing) (no credit card required).
-- [AppFog](https://appfog.com) — another developer-friendly cloud service.
-
-### Some materials on Rails deployment
+## Deployment
 
 - [A guide to setting up a Ruby on Rails production environment](https://gorails.com/deploy/ubuntu/14.04) at DigitalOcean.
 - [How To Automate Ruby On Rails Application Deployments Using Capistrano](https://www.digitalocean.com/community/tutorials/how-to-automate-ruby-on-rails-application-deployments-using-capistrano)
