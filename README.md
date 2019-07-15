@@ -99,25 +99,24 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 
 ### Ruby on Rails for beginners
 
-- ★ The Rails 4 Way by *Obie Fernandez* and *Kevin Faustino*. [Amazon](http://www.amazon.com/Rails-Edition-Addison-Wesley-Professional-Series-ebook/dp/B00KKNO8YQ/), [Informit](http://www.informit.com/store/rails-4-way-9780321944276)
-- [Agile Web Development with Rails 5](https://www.amazon.com/dp/1680501712/) by Sam Ruby, Dave Thomas, and David Heinemeier Hansson. (5.1 update on [Amazon](https://www.amazon.com/Agile-Web-Development-Rails-5-1/dp/1680502514/ref=sr_1_2) and [PragProg](https://pragprog.com/book/rails51/agile-web-development-with-rails-5-1))
-- [Rails 4 in Action](http://manning.com/bigg2) by Ryan Bigg, Yehuda Katz, Steve Klabnik, and Rebecca Skinner
+- ★ [The Rails 5 Way](https://www.amazon.com/dp/B077D9X5NM/) by *Obie Fernandez*
+- [Agile Web Development with Rails 6](https://pragprog.com/book/rails6/agile-web-development-with-rails-6) 
 - [The Ruby on Rails Tutorial](https://www.railstutorial.org/book) by Michael Hartl
 - [Learn Ruby on Rails](http://learn-rails.com/learn-ruby-on-rails.html) by Daniel Kehoe. [Amazon](http://www.amazon.com/dp/B00QK2T1SY)
 
 ### Ruby on Rails, advanced level
 
-- [Crafting Rails 4 Applications: Expert Practices for Everyday Rails Development](http://www.amazon.com/Crafting-Rails-Applications-Practices-Development/dp/1937785556/) by José Valim
-- [Rails AntiPatterns: Best Practice Ruby on Rails Refactoring](http://www.amazon.com/Rails-AntiPatterns-Refactoring-Addison-Wesley-Professional/dp/0321604814/) by Chad Pytel, Tammer Saleh
-- [Deploying Rails: Automate, Deploy, Scale, Maintain, and Sleep at Night](http://www.amazon.com/Deploying-Rails-Automate-Deploy-Maintain/dp/1934356956/) by Tom Copeland, Anthony Burns
-- [Multitenancy with Rails](http://leanpub.com/multi-tenancy-rails) by Ryan Bigg
-- [Ruby Science](https://gumroad.com/l/ruby-science) by [thoughtbot](https://gumroad.com/l/ruby-science) — The reference for writing fantastic Rails applications.
-- [Rebuilding Rails](https://rebuilding-rails.com/) by Noah Gibbs
+- [Crafting Rails 4 Applications: Expert Practices for Everyday Rails Development](http://www.amazon.com/Crafting-Rails-Applications-Practices-Development/dp/1937785556/) by *José Valim*
+- [Rails AntiPatterns: Best Practice Ruby on Rails Refactoring](http://www.amazon.com/Rails-AntiPatterns-Refactoring-Addison-Wesley-Professional/dp/0321604814/) by *Chad Pytel*, *Tammer Saleh*
+- [Deploying Rails: Automate, Deploy, Scale, Maintain, and Sleep at Night](http://www.amazon.com/Deploying-Rails-Automate-Deploy-Maintain/dp/1934356956/) by *Tom Copeland*, *Anthony Burns*
+- [Multitenancy with Rails](http://leanpub.com/multi-tenancy-rails) by *Ryan Bigg*
+- [Ruby Science](https://gumroad.com/l/ruby-science) by *thoughtbot*
+- [Rebuilding Rails](https://rebuilding-rails.com/) by *Noah Gibbs*
 
 ### Testing
 
 - [The RSpec Book: Behaviour Driven Development with RSpec, Cucumber, and Friends](http://www.amazon.com/The-RSpec-Book-Behaviour-Development/dp/1934356379/) by David Chelimsky, Dave Astels, Bryan Helmkamp, Dan North, Zach Dennis, Aslak Hellesoy.
-- [Rails 4 Test Prescriptions: Build a Healthy Codebase](http://pragprog.com/book/nrtest2/rails-4-test-prescriptions) by Noel Rappin — a comprehensive guide to how tests can help you design and write better Rails applications. In this completely revised edition, you’ll learn why testing works and how to test effectively using Rails 4, Minitest 5, and RSpec 3, as well as popular testing libraries such as factory_girl and Cucumber.
+- [Rails 5 Test Prescriptions: Build a Healthy Codebase](https://pragprog.com/book/nrtest3/rails-5-test-prescriptions) by Noel Rappin — Does your Rails code suffer from bloat, brittleness, or inaccuracy? Cure these problems with the regular application of test-driven development. You’ll use Rails 5.2, Minitest 5, and RSpec 3.7, as well as popular testing libraries such as factory_bot and Cucumber.
 - [Continuous Testing](http://pragprog.com/news/continuous-testing-with-ruby-rails-and-javascript-now-in-print) by Ben Rady and Rod Coffin.
 - [Everyday Rails Testing with RSpec](https://leanpub.com/everydayrailsrspec) by Aaron Sumner. Practical advice for adding reliable tests to your Rails apps with RSpec
 - [What Do I Test?](https://whatdoitest.com/) by Eric Steele.
