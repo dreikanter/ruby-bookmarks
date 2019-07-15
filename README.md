@@ -13,7 +13,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 ## Table of Contents
 
 - [Books](#books)
-  - [For beginners and intermediate level developers ](#for-beginners-and-intermediate-level-developers)
+  - [For beginners and intermediate level developers](#for-beginners-and-intermediate-level-developers)
   - [Advancing Ruby knowledge](#advancing-ruby-knowledge)
   - [Ruby on Rails for beginners](#ruby-on-rails-for-beginners)
   - [Ruby on Rails, advanced level](#ruby-on-rails-advanced-level)
@@ -74,32 +74,32 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 
 ### For beginners and intermediate level developers
 
-- ★ Eloquent Ruby by *Russ Olsen*. [Official site](http://eloquentruby.com/), [Amazon](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional/dp/0321584104/).
-- [Programming Ruby 1.9 & 2.0](http://pragprog.com/book/ruby4/programming-ruby-1-9-2-0) by Dave Thomas, Andy Hunt, and Chad Fowler.
-- [Learn Ruby The Hard Way](http://ruby.learncodethehardway.org/book/) by Zed A. Shaw. Available to pre-order at [amazon](http://www.amazon.com/Learn-Ruby-Hard-Shaws-Series/dp/032188499X).
-- [The Ruby Programming Language](http://www.amazon.com/Ruby-Programming-Language-David-Flanagan/dp/0596516177) by David Flanagan and Yukihiro "Matz" Matsumoto.
-- [Why's Poignant Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/) by Why the Lucky Stiff
+- ★ [Eloquent Ruby](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional/dp/0321584104/) by *Russ Olsen*
+- [Programming Ruby](http://pragprog.com/book/ruby4/programming-ruby-1-9-2-0) by *Dave Thomas*, *Andy Hunt*, and *Chad Fowler*
+- [Learn Ruby The Hard Way](https://www.amazon.com/dp/032188499X) by *Zed A. Shaw* ([Official site](http://ruby.learncodethehardway.org/book/))
+- [The Ruby Programming Language](http://www.amazon.com/dp/0596516177) by *David Flanagan* and *Yukihiro "Matz" Matsumoto*
+- [Why's Poignant Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/) by *Why the Lucky Stiff*
 
 ### Advancing Ruby knowledge
 
-- ★ Ruby Under a Microscope: An Illustrated Guide to Ruby Internals by *Pat Shaughnessy*. [Official site](http://patshaughnessy.net/ruby-under-a-microscope), [Amazon](http://www.amazon.com/Ruby-Under-Microscope-Illustrated-Internals/dp/1593275277/), [O'Reilly](http://shop.oreilly.com/product/9781593275273.do).
-- ★ Confident Ruby: 32 Patterns for Joyful Coding by *Avdi Grimm*. [Official site](http://www.confidentruby.com/), [Amazon](http://www.amazon.com/Confident-Ruby-Patterns-Joyful-Coding-ebook/dp/B00ETE0D2S/), [Pragprog](https://pragprog.com/book/agcr/confident-ruby).
-- [Exceptional Ruby: Master the Art of Handling Failure in Ruby](http://pragprog.com/book/ager/exceptional-ruby) by Avdi Grimm.
-- [Metaprogramming Ruby: Program Like the Ruby Pros](http://www.amazon.com/Metaprogramming-Ruby-Program-Like-Pros-ebook/dp/B00A376YAK/) by Paolo Perrotta.
-- [The Well-Grounded Rubyist](http://www.amazon.com/The-Well-Grounded-Rubyist-David-Black/dp/1617291692/) by David A. Black.
-- [Practical Object-Oriented Design in Ruby](http://poodr.com) by Sandi Metz.
-- [Clean Ruby](http://clean-ruby.com/) by Jim Gay
-- [Reliably Deploying Rails Applications](https://leanpub.com/deploying_rails_applications) by Ben Dixon — A robust framework for provisioning servers with Chef and deploying reliably with Capistrano 3, including example code templates you can use directly.
+- ★ [Practical Object-Oriented Design in Ruby](http://poodr.com) by *Sandi Metz*
+- ★ [Ruby Under a Microscope: An Illustrated Guide to Ruby Internals](http://www.amazon.com/dp/1593275277/) by *Pat Shaughnessy* ([Official site](http://patshaughnessy.net/ruby-under-a-microscope))
+- ★ [Confident Ruby: 32 Patterns for Joyful Coding](http://www.amazon.com/dp/B00ETE0D2S/) by *Avdi Grimm* ([Official site](http://www.confidentruby.com/))
+- [Exceptional Ruby: Master the Art of Handling Failure in Ruby](http://pragprog.com/book/ager/exceptional-ruby) by *Avdi Grimm*
+- [Metaprogramming Ruby: Program Like the Ruby Pros](http://www.amazon.com/dp/B00A376YAK/) by *Paolo Perrotta*
+- [The Well-Grounded Rubyist](http://www.amazon.com/The-Well-Grounded-Rubyist-David-Black/dp/1617291692/) by *David A. Black*
+- [Clean Ruby](http://clean-ruby.com/) by *Jim Gay*
+- [Reliably Deploying Rails Applications](https://leanpub.com/deploying_rails_applications) by *Ben Dixon*
 - [Rubyfu](http://rubyfu.net) - Collection of ideas, tricks and skills for hackers, an open source book.
-- [Demystifying Rails](https://launchschool.com/books/demystifying_rails/read/introduction) by Launch School — This book doesn't teach how to use Rails to build prototypes. Instead, this book dives one layer below the surface to expose how Rails is pieced together.
+- [Demystifying Rails](https://launchschool.com/books/demystifying_rails/read/introduction) by *Launch School* — This book doesn't teach how to use Rails to build prototypes. Instead, this book dives one layer below the surface to expose how Rails is pieced together.
 - [The Ruby Bibliography](http://rubybib.org/) - Academic writing on the Ruby programming language.
 
 ### Ruby on Rails for beginners
 
 - ★ [The Rails 5 Way](https://www.amazon.com/dp/B077D9X5NM/) by *Obie Fernandez*
 - [Agile Web Development with Rails 6](https://pragprog.com/book/rails6/agile-web-development-with-rails-6) 
-- [The Ruby on Rails Tutorial](https://www.railstutorial.org/book) by Michael Hartl
-- [Learn Ruby on Rails](http://learn-rails.com/learn-ruby-on-rails.html) by Daniel Kehoe. [Amazon](http://www.amazon.com/dp/B00QK2T1SY)
+- [The Ruby on Rails Tutorial](https://www.railstutorial.org/book) by *Michael Hartl*
+- [Learn Ruby on Rails](http://www.amazon.com/dp/B00QK2T1SY) by *Daniel Kehoe*
 
 ### Ruby on Rails, advanced level
 
@@ -112,51 +112,47 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 
 ### Testing
 
-- [The RSpec Book: Behaviour Driven Development with RSpec, Cucumber, and Friends](http://www.amazon.com/The-RSpec-Book-Behaviour-Development/dp/1934356379/) by David Chelimsky, Dave Astels, Bryan Helmkamp, Dan North, Zach Dennis, Aslak Hellesoy.
-- [Rails 5 Test Prescriptions: Build a Healthy Codebase](https://pragprog.com/book/nrtest3/rails-5-test-prescriptions) by Noel Rappin — Does your Rails code suffer from bloat, brittleness, or inaccuracy? Cure these problems with the regular application of test-driven development. You’ll use Rails 5.2, Minitest 5, and RSpec 3.7, as well as popular testing libraries such as factory_bot and Cucumber.
-- [Continuous Testing](http://pragprog.com/news/continuous-testing-with-ruby-rails-and-javascript-now-in-print) by Ben Rady and Rod Coffin.
-- [Everyday Rails Testing with RSpec](https://leanpub.com/everydayrailsrspec) by Aaron Sumner. Practical advice for adding reliable tests to your Rails apps with RSpec
-- [What Do I Test?](https://whatdoitest.com/) by Eric Steele.
-- [Testing Rails](http://testingrailsbook.com) - Thoughtbot Testing Rails is a practical approach to learning testing.
-- [Rails Testing Handbook](https://semaphoreci.com/ebooks/rails-testing-handbook) — a free ebook by Semaphore on building Rails apps with BDD using RSpec and Cucumber. Based on Rails 5.
+- [The RSpec Book: Behaviour Driven Development with RSpec, Cucumber, and Friends](http://www.amazon.com/The-RSpec-Book-Behaviour-Development/dp/1934356379/) by *David Chelimsky*, *Dave Astels*, *Bryan Helmkamp*, *Dan North*, *Zach Dennis*, *Aslak Hellesoy*
+- [Rails 5 Test Prescriptions: Build a Healthy Codebase](https://pragprog.com/book/nrtest3/rails-5-test-prescriptions) by *Noel Rappin*
+- [Continuous Testing](http://pragprog.com/news/continuous-testing-with-ruby-rails-and-javascript-now-in-print) by *Ben Rady* and *Rod Coffin*
+- [Everyday Rails Testing with RSpec](https://leanpub.com/everydayrailsrspec) by *Aaron Sumner*
+- [What Do I Test?](https://whatdoitest.com/) by *Eric Steele*
+- [Testing Rails](http://testingrailsbook.com) by *thoughtbot*
+- [Rails Testing Handbook](https://semaphoreci.com/ebooks/rails-testing-handbook) by *Semaphore*
 
 ### Other frameworks and tools
 
-- [RubyMotion](http://www.amazon.com/RubyMotion-Pragmatic-Programmers-Clay-Allsopp/dp/1937785289/) by Clay Allsopp.
-- [Build Awesome Command-Line Applications in Ruby 2](http://pragprog.com/book/dccar2/build-awesome-command-line-applications-in-ruby-2) by David Copeland.
+- [RubyMotion](http://www.amazon.com/RubyMotion-Pragmatic-Programmers-Clay-Allsopp/dp/1937785289/) by *Clay Allsopp*
+- [Build Awesome Command-Line Applications in Ruby 2](http://pragprog.com/book/dccar2/build-awesome-command-line-applications-in-ruby-2) by *David Copeland*
 - [Sinatra Book](https://github.com/sinatra/sinatra-book/) — a cookbook full of excellent tutorials and recipes for developing Sinatra web applications.
 - [The Guide to Cuba](http://theguidetocuba.io) — this book will teach you how to create a Ruby web application from scratch using Cuba microframework.
 
 ## Blogs
 
-- [Ruby Inside](http://rubyinside.com) — one of the most popular Ruby blogs.
-- [RubyFlow](http://rubyflow.com) — the Ruby Community Blog.
-- ★ [Green Ruby News](http://greenruby.org)
-- [Random Ruby and Rails tips](http://rubyquicktips.com)
-- ★ [Practicing Ruby](https://practicingruby.com) — delightful lessons for dedicated programmers.
+- [Santi Metz](https://www.sandimetz.com/blog/) - Writes about flexible object-oriented code in Ruby and Rails, avid speaker.
 - [Yehuda Katz](http://yehudakatz.com)
-- [Sitepoint](http://www.sitepoint.com/ruby/)
+- [Justin Weiss](http://www.justinweiss.com/blog/archives/
+- [RubyFlow](http://rubyflow.com) — the Ruby Community Blog.
 - [A Fresh Cup](http://afreshcup.com/) — links to new resources and insightful blog posts.
 - [RubyGuides](https://www.rubyguides.com) — Ruby tutorials & articles to help you become a better developer
-- [Weissblog](http://www.justinweiss.com/blog/archives/) — Rails tutorials
-- [Santi Metz](https://www.sandimetz.com/blog/) - writes about flexible object-oriented code in Ruby and Rails, avid speaker and author of [Practical Object-Oriented Design in Ruby](http://poodr.com).
-- [Rails Girls](http://guides.railsgirls.com/) — Rails tutorials for girls in a variety of languages.
+and author of [Practical Object-Oriented Design in Ruby](http://poodr.com).
 
 ## Community Resources
 
-- [Ruby on Rails Survey](http://rails-hosting.com) — a biennial survey of the Ruby on Rails community.
+- [Rails Girls](http://guides.railsgirls.com/) — Rails tutorials for girls in a variety of languages.
 - [/r/ruby](http://reddit.com/r/ruby) — Ruby community on Reddit.
 - [/r/rails](http://reddit.com/r/rails) — Rails community on Reddit.
 - [StackOverflow](https://stackoverflow.com/questions/tagged/ruby) — Questions tagged with `ruby`.
 - [StackOverflow](https://stackoverflow.com/questions/tagged/ruby-on-rails) — Questions tagged with `ruby-on-rails`.
-- [Ruby on Rails: Talk](https://groups.google.com/forum/#!forum/rubyonrails-talk) — Ruby on Rails at Google Groups.
 
 ## Screencasts and courses
 
 - ★ [Pluralsight](https://www.pluralsight.com/search?q=ruby) Ruby Course Library.
 - ★ [RubyTapas](http://rubytapas.com) by Avdi Grimm.
+- ★ [GoRails](https://gorails.com) — a series of screencasts and guides for all aspects of Ruby on Rails. Learn how to setup your machine, build a Rails application, and deploy it to a server.
 - ★ [The Pragmatic Studio](http://pragmaticstudio.com)
 - ★ [Lynda.com](http://www.lynda.com/search?q=ruby)
+- ★ [Thoughtbot Upcase](https://thoughtbot.com/upcase/)
 - [Ruby From Scratch](https://www.codemy.net/posts/rfs-introduction-to-ruby-001/sets/ruby-from-scratch)
 - [Rails Foundation](https://www.codemy.net/posts/rails-generating-an-app/sets/rails-foundation)
 - [Rails API](https://www.codemy.net/posts/rails-api-generating-an-api-only-rails-app-001/sets/rails-api)
@@ -169,12 +165,10 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [confreaks.com](http://confreaks.com/) — expert recording services for conferences, seminars, and workshops.
 - [Learnable](https://learnable.com/topics/ruby) — video courses and books ($30 per month).
 - [Destroy All Software](https://www.destroyallsoftware.com/) — by Gary Bernhardt.
-- ★ [GoRails](https://gorails.com) — a series of screencasts and guides for all aspects of Ruby on Rails. Learn how to setup your machine, build a Rails application, and deploy it to a server.
 - [RubySteps](https://www.rubysteps.com) - daily emails on Ruby, Rails, TDD, OOP, and Refactoring with code examples and challenges. Also mob programming events with guest developers and Pat Maddox. ($149 per month).
 - [UT on Rails](http://www.schneems.com/ut-rails/) - 10 weeks long Ruby on Rails
   screencasts. It assumes you know little about programming and not used Ruby,
 Rails or databases previously. Good for beginners.
-- ★ [Thoughtbot Upcase](https://thoughtbot.com/upcase/)
 - [Drifting Ruby](https://www.driftingruby.com/)
 - [The Complete Ruby on Rails Developer Course](https://www.udemy.com/the-complete-ruby-on-rails-developer-course/) - A complete begginer friendly low price course on udemy with a lot of extra infos.
 
@@ -199,10 +193,10 @@ Rails or databases previously. Good for beginners.
 
 ## Style Guides
 
-- [A community-driven Ruby coding style guide](https://github.com/bbatsov/ruby-style-guide)
-- [A community-driven Rails 3 & 4 style guide](https://github.com/bbatsov/rails-style-guide)
+- [The Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)
+- [The Rails Style Guide](https://github.com/bbatsov/rails-style-guide)
 - [GitHub Ruby Coding Style](https://github.com/styleguide/ruby)
-- [Thoughtbot Style Guides](https://github.com/thoughtbot/guides) — short guidelines on Ruby, Rails, Git some other technologies.
+- [Thoughtbot Style Guides](https://github.com/thoughtbot/guides) (Ruby, Rails, Git some other technologies)
 
 See also:
 
