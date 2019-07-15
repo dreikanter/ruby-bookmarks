@@ -92,26 +92,26 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [The Well-Grounded Rubyist](http://www.amazon.com/The-Well-Grounded-Rubyist-David-Black/dp/1617291692/) by David A. Black.
 - [Practical Object-Oriented Design in Ruby](http://poodr.com) by Sandi Metz.
 - [Clean Ruby](http://clean-ruby.com/) by Jim Gay
-- [Reliably Deploying Rails Applications](https://leanpub.com/deploying_rails_applications) by Ben Dixon — a robust framework for provisioning servers with Chef and deploying reliably with Capistrano 3, including example code templates you can use directly.
-- [Rubyfu(@Rubyfu)](http://rubyfu.net) - Ruby for hackers book(Open source). Collection of ideas, tricks and skills that could be useful for Hackers.
+- [Reliably Deploying Rails Applications](https://leanpub.com/deploying_rails_applications) by Ben Dixon — A robust framework for provisioning servers with Chef and deploying reliably with Capistrano 3, including example code templates you can use directly.
+- [Rubyfu](http://rubyfu.net) - Collection of ideas, tricks and skills for hackers, an open source book.
 - [Demystifying Rails](https://launchschool.com/books/demystifying_rails/read/introduction) by Launch School — This book doesn't teach how to use Rails to build prototypes. Instead, this book dives one layer below the surface to expose how Rails is pieced together.
 - [The Ruby Bibliography](http://rubybib.org/) - Academic writing on the Ruby programming language.
 
 ### Ruby on Rails for beginners
 
-- ★ The Rails 4 Way by *Obie Fernandez* and *Kevin Faustino*. [Amazon](http://www.amazon.com/Rails-Edition-Addison-Wesley-Professional-Series-ebook/dp/B00KKNO8YQ/), [Informit](http://www.informit.com/store/rails-4-way-9780321944276).
+- ★ The Rails 4 Way by *Obie Fernandez* and *Kevin Faustino*. [Amazon](http://www.amazon.com/Rails-Edition-Addison-Wesley-Professional-Series-ebook/dp/B00KKNO8YQ/), [Informit](http://www.informit.com/store/rails-4-way-9780321944276)
 - [Agile Web Development with Rails 5](https://www.amazon.com/dp/1680501712/) by Sam Ruby, Dave Thomas, and David Heinemeier Hansson. (5.1 update on [Amazon](https://www.amazon.com/Agile-Web-Development-Rails-5-1/dp/1680502514/ref=sr_1_2) and [PragProg](https://pragprog.com/book/rails51/agile-web-development-with-rails-5-1))
-- [Rails 4 in Action](http://manning.com/bigg2) by Ryan Bigg, Yehuda Katz, Steve Klabnik, and Rebecca Skinner.
+- [Rails 4 in Action](http://manning.com/bigg2) by Ryan Bigg, Yehuda Katz, Steve Klabnik, and Rebecca Skinner
 - [The Ruby on Rails Tutorial](https://www.railstutorial.org/book) by Michael Hartl
-- [Learn Ruby on Rails](http://learn-rails.com/learn-ruby-on-rails.html) by Daniel Kehoe. [Amazon](http://www.amazon.com/dp/B00QK2T1SY).
+- [Learn Ruby on Rails](http://learn-rails.com/learn-ruby-on-rails.html) by Daniel Kehoe. [Amazon](http://www.amazon.com/dp/B00QK2T1SY)
 
 ### Ruby on Rails, advanced level
 
-- [Crafting Rails 4 Applications: Expert Practices for Everyday Rails Development](http://www.amazon.com/Crafting-Rails-Applications-Practices-Development/dp/1937785556/) by José Valim.
-- [Rails AntiPatterns: Best Practice Ruby on Rails Refactoring](http://www.amazon.com/Rails-AntiPatterns-Refactoring-Addison-Wesley-Professional/dp/0321604814/) by Chad Pytel, Tammer Saleh.
-- [Deploying Rails: Automate, Deploy, Scale, Maintain, and Sleep at Night](http://www.amazon.com/Deploying-Rails-Automate-Deploy-Maintain/dp/1934356956/) by Tom Copeland, Anthony Burns.
-- [Multitenancy with Rails](http://leanpub.com/multi-tenancy-rails) by Ryan Bigg.
-- [Ruby Science](https://gumroad.com/l/ruby-science) by [thoughtbot](https://gumroad.com/l/ruby-science) — the reference for writing fantastic Rails applications.
+- [Crafting Rails 4 Applications: Expert Practices for Everyday Rails Development](http://www.amazon.com/Crafting-Rails-Applications-Practices-Development/dp/1937785556/) by José Valim
+- [Rails AntiPatterns: Best Practice Ruby on Rails Refactoring](http://www.amazon.com/Rails-AntiPatterns-Refactoring-Addison-Wesley-Professional/dp/0321604814/) by Chad Pytel, Tammer Saleh
+- [Deploying Rails: Automate, Deploy, Scale, Maintain, and Sleep at Night](http://www.amazon.com/Deploying-Rails-Automate-Deploy-Maintain/dp/1934356956/) by Tom Copeland, Anthony Burns
+- [Multitenancy with Rails](http://leanpub.com/multi-tenancy-rails) by Ryan Bigg
+- [Ruby Science](https://gumroad.com/l/ruby-science) by [thoughtbot](https://gumroad.com/l/ruby-science) — The reference for writing fantastic Rails applications.
 - [Rebuilding Rails](https://rebuilding-rails.com/) by Noah Gibbs
 
 ### Testing
