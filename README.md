@@ -284,7 +284,7 @@ See also:
 
 ## Quizzes, tests, exams
 
-- [codequizzes.com](http://codequizzes.com) — Learn programming by doing, not by reading.
+- [CodeQuizzes](https://www.codequizzes.com) — Learn programming by doing, not by reading.
 - [codewars.com](http://www.codewars.com) — Achieve mastery through challenge.
 - [21 Essential Ruby Interview Questions](https://www.toptal.com/ruby/interview-questions) at Toptal.
 
