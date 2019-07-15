@@ -131,8 +131,8 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 
 - [Santi Metz](https://www.sandimetz.com/blog/) - Writes about flexible object-oriented code in Ruby and Rails, avid speaker.
 - [Yehuda Katz](http://yehudakatz.com)
-- [Justin Weiss](http://www.justinweiss.com/blog/archives/
-- [RubyFlow](http://rubyflow.com) — the Ruby Community Blog.
+- [Justin Weiss](http://www.justinweiss.com/blog/archives/)
+- [RubyFlow](http://rubyflow.com)
 - [A Fresh Cup](http://afreshcup.com/) — links to new resources and insightful blog posts.
 - [RubyGuides](https://www.rubyguides.com) — Ruby tutorials & articles to help you become a better developer
 and author of [Practical Object-Oriented Design in Ruby](http://poodr.com).
