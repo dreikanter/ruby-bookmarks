@@ -519,6 +519,7 @@ Validation:
 - [Dropbox Core API](https://www.dropbox.com/developers/core/start/ruby) for Ruby.
 - [Fog](https://fog.io) — cloud services library, top to bottom: collections provide a simplified interface, making clouds easier to work with and switch between; requests allow power users to get the most out of the features of each individual cloud; mocks make testing and integrating a breeze.
 - [Yt](https://github.com/Fullscreen/yt) — YouTube API Ruby client.
+- [Square SDK](https://github.com/square/square-ruby-sdk) - The Ruby SDK for Square APIs.
 
 ### Search
 
