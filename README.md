@@ -312,6 +312,7 @@ See also:
 - [Grape](https://github.com/intridea/grape) — an opinionated micro-framework for creating REST-like APIs in Ruby.
 - [Pliny](https://github.com/interagent/pliny) – write excellent APIs in Ruby.
 - [Committee](https://github.com/interagent/committee) - A collection of middleware to help build services with JSON Schema, OpenAPI 2, OpenAPI 3.
+- [Savon](https://github.com/savonrb/savon) - a micro-framework to handle all the soap(WSDL) requests.
 
 ### Authentication
 
