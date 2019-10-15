@@ -13,7 +13,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 ## Table of Contents
 
 - [Books](#books)
-  - [For beginners and intermediate level developers ](#for-beginners-and-intermediate-level-developers)
+  - [For beginners and intermediate level developers](#for-beginners-and-intermediate-level-developers)
   - [Advancing Ruby knowledge](#advancing-ruby-knowledge)
   - [Ruby on Rails for beginners](#ruby-on-rails-for-beginners)
   - [Ruby on Rails, advanced level](#ruby-on-rails-advanced-level)
@@ -34,10 +34,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
   - [Deployment Automation and Configuration Management](#deployment-automation-and-configuration-management)
   - [Other tools](#other-tools)
 - [Quizzes, tests, exams](#quizzes-tests-exams)
-- [Hosting](#hosting)
-  - [VPS](#vps)
-  - [PAAS](#paas)
-  - [Some materials on Rails deployment](#some-materials-on-rails-deployment)
+- [Deployment](#deployment)
 - [Gems](#gems)
   - [ActiveRecord](#activerecord)
   - [API](#api)
@@ -77,93 +74,103 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 
 ### For beginners and intermediate level developers
 
-- ★ Eloquent Ruby by *Russ Olsen*. [Official site](http://eloquentruby.com/), [Amazon](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional/dp/0321584104/).
-- [Programming Ruby 1.9 & 2.0](http://pragprog.com/book/ruby4/programming-ruby-1-9-2-0) by Dave Thomas, Andy Hunt, and Chad Fowler.
-- [Learn Ruby The Hard Way](http://ruby.learncodethehardway.org/book/) by Zed A. Shaw. Available to pre-order at [amazon](http://www.amazon.com/Learn-Ruby-Hard-Shaws-Series/dp/032188499X).
-- [The Ruby Programming Language](http://www.amazon.com/Ruby-Programming-Language-David-Flanagan/dp/0596516177) by David Flanagan and Yukihiro "Matz" Matsumoto.
-- [Why's Poignant Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/) by Why the Lucky Stiff
+- ★ [Eloquent Ruby](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional/dp/0321584104/) by *Russ Olsen*
+- [Programming Ruby](http://pragprog.com/book/ruby4/programming-ruby-1-9-2-0) by *Dave Thomas*, *Andy Hunt*, and *Chad Fowler*
+- [Learn Ruby The Hard Way](https://www.amazon.com/dp/032188499X) by *Zed A. Shaw* ([Official site](http://ruby.learncodethehardway.org/book/))
+- [The Ruby Programming Language](http://www.amazon.com/dp/0596516177) by *David Flanagan* and *Yukihiro "Matz" Matsumoto*
+- [Why's Poignant Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/) by *Why the Lucky Stiff*
 
 ### Advancing Ruby knowledge
 
-- ★ Ruby Under a Microscope: An Illustrated Guide to Ruby Internals by *Pat Shaughnessy*. [Official site](http://patshaughnessy.net/ruby-under-a-microscope), [Amazon](http://www.amazon.com/Ruby-Under-Microscope-Illustrated-Internals/dp/1593275277/), [O'Reilly](http://shop.oreilly.com/product/9781593275273.do).
-- ★ Confident Ruby: 32 Patterns for Joyful Coding by *Avdi Grimm*. [Official site](http://www.confidentruby.com/), [Amazon](http://www.amazon.com/Confident-Ruby-Patterns-Joyful-Coding-ebook/dp/B00ETE0D2S/), [Pragprog](https://pragprog.com/book/agcr/confident-ruby).
-- [Exceptional Ruby: Master the Art of Handling Failure in Ruby](http://pragprog.com/book/ager/exceptional-ruby) by Avdi Grimm.
-- [Metaprogramming Ruby: Program Like the Ruby Pros](http://www.amazon.com/Metaprogramming-Ruby-Program-Like-Pros-ebook/dp/B00A376YAK/) by Paolo Perrotta.
-- [The Well-Grounded Rubyist](http://www.amazon.com/The-Well-Grounded-Rubyist-David-Black/dp/1617291692/) by David A. Black.
-- [Practical Object-Oriented Design in Ruby](http://poodr.com) by Sandi Metz.
-- [Clean Ruby](http://clean-ruby.com/) by Jim Gay
-- [Reliably Deploying Rails Applications](https://leanpub.com/deploying_rails_applications) by Ben Dixon — a robust framework for provisioning servers with Chef and deploying reliably with Capistrano 3, including example code templates you can use directly.
-- [Rubyfu(@Rubyfu)](http://rubyfu.net) - Ruby for hackers book(Open source). Collection of ideas, tricks and skills that could be useful for Hackers.
-- [Demystifying Rails](https://launchschool.com/books/demystifying_rails/read/introduction) by Launch School — This book doesn't teach how to use Rails to build prototypes. Instead, this book dives one layer below the surface to expose how Rails is pieced together.
+- ★ [Practical Object-Oriented Design in Ruby](http://poodr.com) by *Sandi Metz*
+- ★ [Ruby Under a Microscope: An Illustrated Guide to Ruby Internals](http://www.amazon.com/dp/1593275277/) by *Pat Shaughnessy* ([Official site](http://patshaughnessy.net/ruby-under-a-microscope))
+- ★ [Confident Ruby: 32 Patterns for Joyful Coding](http://www.amazon.com/dp/B00ETE0D2S/) by *Avdi Grimm* ([Official site](http://www.confidentruby.com/))
+- [Exceptional Ruby: Master the Art of Handling Failure in Ruby](http://pragprog.com/book/ager/exceptional-ruby) by *Avdi Grimm*
+- [Metaprogramming Ruby: Program Like the Ruby Pros](http://www.amazon.com/dp/B00A376YAK/) by *Paolo Perrotta*
+- [The Well-Grounded Rubyist](http://www.amazon.com/The-Well-Grounded-Rubyist-David-Black/dp/1617291692/) by *David A. Black*
+- [Clean Ruby](http://clean-ruby.com/) by *Jim Gay*
+- [Reliably Deploying Rails Applications](https://leanpub.com/deploying_rails_applications) by *Ben Dixon*
+- [Rubyfu](http://rubyfu.net) - Collection of ideas, tricks and skills for hackers, an open source book.
+- [Demystifying Rails](https://launchschool.com/books/demystifying_rails/read/introduction) by *Launch School* — This book doesn't teach how to use Rails to build prototypes. Instead, this book dives one layer below the surface to expose how Rails is pieced together.
+- [The Ruby Bibliography](http://rubybib.org/) - Academic writing on the Ruby programming language.
 
 ### Ruby on Rails for beginners
 
-- ★ The Rails 4 Way by *Obie Fernandez* and *Kevin Faustino*. [Amazon](http://www.amazon.com/Rails-Edition-Addison-Wesley-Professional-Series-ebook/dp/B00KKNO8YQ/), [Informit](http://www.informit.com/store/rails-4-way-9780321944276).
-- [Agile Web Development with Rails 5](https://www.amazon.com/dp/1680501712/) by Sam Ruby, Dave Thomas, and David Heinemeier Hansson. (5.1 update on [Amazon](https://www.amazon.com/Agile-Web-Development-Rails-5-1/dp/1680502514/ref=sr_1_2) and [PragProg](https://pragprog.com/book/rails51/agile-web-development-with-rails-5-1))
-- [Rails 4 in Action](http://manning.com/bigg2) by Ryan Bigg, Yehuda Katz, Steve Klabnik, and Rebecca Skinner.
-- [The Ruby on Rails Tutorial](https://www.railstutorial.org/book) by Michael Hartl
-- [Learn Ruby on Rails](http://learn-rails.com/learn-ruby-on-rails.html) by Daniel Kehoe. [Amazon](http://www.amazon.com/dp/B00QK2T1SY).
+- ★ [The Rails 5 Way](https://www.amazon.com/dp/B077D9X5NM/) by *Obie Fernandez*
+- [Agile Web Development with Rails 6](https://pragprog.com/book/rails6/agile-web-development-with-rails-6) 
+- [The Ruby on Rails Tutorial](https://www.railstutorial.org/book) by *Michael Hartl*
+- [Learn Ruby on Rails](http://www.amazon.com/dp/B00QK2T1SY) by *Daniel Kehoe*
 
 ### Ruby on Rails, advanced level
 
-- [Crafting Rails 4 Applications: Expert Practices for Everyday Rails Development](http://www.amazon.com/Crafting-Rails-Applications-Practices-Development/dp/1937785556/) by José Valim.
-- [Rails AntiPatterns: Best Practice Ruby on Rails Refactoring](http://www.amazon.com/Rails-AntiPatterns-Refactoring-Addison-Wesley-Professional/dp/0321604814/) by Chad Pytel, Tammer Saleh.
-- [Deploying Rails: Automate, Deploy, Scale, Maintain, and Sleep at Night](http://www.amazon.com/Deploying-Rails-Automate-Deploy-Maintain/dp/1934356956/) by Tom Copeland, Anthony Burns.
-- [Multitenancy with Rails](http://leanpub.com/multi-tenancy-rails) by Ryan Bigg.
-- [Ruby Science](https://gumroad.com/l/ruby-science) by [thoughtbot](https://gumroad.com/l/ruby-science) — the reference for writing fantastic Rails applications.
-- [Rebuilding Rails](https://rebuilding-rails.com/) by Noah Gibbs
+- [Crafting Rails 4 Applications: Expert Practices for Everyday Rails Development](http://www.amazon.com/Crafting-Rails-Applications-Practices-Development/dp/1937785556/) by *José Valim*
+- [Rails AntiPatterns: Best Practice Ruby on Rails Refactoring](http://www.amazon.com/Rails-AntiPatterns-Refactoring-Addison-Wesley-Professional/dp/0321604814/) by *Chad Pytel*, *Tammer Saleh*
+- [Deploying Rails: Automate, Deploy, Scale, Maintain, and Sleep at Night](http://www.amazon.com/Deploying-Rails-Automate-Deploy-Maintain/dp/1934356956/) by *Tom Copeland*, *Anthony Burns*
+- [Multitenancy with Rails](http://leanpub.com/multi-tenancy-rails) by *Ryan Bigg*
+- [Ruby Science](https://gumroad.com/l/ruby-science) by *thoughtbot*
+- [Rebuilding Rails](https://rebuilding-rails.com/) by *Noah Gibbs*
 
 ### Testing
 
-- [The RSpec Book: Behaviour Driven Development with RSpec, Cucumber, and Friends](http://www.amazon.com/The-RSpec-Book-Behaviour-Development/dp/1934356379/) by David Chelimsky, Dave Astels, Bryan Helmkamp, Dan North, Zach Dennis, Aslak Hellesoy.
-- [Rails 4 Test Prescriptions: Build a Healthy Codebase](http://pragprog.com/book/nrtest2/rails-4-test-prescriptions) by Noel Rappin — a comprehensive guide to how tests can help you design and write better Rails applications. In this completely revised edition, you’ll learn why testing works and how to test effectively using Rails 4, Minitest 5, and RSpec 3, as well as popular testing libraries such as factory_girl and Cucumber.
-- [Continuous Testing](http://pragprog.com/news/continuous-testing-with-ruby-rails-and-javascript-now-in-print) by Ben Rady and Rod Coffin.
-- [Everyday Rails Testing with RSpec](https://leanpub.com/everydayrailsrspec) by Aaron Sumner. Practical advice for adding reliable tests to your Rails apps with RSpec
-- [What Do I Test?](https://whatdoitest.com/) by Eric Steele.
-- [Testing Rails](http://testingrailsbook.com) - Thoughtbot Testing Rails is a practical approach to learning testing.
-- [Rails Testing Handbook](https://semaphoreci.com/ebooks/rails-testing-handbook) — a free ebook by Semaphore on building Rails apps with BDD using RSpec and Cucumber. Based on Rails 5.
+- [The RSpec Book: Behaviour Driven Development with RSpec, Cucumber, and Friends](http://www.amazon.com/The-RSpec-Book-Behaviour-Development/dp/1934356379/) by *David Chelimsky*, *Dave Astels*, *Bryan Helmkamp*, *Dan North*, *Zach Dennis*, *Aslak Hellesoy*
+- [Rails 5 Test Prescriptions: Build a Healthy Codebase](https://pragprog.com/book/nrtest3/rails-5-test-prescriptions) by *Noel Rappin*
+- [Continuous Testing](http://pragprog.com/news/continuous-testing-with-ruby-rails-and-javascript-now-in-print) by *Ben Rady* and *Rod Coffin*
+- [Everyday Rails Testing with RSpec](https://leanpub.com/everydayrailsrspec) by *Aaron Sumner*
+- [What Do I Test?](https://whatdoitest.com/) by *Eric Steele*
+- [Testing Rails](http://testingrailsbook.com) by *thoughtbot*
+- [Rails Testing Handbook](https://semaphoreci.com/ebooks/rails-testing-handbook) by *Semaphore*
 
 ### Other frameworks and tools
 
-- [RubyMotion](http://www.amazon.com/RubyMotion-Pragmatic-Programmers-Clay-Allsopp/dp/1937785289/) by Clay Allsopp.
-- [Build Awesome Command-Line Applications in Ruby 2](http://pragprog.com/book/dccar2/build-awesome-command-line-applications-in-ruby-2) by David Copeland.
+- [RubyMotion](http://www.amazon.com/RubyMotion-Pragmatic-Programmers-Clay-Allsopp/dp/1937785289/) by *Clay Allsopp*
+- [Build Awesome Command-Line Applications in Ruby 2](http://pragprog.com/book/dccar2/build-awesome-command-line-applications-in-ruby-2) by *David Copeland*
 - [Sinatra Book](https://github.com/sinatra/sinatra-book/) — a cookbook full of excellent tutorials and recipes for developing Sinatra web applications.
 - [The Guide to Cuba](http://theguidetocuba.io) — this book will teach you how to create a Ruby web application from scratch using Cuba microframework.
 
 ## Blogs
 
-- [Ruby Inside](http://rubyinside.com) — one of the most popular Ruby blogs.
-- [RubyFlow](http://rubyflow.com) — the Ruby Community Blog.
-- ★ [Green Ruby News](http://greenruby.org)
-- [Random Ruby and Rails tips](http://rubyquicktips.com)
-- ★ [Practicing Ruby](https://practicingruby.com) — delightful lessons for dedicated programmers.
+- [Santi Metz](https://www.sandimetz.com/blog/) - Writes about flexible object-oriented code in Ruby and Rails, avid speaker.
 - [Yehuda Katz](http://yehudakatz.com)
-- [Sitepoint](http://www.sitepoint.com/ruby/)
+- [Justin Weiss](http://www.justinweiss.com/blog/archives/)
+- [RubyFlow](http://rubyflow.com)
 - [A Fresh Cup](http://afreshcup.com/) — links to new resources and insightful blog posts.
-- [Black Bytes](http://www.blackbytes.info) — Ruby tutorials
-- [Weissblog](http://www.justinweiss.com/blog/archives/) — Rails tutorials
-- [A Ruby Story](http://www.arubystory.com) - Ruby & Rails tutorials (with cat pictures).
+- [RubyGuides](https://www.rubyguides.com) — Ruby tutorials & articles to help you become a better developer
+and author of [Practical Object-Oriented Design in Ruby](http://poodr.com).
+
+## Community Resources
+
+- [Rails Girls](http://guides.railsgirls.com/) — Rails tutorials for girls in a variety of languages.
+- [/r/ruby](http://reddit.com/r/ruby) — Ruby community on Reddit.
+- [/r/rails](http://reddit.com/r/rails) — Rails community on Reddit.
+- [StackOverflow](https://stackoverflow.com/questions/tagged/ruby) — Questions tagged with `ruby`.
+- [StackOverflow](https://stackoverflow.com/questions/tagged/ruby-on-rails) — Questions tagged with `ruby-on-rails`.
 
 ## Screencasts and courses
 
-- ★ [Pluralsight](http://www.pluralsight.com/training/Courses#ruby) Ruby Course Library.
+- ★ [Pluralsight](https://www.pluralsight.com/search?q=ruby) Ruby Course Library.
 - ★ [RubyTapas](http://rubytapas.com) by Avdi Grimm.
+- ★ [GoRails](https://gorails.com) — a series of screencasts and guides for all aspects of Ruby on Rails. Learn how to setup your machine, build a Rails application, and deploy it to a server.
 - ★ [The Pragmatic Studio](http://pragmaticstudio.com)
 - ★ [Lynda.com](http://www.lynda.com/search?q=ruby)
+- ★ [Thoughtbot Upcase](https://thoughtbot.com/upcase/)
+- [Ruby From Scratch](https://www.codemy.net/posts/rfs-introduction-to-ruby-001/sets/ruby-from-scratch)
+- [Rails Foundation](https://www.codemy.net/posts/rails-generating-an-app/sets/rails-foundation)
+- [Rails API](https://www.codemy.net/posts/rails-api-generating-an-api-only-rails-app-001/sets/rails-api)
+- [RubyPlus](https://rubyplus.com/episodes)
 - [Ruby screencasts at TutsPlus.com](http://code.tutsplus.com/categories/ruby/courses)
 - [Rails screencasts at TutsPlus.com](http://code.tutsplus.com/categories/rails/courses)
 - [RailsCasts](http://railscasts.com)
-- [CodeSchool](https://www.codeschool.com/paths/ruby) (includes Rails for zombies).
 - [Learn Rails the Zombie Way](http://railsforzombies.org)
 - [CodeAcademy](http://www.codecademy.com/tracks/ruby)
 - [confreaks.com](http://confreaks.com/) — expert recording services for conferences, seminars, and workshops.
 - [Learnable](https://learnable.com/topics/ruby) — video courses and books ($30 per month).
 - [Destroy All Software](https://www.destroyallsoftware.com/) — by Gary Bernhardt.
-- ★ [GoRails](https://gorails.com) — a series of screencasts and guides for all aspects of Ruby on Rails. Learn how to setup your machine, build a Rails application, and deploy it to a server.
 - [RubySteps](https://www.rubysteps.com) - daily emails on Ruby, Rails, TDD, OOP, and Refactoring with code examples and challenges. Also mob programming events with guest developers and Pat Maddox. ($149 per month).
 - [UT on Rails](http://www.schneems.com/ut-rails/) - 10 weeks long Ruby on Rails
   screencasts. It assumes you know little about programming and not used Ruby,
 Rails or databases previously. Good for beginners.
+- [Drifting Ruby](https://www.driftingruby.com/)
+- [The Complete Ruby on Rails Developer Course](https://www.udemy.com/the-complete-ruby-on-rails-developer-course/) - A complete begginer friendly low price course on udemy with a lot of extra infos.
 
 ## Other Learning Materials
 
@@ -182,13 +189,14 @@ Rails or databases previously. Good for beginners.
 - [RubyOffRails](https://rubyoffrails.com/) — An online Ruby course recently open sourced.
 - [The Odin Project](http://www.theodinproject.com/ruby-programming) — an online Ruby lesson plan with a community to help.
 - [Ruby one liners](https://github.com/learnbyexample/Command-line-text-processing/blob/master/ruby_one_liners.md) (a page from Command Line Text Processing project).
+- [Ruby Regexp](https://leanpub.com/rubyregexp) — free ebook to learn Ruby regular expressions, includes exercises.
 
 ## Style Guides
 
-- [A community-driven Ruby coding style guide](https://github.com/bbatsov/ruby-style-guide)
-- [A community-driven Rails 3 & 4 style guide](https://github.com/bbatsov/rails-style-guide)
+- [The Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)
+- [The Rails Style Guide](https://github.com/bbatsov/rails-style-guide)
 - [GitHub Ruby Coding Style](https://github.com/styleguide/ruby)
-- [Thoughtbot Style Guides](https://github.com/thoughtbot/guides) — short guidelines on Ruby, Rails, Git some other technologies.
+- [Thoughtbot Style Guides](https://github.com/thoughtbot/guides) (Ruby, Rails, Git some other technologies)
 
 See also:
 
@@ -214,7 +222,7 @@ See also:
 - [Visual Studio Code](code.visualstudio.com) — Redefined code editor from Microsoft with [Ruby debugging support](https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby).
 
 ### Code quality analysis
-
+- [sonarlint-intellij](https://github.com/SonarSource/sonarlint-intellij) - An IDE extension that helps you detect and fix quality issues as you write code.
 - [RuboCop](https://github.com/bbatsov/rubocop) — a Ruby static code analyzer, based on the community Ruby style guide.
 - [Guard plugin for RuboCop](https://github.com/yujinakayama/guard-rubocop) — allows you to automatically check Ruby code style with RuboCop when files are modified.
 - [RubyCritic](https://github.com/whitesmith/rubycritic) — a gem that wraps around static analysis gems such as Reek, Flay and Flog to provide a quality report of your Ruby code.
@@ -276,24 +284,11 @@ See also:
 
 ## Quizzes, tests, exams
 
-- [codequizzes.com](http://codequizzes.com) — learn programming by doing, not by reading.
-- [codewars.com](http://www.codewars.com) — achieve mastery through challenge.
-- [Smarterer.com](http://smarterer.com/home) — crowdsourced tests for Ruby, Rails, and a lot of other technologies.
-- [oDesk](https://www.odesk.com/tests) — a global freelance platform that includes qualification testing for programming languages and frameworks.
+- [CodeQuizzes](https://www.codequizzes.com) — Learn programming by doing, not by reading.
+- [codewars.com](http://www.codewars.com) — Achieve mastery through challenge.
+- [21 Essential Ruby Interview Questions](https://www.toptal.com/ruby/interview-questions) at Toptal.
 
-## Hosting
-
-### VPS
-
-- [DigitalOcean](https://digitalocean.com) — fast VPS hosting. Among other features they provide one-click Rails installation that uses Nginx with Unicorn on Ubuntu.
-
-### PAAS
-
-- [Heroku](https://heroku.com) — cloud computing designed and built for developers. [More details](https://devcenter.heroku.com/categories/language-support#ruby) on Ruby support.
-- [OpenShift](https://www.openshift.com) — Red Hat's Platform-as-a-Service that allows developers to quickly develop, host, and scale applications in a cloud environment. Capable for Rails apps [git-push deployment](https://www.openshift.com/developers/ruby). There also [a free tier](https://www.openshift.com/products/pricing) (no credit card required).
-- [AppFog](https://appfog.com) — another developer-friendly cloud service.
-
-### Some materials on Rails deployment
+## Deployment
 
 - [A guide to setting up a Ruby on Rails production environment](https://gorails.com/deploy/ubuntu/14.04) at DigitalOcean.
 - [How To Automate Ruby On Rails Application Deployments Using Capistrano](https://www.digitalocean.com/community/tutorials/how-to-automate-ruby-on-rails-application-deployments-using-capistrano)
@@ -309,12 +304,15 @@ See also:
 - [Thinking Sphinx](https://github.com/pat/thinking-sphinx) — a library for connecting ActiveRecord to the Sphinx full-text search tool, and integrates closely with Rails (but also works with other Ruby web frameworks).
 - [Ancestry](https://github.com/stefankroes/ancestry) — organise ActiveRecord model into a tree structure.
 - [Squeel](https://github.com/activerecord-hackery/squeel) — lets you write your Active Record queries with fewer strings, and more Ruby, by making the Arel awesomeness that lies beneath Active Record more accessible.
+- [pp_sql](https://github.com/kvokka/pp_sql) - Rails ActiveRecord SQL queries log beautifier.
 
 ### API
 
 - [RABL](https://github.com/nesquena/rabl) — a Rails and Padrino ruby templating system for generating JSON, XML, MessagePack, PList and BSON.
 - [Grape](https://github.com/intridea/grape) — an opinionated micro-framework for creating REST-like APIs in Ruby.
 - [Pliny](https://github.com/interagent/pliny) – write excellent APIs in Ruby.
+- [Committee](https://github.com/interagent/committee) - A collection of middleware to help build services with JSON Schema, OpenAPI 2, OpenAPI 3.
+- [Savon](https://github.com/savonrb/savon) - a micro-framework to handle all the soap(WSDL) requests.
 
 ### Authentication
 
@@ -334,16 +332,12 @@ See also:
 
 ### Background Jobs
 
+- [Sidekiq](http://sidekiq.org) — a full-featured background processing framework for Ruby. It aims to be simple to integrate with any modern Rails application and much higher performance than other existing solutions.
 - [Backburner](https://github.com/nesquena/backburner) — a beanstalkd-powered job queue that can handle a very high volume of jobs.
-- [Stalker](https://github.com/han/stalker) — a minimalist queuing DSL for Beanstalk.
 - [Delayed::Job](https://github.com/tobi/delayed_job) — database backed asynchronous priority queue.
-- [Minion](https://github.com/orionz/minion) — simple job queue based on AMQP gem and Bunny.
-- [Qu](https://github.com/bkeepers/qu) — a Ruby library for queuing and processing background jobs.
 - [que](https://github.com/chanks/que) — a Ruby job queue that uses PostgreSQL's advisory locks for speed and reliability.
 - [Resque](https://github.com/resque/resque) — a Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later.
-- [Sidekiq](http://sidekiq.org) — a full-featured background processing framework for Ruby. It aims to be simple to integrate with any modern Rails application and much higher performance than other existing solutions.
 - [Sucker Punch](https://github.com/brandonhilkert/sucker_punch) — an asynchronous processing library using Celluloid, heavily influenced by Sidekiq and girl_friday.
-- [Ost](https://github.com/soveran/ost) — a lightweight Redis based queues and workers.
 - [Ohm](https://github.com/soveran/ohm) — object-hash mapping for Redis.
 
 ### Bootstrap
@@ -359,7 +353,7 @@ See also:
 ### CSS
 
 - [LESS](https://github.com/cowboyd/less.rb) — leaner CSS, in your browser or Ruby.
-- [Bourbon](http://bourbon.io) — alightweight mixin library for Sass.
+- [Bourbon](http://bourbon.io) — a lightweight mixin library for Sass.
 - [SASS](https://github.com/sass/sass) — an extension of CSS3, adding nested rules, variables, mixins, selector inheritance, and more. It's translated to well-formatted, standard CSS using the command line tool or a web-framework plugin.
 - [Bitters](https://github.com/thoughtbot/bitters) — add a dash of pre-defined style to your Bourbon.
 - [Autoprefixer](https://github.com/ai/autoprefixer-rails) — a tool to parse CSS and add vendor prefixes to CSS rules using values from the Can I Use. This gem provides Ruby and Ruby on Rails integration with this JavaScript tool.
@@ -372,6 +366,7 @@ See also:
 
 ### Debugging
 
+- [Pry](http://pryrepl.org) - A runtime developer console and IRB alternative with powerful introspection capabilities.
 - [Byebug](https://github.com/deivid-rodriguez/byebug) — a simple to use, feature rich debugger for Ruby 2. It uses the new TracePoint API for execution control and the new Debug Inspector API for call stack navigation, so it doesn't depend on internal core sources. It's developed as a C extension, so it's fast. And it has a full test suite so it's reliable.
 
 ### E-commerce
@@ -379,7 +374,7 @@ See also:
 - [FastSpring](https://github.com/fastspring/fastspring-ruby) — subscription API for Rails.
 - [Active Merchant](https://github.com/Shopify/active_merchant) — a simple and unified API to access dozens of different payment gateways with very different internal APIs.
 - [PayPal](https://github.com/paypal/rest-api-sdk-ruby) — this SDK provides Ruby APIs to create, process and manage payment.
-- [Shoppe](http://tryshoppe.com/) — e-commerce platform for Ruby on Rails.
+- [Solidus](https://github.com/solidusio/solidus) — An open source ecommerce solution built with Ruby on Rails.
 
 ### Graphics
 
@@ -393,13 +388,12 @@ See also:
 
 ### Logging
 
-- [MonoLogger](https://github.com/steveklabnik/mono_logger) — a lock-free logger for Ruby 2.0.
 - [Yell](https://github.com/rudionrails/yell) — Your Extensible Logging Library, a comprehensive logging replacement for Ruby.
 - [Fluentd](https://github.com/fluent/fluentd) — an open source data collector designed for processing data streams, which instantly enables you to have Log Management, Big Data Analytics, etc.
 - [mongodb_logger](https://github.com/le0pard/mongodb_logger) — an alternative logger for Rails or Rack based app, which log all requests of you application into MongoDB database (allow to store and search any information from logs; web panel allow filter logs, build graphs using MapReduce by information from logs).
 - [Hatchet](https://github.com/gshutler/hatchet) — logging library that provides the ability to add class/module specific filters.
-- [Whoops](http://whoopsapp.com) — a free, self-hosted tool for logging application events like errors or background worker completion (uses Rails for web frontend and MongoDB).
 - [logstasher](https://github.com/shadabahmed/logstasher) Awesome rails logs
+- [Rails Pretty logger](https://github.com/kekik/rails-pretty-logger/) Check and search logs from dashboard, use hightlight to spot easily, add hourly rotation if needed.
 
 ### Mail
 
@@ -443,7 +437,7 @@ If there is a nice gem, but it is difficult to classify it with existing bookmar
 - [twig](https://github.com/rondevera/twig) Your personal Git branch assistant
 - [datashift](https://github.com/autotelik/datashift) Comprehensive Excel and CSV import/export tools for Ruby
 - [Configurations](https://github.com/beatrichartz/configurations) — provides a unified approach to do configurations for gems or other ruby code.
-- [awesome_print](https://github.com/michaeldv/awesome_print) — a Ruby library that pretty prints Ruby objects in full color exposing their internal structure with proper indentation. Rails ActiveRecord objects and usage within Rails templates are supported via included mixins.
+- [awesome_print](https://github.com/awesome-print/awesome_print) — a Ruby library that pretty prints Ruby objects in full color exposing their internal structure with proper indentation. Rails ActiveRecord objects and usage within Rails templates are supported via included mixins.
 - [YYMMDD](https://github.com/sshaw/yymmdd) — tiny DSL for idiomatic date parsing and formatting.
 - [Libnotify](https://github.com/splattael/libnotify) — Ruby bindings for libnotify, a crossplatform user notification library.
 - [MemFs](https://github.com/simonc/memfs) — provides a fake file system that can be used for tests.
@@ -526,6 +520,7 @@ Validation:
 - [Dropbox Core API](https://www.dropbox.com/developers/core/start/ruby) for Ruby.
 - [Fog](https://fog.io) — cloud services library, top to bottom: collections provide a simplified interface, making clouds easier to work with and switch between; requests allow power users to get the most out of the features of each individual cloud; mocks make testing and integrating a breeze.
 - [Yt](https://github.com/Fullscreen/yt) — YouTube API Ruby client.
+- [Square SDK](https://github.com/square/square-ruby-sdk) - The Ruby SDK for Square APIs.
 
 ### Search
 
