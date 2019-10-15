@@ -75,6 +75,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 ### For beginners and intermediate level developers
 
 - ★ [Eloquent Ruby](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional/dp/0321584104/) by *Russ Olsen*
+- * [I Love Ruby](https://i-love-ruby.gitlab.io/) by *Karthikeyan A K*
 - [Programming Ruby](http://pragprog.com/book/ruby4/programming-ruby-1-9-2-0) by *Dave Thomas*, *Andy Hunt*, and *Chad Fowler*
 - [Learn Ruby The Hard Way](https://www.amazon.com/dp/032188499X) by *Zed A. Shaw* ([Official site](http://ruby.learncodethehardway.org/book/))
 - [The Ruby Programming Language](http://www.amazon.com/dp/0596516177) by *David Flanagan* and *Yukihiro "Matz" Matsumoto*
