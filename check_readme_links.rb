@@ -17,9 +17,9 @@ parsed_html = Nokogiri::HTML.parse(converted_html)
 sleep(1)
 puts '-------- Reading Links -----------'
 links = parsed_html.xpath("//a").map do |anchor| 
-	if anchor.attributes && anchor.attributes["href"] && !anchor.attributes["href"].value.match?(/^(#)/)
-		anchor.attributes["href"].value 
-	end
+  if anchor.attributes && anchor.attributes["href"] && !anchor.attributes["href"].value.match?(/^(#)/)
+    anchor.attributes["href"].value
+  end
 end.compact.uniq
 
 validity_hash = {}
@@ -37,16 +37,16 @@ exclude_websites_regex = /\b(#{exclude_websites.join("|")})\b/
 sleep(1)
 puts '-------- Fetching links -----------'
 links.select { |url| !url.match?(exclude_websites_regex) }.each_with_index do |url, index|
-	print '.'
-	print "\n" if index % 36 == 0 
-	begin
-		response = open(url)
-		#uncomment if you want to see successful urls as well
-		#puts "URL: #{url} || STATUS: #{response.status[0]}"
-		validity_hash[url] = response.status[0]
-	rescue StandardError => error
-		puts "\nURL: #{url} || STATUS: #{error}"
-		failed_links << url
-	end	
+  print '.'
+  print "\n" if index % 36 == 0 
+  begin
+    response = open(url)
+    #uncomment if you want to see successful urls as well
+    #puts "URL: #{url} || STATUS: #{response.status[0]}"
+    validity_hash[url] = response.status[0]
+  rescue StandardError => error
+    puts "\nURL: #{url} || STATUS: #{error}"
+    failed_links << url
+  end
 end
 puts '-------- Finished -----------'
