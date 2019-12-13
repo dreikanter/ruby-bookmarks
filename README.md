@@ -567,8 +567,8 @@ Binary:
 - [RSpec::Expectations](https://github.com/rspec/rspec-expectations) — a simple, readable API to express expected outcomes of a code example.
 - [Cucumber](https://github.com/cucumber/cucumber) — a tool for running automated tests written in plain language.
 - [shoulda](https://github.com/thoughtbot/shoulda)
-- [factory_girl](https://github.com/thoughtbot/factory_girl) — a fixtures replacement with a straightforward definition syntax, support for multiple build strategies (saved instances, unsaved instances, attribute hashes, and stubbed objects), and support for multiple factories for the same class, including factory inheritance.
-- [factory_girl_rails](https://github.com/thoughtbot/factory_girl_rails) — Rails integration for `factory_girl`.
+- [factory_bot](https://github.com/thoughtbot/factory_bot) — a fixtures replacement with a straightforward definition syntax, support for multiple build strategies (saved instances, unsaved instances, attribute hashes, and stubbed objects), and support for multiple factories for the same class, including factory inheritance.
+- [factory_bot_rails](https://github.com/thoughtbot/factory_bot_rails) — Rails integration for `factory_bot`.
 - [Capybara](https://github.com/jnicklas/capybara) — a tool helping you test web applications by simulating how a real user would interact with your app. It is agnostic about the driver running your tests and comes with Rack::Test and Selenium support built in. WebKit is supported through an external gem.
 - [capybara-webkit](https://github.com/thoughtbot/capybara-webkit) A Capybara driver for headless WebKit so you can test JavaScript web apps.
 - [Formulaic](https://github.com/thoughtbot/formulaic) — simplify form filling with Capybara.
