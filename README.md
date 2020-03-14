@@ -137,6 +137,8 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [A Fresh Cup](http://afreshcup.com/) — links to new resources and insightful blog posts.
 - [RubyGuides](https://www.rubyguides.com) — Ruby tutorials & articles to help you become a better developer
 and author of [Practical Object-Oriented Design in Ruby](http://poodr.com).
+- [Hix on Rails](https://hixonrails.com/ruby-on-rails-tutorials/) - battle-tested step by step guides and how-tos on
+Ruby on Rails configuration
 
 ## Community Resources
 
