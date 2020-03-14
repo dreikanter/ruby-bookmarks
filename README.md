@@ -110,6 +110,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [Multitenancy with Rails](http://leanpub.com/multi-tenancy-rails) by *Ryan Bigg*
 - [Ruby Science](https://gumroad.com/l/ruby-science) by *thoughtbot*
 - [Rebuilding Rails](https://rebuilding-rails.com/) by *Noah Gibbs*
+- [The Complete Guide to Rails Performance](https://www.railsspeed.com/) by *Nate Berkopec*
 
 ### Testing
 
