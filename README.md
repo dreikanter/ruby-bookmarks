@@ -233,7 +233,7 @@ See also:
 
 ### Environment management
 
-- ★ [rbenv](https://github.com/sstephenson/rbenv) — a tool to to pick a Ruby version for your application and guarantee that your development environment matches production. Put rbenv to work with Bundler for painless Ruby upgrades and bulletproof deployments.
+- ★ [rbenv](https://github.com/sstephenson/rbenv) — a tool to pick a Ruby version for your application and guarantee that your development environment matches production. Put rbenv to work with Bundler for painless Ruby upgrades and bulletproof deployments.
 - [rbenv-vars](https://github.com/sstephenson/rbenv-vars) — an rbenv plugin that safely sets global and per-project environment variables.
 - [RVM](https://rvm.io) — a command-line tool which allows you to easily install, manage, and work with multiple ruby environments from interpreters to sets of gems.
 - [chruby](https://github.com/postmodern/chruby) — a tool that changes the current Ruby.
