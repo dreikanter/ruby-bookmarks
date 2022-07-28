@@ -86,6 +86,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - ★ [Practical Object-Oriented Design in Ruby](http://poodr.com) by *Sandi Metz*
 - ★ [Ruby Under a Microscope: An Illustrated Guide to Ruby Internals](http://www.amazon.com/dp/1593275277/) by *Pat Shaughnessy* ([Official site](http://patshaughnessy.net/ruby-under-a-microscope))
 - ★ [Confident Ruby: 32 Patterns for Joyful Coding](http://www.amazon.com/dp/B00ETE0D2S/) by *Avdi Grimm* ([Official site](http://www.confidentruby.com/))
+- [Polished Ruby Programming](https://www.amazon.com/Polished-Ruby-Programming-maintainable-high-performance-ebook/dp/B093TH9P7C) by *Jeremy Evans*
 - [Exceptional Ruby: Master the Art of Handling Failure in Ruby](http://pragprog.com/book/ager/exceptional-ruby) by *Avdi Grimm*
 - [Metaprogramming Ruby: Program Like the Ruby Pros](http://www.amazon.com/dp/B00A376YAK/) by *Paolo Perrotta*
 - [The Well-Grounded Rubyist](http://www.amazon.com/The-Well-Grounded-Rubyist-David-Black/dp/1617291692/) by *David A. Black*
@@ -98,7 +99,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 ### Ruby on Rails for beginners
 
 - ★ [The Rails 5 Way](https://www.amazon.com/dp/B077D9X5NM/) by *Obie Fernandez*
-- [Agile Web Development with Rails 6](https://pragprog.com/book/rails6/agile-web-development-with-rails-6) 
+- [Agile Web Development with Rails 6](https://pragprog.com/book/rails6/agile-web-development-with-rails-6)
 - [The Ruby on Rails Tutorial](https://www.railstutorial.org/book) by *Michael Hartl*
 - [Learn Ruby on Rails](http://www.amazon.com/dp/B00QK2T1SY) by *Daniel Kehoe*
 
@@ -157,6 +158,7 @@ Ruby on Rails configuration
 - ★ [The Pragmatic Studio](http://pragmaticstudio.com)
 - ★ [Lynda.com](http://www.lynda.com/search?q=ruby)
 - ★ [Thoughtbot Upcase](https://thoughtbot.com/upcase/)
+- [Hanami Mastery](https://hanamimastery.com) - Articles & screencasts about awesome ruby projects.
 - [Ruby From Scratch](https://www.codemy.net/posts/rfs-introduction-to-ruby-001/sets/ruby-from-scratch)
 - [Rails Foundation](https://www.codemy.net/posts/rails-generating-an-app/sets/rails-foundation)
 - [Rails API](https://www.codemy.net/posts/rails-api-generating-an-api-only-rails-app-001/sets/rails-api)
@@ -210,6 +212,8 @@ See also:
 
 ## Podcasts
 
+- [Code and the Coders Who Code it](https://podcast.drbragg.dev/)
+- [Remote Ruby](https://remoteruby.transistor.fm/)
 - [Ruby5](http://ruby5.envylabs.com)
 - [Ruby Rogues](http://rubyrogues.com)
 - [Ruby on Rails Podcast](http://5by5.tv/rubyonrails)
