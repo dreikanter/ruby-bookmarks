@@ -149,6 +149,7 @@ Ruby on Rails configuration
 - [/r/rails](http://reddit.com/r/rails) — Rails community on Reddit.
 - [StackOverflow](https://stackoverflow.com/questions/tagged/ruby) — Questions tagged with `ruby`.
 - [StackOverflow](https://stackoverflow.com/questions/tagged/ruby-on-rails) — Questions tagged with `ruby-on-rails`.
+- [Explore Ruby Libraries](https://kandi.openweaver.com/explore/ruby) — Discover & find a curated list of popular & new libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi.
 
 ## Screencasts and courses
 
