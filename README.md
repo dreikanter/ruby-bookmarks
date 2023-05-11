@@ -35,6 +35,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
   - [Other tools](#other-tools)
 - [Quizzes, tests, exams](#quizzes-tests-exams)
 - [Deployment](#deployment)
+- [Security](#security)
 - [Gems](#gems)
   - [ActiveRecord](#activerecord)
   - [API](#api)
@@ -305,6 +306,12 @@ See also:
 - [How to Use the DigitalOcean Dokku Application](https://www.digitalocean.com/community/tutorials/how-to-use-the-digitalocean-dokku-application)
 - [How To Use the Dokku One-Click DigitalOcean Image to Run a Ruby on Rails App](https://www.digitalocean.com/community/tutorials/how-to-use-the-dokku-one-click-digitalocean-image-to-run-a-ruby-on-rails-app)
 
+## Security
+
+- [OWASP Ruby on Rails Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Ruby_on_Rails_Cheat_Sheet.html)
+- [Ultimate Guide to Rack::Attack](https://wafris.org/guides/ultimate-guide-to-rack-attack)
+- [Awesome Ruby Security](https://github.com/pxlpnk/awesome-ruby-security)
+
 ## Gems
 
 ### ActiveRecord
@@ -539,6 +546,8 @@ Validation:
 ### Security
 
 - [Brakeman](https://github.com/presidentbeef/brakeman) — a static analysis security vulnerability scanner for Ruby on Rails applications.
+- [Rack::Attack](https://github.com/rack/rack-attack) – Rack middleware for blocking & throttling.
+- [bundler-audit](https://github.com/rubysec/bundler-audit) – Patch-level verification for Bundler.
 - [Codesake::Dawn](https://github.com/codesake/codesake-dawn) - Codesake::Dawn is a security source code scanner for ruby powered code. It is especially designed for web applications, but it works also with general purpose ruby scripts. Codesake::Dawn supports all major MVC frameworks like ruby on rails, Padrino and Sinatra; it provides more than 170 security checks with their own mitigation suggestion.
 
 ### Serialization
