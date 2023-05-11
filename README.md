@@ -87,6 +87,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - ★ [Practical Object-Oriented Design in Ruby](http://poodr.com) by *Sandi Metz*
 - ★ [Ruby Under a Microscope: An Illustrated Guide to Ruby Internals](http://www.amazon.com/dp/1593275277/) by *Pat Shaughnessy* ([Official site](http://patshaughnessy.net/ruby-under-a-microscope))
 - ★ [Confident Ruby: 32 Patterns for Joyful Coding](http://www.amazon.com/dp/B00ETE0D2S/) by *Avdi Grimm* ([Official site](http://www.confidentruby.com/))
+- [Modern Front-End Development for Rails](https://pragprog.com/titles/nrclient2/modern-front-end-development-for-rails-second-edition/)
 - [Polished Ruby Programming](https://www.amazon.com/Polished-Ruby-Programming-maintainable-high-performance-ebook/dp/B093TH9P7C) by *Jeremy Evans*
 - [Exceptional Ruby: Master the Art of Handling Failure in Ruby](http://pragprog.com/book/ager/exceptional-ruby) by *Avdi Grimm*
 - [Metaprogramming Ruby: Program Like the Ruby Pros](http://www.amazon.com/dp/B00A376YAK/) by *Paolo Perrotta*
