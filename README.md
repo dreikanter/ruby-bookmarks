@@ -183,6 +183,7 @@ Rails or databases previously. Good for beginners.
 
 ## Other Learning Materials
 
+- [Ruby Videos](https://rubyvideo.dev) – index of all Ruby-related videos from conferences and meetups worldwide.
 - [TryRuby](http://tryruby.org) — online Ruby console and 15 minute interactive Ruby tutorial.
 - [Project Euler](http://projecteuler.net) — a huge amount of programming problems to learn any language.
 - [PuzzleNode](http://puzzlenode.com) — a site for coders who enjoy to work on challenging problems, and is inspired by similar efforts such as Project Euler and the Internet Problem Solving Contest.
