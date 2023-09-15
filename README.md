@@ -294,6 +294,7 @@ See also:
 - [eye](https://github.com/kostya/eye) — a process monitor.
 - [god](https://github.com/mojombo/god) - the Ruby Framework for Process Management
 - [DuckRails](https://github.com/iridakos/duckrails) - development tool for mocking API endpoints quickly & dynamically.
+- [Cloud 66](https://help.cloud66.com/) - build, deploy, and manage your applications on any cloud, or on your own server. 
 
 ## Quizzes, tests, exams
 
