@@ -358,6 +358,7 @@ See also:
 - [Resque](https://github.com/resque/resque) — a Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later.
 - [Sucker Punch](https://github.com/brandonhilkert/sucker_punch) — an asynchronous processing library using Celluloid, heavily influenced by Sidekiq and girl_friday.
 - [Ohm](https://github.com/soveran/ohm) — object-hash mapping for Redis.
+- [Karafka](https://github.com/karafka/karafka) - Ruby and Rails multi-threaded efficient Kafka processing framework. It allows you to capture everything that happens in your systems in large scale.
 
 ### Bootstrap
 
