@@ -422,6 +422,7 @@ See also:
 - [Mailgun-Ruby](https://github.com/mailgun/mailgun-ruby) — Mailgun's Official Ruby Library.
 - [AWS::SES](https://github.com/drewblas/aws-ses) — easy ruby DSL & interface to [Amazon SES](http://aws.amazon.com/ses/). See also the [official Ruby SDK](http://aws.amazon.com/sdkforruby/).
 - [Mail](https://github.com/mikel/mail) — a library that is designed to handle emails generation, parsing and sending in a simple, rubyesque manner.
+- [Griddler](https://griddler.io) — a Rails engine that provides an endpoint for SendGrid, Cloudmailin, Postmark or Mandrill and hands off the email to your application.
 
 ### Markdown
 
