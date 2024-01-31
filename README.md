@@ -135,24 +135,28 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 
 ## Blogs
 
-- [Sandi Metz](https://www.sandimetz.com/blog/) - Writes about flexible object-oriented code in Ruby and Rails, avid speaker.
-- [Yehuda Katz](http://yehudakatz.com)
+- [Arkency Blog](https://blog.arkency.com/)
+- [BigBinary Blog](https://www.bigbinary.com/blog) — Ruby on Rails, ReactJS, React Native, open source, engineering and design.
+- [Drifting Ruby](https://www.driftingruby.com/episodes)
+- [Everyday Rails](https://everydayrails.com/)
 - [Justin Weiss](http://www.justinweiss.com/blog/archives/)
+- [Official Rails Blog](https://rubyonrails.org/blog/)
 - [RubyFlow](http://rubyflow.com)
-- [A Fresh Cup](http://afreshcup.com/) — links to new resources and insightful blog posts.
 - [RubyGuides](https://www.rubyguides.com) — Ruby tutorials & articles to help you become a better developer
+- [Sandi Metz](https://www.sandimetz.com/blog/) - Writes about flexible object-oriented code in Ruby and Rails, avid speaker.
 and author of [Practical Object-Oriented Design in Ruby](http://poodr.com).
-- [Hix on Rails](https://hixonrails.com/ruby-on-rails-tutorials/) - battle-tested step by step guides and how-tos on
-Ruby on Rails configuration
 
 ## Community Resources
 
-- [Rails Girls](http://guides.railsgirls.com/) — Rails tutorials for girls in a variety of languages.
-- [/r/ruby](http://reddit.com/r/ruby) — Ruby community on Reddit.
 - [/r/rails](http://reddit.com/r/rails) — Rails community on Reddit.
+- [/r/ruby](http://reddit.com/r/ruby) — Ruby community on Reddit.
+- [dev.to/t/ruby](https://dev.to/t/ruby) — dev.to posts on Ruby.
+- [Explore Ruby Libraries](https://kandi.openweaver.com/explore/ruby) — Discover & find a curated list of popular & new libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi.
+- [lobste.rs/t/ruby](https://lobste.rs/t/ruby) - Stories tagged as `ruby` on Lobste.rs.
+- [Rails Girls](http://guides.railsgirls.com/) — Rails tutorials for girls in a variety of languages.
+- [Ruby Weekly](https://rubyweekly.com/) – A free, once–weekly e-mail round-up of Ruby news and articles.
 - [StackOverflow](https://stackoverflow.com/questions/tagged/ruby) — Questions tagged with `ruby`.
 - [StackOverflow](https://stackoverflow.com/questions/tagged/ruby-on-rails) — Questions tagged with `ruby-on-rails`.
-- [Explore Ruby Libraries](https://kandi.openweaver.com/explore/ruby) — Discover & find a curated list of popular & new libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi.
 
 ## Screencasts and courses
 
