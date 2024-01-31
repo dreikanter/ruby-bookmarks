@@ -135,7 +135,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 
 ## Blogs
 
-- [Santi Metz](https://www.sandimetz.com/blog/) - Writes about flexible object-oriented code in Ruby and Rails, avid speaker.
+- [Sandi Metz](https://www.sandimetz.com/blog/) - Writes about flexible object-oriented code in Ruby and Rails, avid speaker.
 - [Yehuda Katz](http://yehudakatz.com)
 - [Justin Weiss](http://www.justinweiss.com/blog/archives/)
 - [RubyFlow](http://rubyflow.com)
