@@ -65,7 +65,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
   - [Search](#search)
   - [Security](#security)
   - [Serialization](#serialization)
-  - [State Machines](state-machines)
+  - [State Machines](#state-machines)
   - [Syntax Highlighters](#syntax-highlighters)
   - [Template engines](#template-engines)
   - [Testing](#testing)
