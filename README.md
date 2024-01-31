@@ -65,6 +65,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
   - [Search](#search)
   - [Security](#security)
   - [Serialization](#serialization)
+  - [State Machines](state-machines)
   - [Syntax Highlighters](#syntax-highlighters)
   - [Template engines](#template-engines)
   - [Testing](#testing)
@@ -452,7 +453,6 @@ If there is a nice gem, but it is difficult to classify it with existing bookmar
 - [rpush](https://github.com/rpush/rpush) — push notification service, supporting Apple Push Notification Service, Google Cloud Messaging, Amazon Device Messaging, Windows Phone Push Notification Service.
 - [Rubyzip](https://github.com/rubyzip/rubyzip) — reading and writing zip files.
 - [JsonCompare](https://github.com/a2design-company/json-compare) — returns the difference between two JSON files.
-- [MicroMachine](https://github.com/soveran/micromachine) — minimal Finite State Machine.
 - [Dante](https://github.com/nesquena/dante) — turn any ruby code into a daemon.
 - [Memoist](https://github.com/matthewrudy/memoist) — an extraction of ActiveSupport::Memoizable with few extensions.
 - [Awesome Print](https://github.com/michaeldv/awesome_print) — a Ruby library that pretty prints Ruby objects in full color exposing their internal structure with proper indentation. Rails ActiveRecord objects and usage within Rails templates are supported via included mixins.
@@ -570,6 +570,12 @@ Binary:
 - [BSON](https://github.com/mongodb/bson-ruby) — Ruby implementation of the BSON Specification (2.0.0+), http://bsonspec.org
 - [MessagePack](https://github.com/msgpack/msgpack-ruby) — an efficient binary serialization format. It lets you exchange data among multiple languages like JSON but it's faster and smaller. For example, small integers (like flags or error code) are encoded into a single byte, and typical short strings only require an extra byte in addition to the strings themselves. See http://msgpack.org
 - [Protobuf](https://github.com/localshred/protobuf) — Ruby implementation for Protocol Buffers.
+
+### State Machines
+
+- [aasm](https://github.com/aasm/aasm) — finite state machines to Ruby classes.
+- [MicroMachine](https://github.com/soveran/micromachine) — minimal Finite State Machine.
+- [Statesman](https://github.com/gocardless/statesman) — an opinionated state machine library designed to provide a robust audit trail and data integrity. It decouples the state machine logic from the underlying model and allows for easy composition with one or more model classes.
 
 ### Syntax Highlighters
 
