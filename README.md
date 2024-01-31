@@ -202,6 +202,7 @@ Rails or databases previously. Good for beginners.
 - [Ruby one-liners cookbook](https://learnbyexample.github.io/learn_ruby_oneliners/preface.html) — free guide for text processing with Ruby from the command line.
 - [Ruby Regexp](https://learnbyexample.github.io/Ruby_Regexp/preface.html) — free ebook to learn Ruby regular expressions, includes exercises.
 - [Kandi](https://kandi.openweaver.com/explore/ruby#Top-Authors) - Explore Ruby and all its libraries along with many projects.
+- [Ruby Cheatsheet](https://github.com/lifeparticle/Ruby-Cheatsheet) — a cheatsheet for beginners.
 
 ## Style Guides
 
