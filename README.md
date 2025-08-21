@@ -79,7 +79,6 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - ★ [Eloquent Ruby](https://www.informit.com/store/eloquent-ruby-9780321584106) by *Russ Olsen*
 - ★ [Programming Ruby 3.3 (5th Edition)](https://pragprog.com/titles/ruby5/programming-ruby-3-3-5th-edition/) by *Noel Rappin* and *Dave Thomas* — The definitive reference on Ruby, updated for Ruby 3.3 with coverage of pattern matching, Ractors, and all the latest features.
 - [Learn Ruby The Hard Way](http://ruby.learncodethehardway.org/book/) by *Zed A. Shaw*
-- [The Ruby Programming Language](https://www.oreilly.com/library/view/the-ruby-programming/9780596516178/) by *David Flanagan* and *Yukihiro "Matz" Matsumoto*
 - [Why's Poignant Guide to Ruby](https://poignant.guide/) by *Why the Lucky Stiff*
 
 ### Advanced Ruby programming
