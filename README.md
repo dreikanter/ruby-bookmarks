@@ -1,10 +1,10 @@
 # Ruby Bookmarks [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This is a curated collection of essential Ruby and Ruby on Rails resources. The project aims to maintain a well-structured reference equally useful both for beginners and advanced web developers.
+This is a curated collection of essential Ruby and Ruby on Rails resources. The project aims to maintain a well-structured reference that is equally useful for both beginners and advanced web developers.
 
-★&nbsp;stands here for Editors' Choice.
+★ stands for Editors' Choice.
 
-This list is not intended to include any random resource related to Ruby programming (we already have a most complete gem catalogue at [ruby-toolbox.com](https://www.ruby-toolbox.com) and [Awesome Ruby](https://ruby.libhunt.com)), but only the best and most actual alternatives in each area. You will find here latest editions of the most important books, time and community tested gems (alive projects only!), and actively updated websites. *Sharing and pull requests are very much appreciated!*
+This list is not intended to include random resources related to Ruby programming (we already have the most complete gem catalog at [ruby-toolbox.com](https://www.ruby-toolbox.com) and [Awesome Ruby](https://ruby.libhunt.com)), but only the best and most current alternatives in each area. You will find the latest editions of the most important books, time and community-tested gems (active projects only!), and actively updated websites. *Sharing and pull requests are very much appreciated!*
 
 **[Fork and edit](https://github.com/dreikanter/ruby-bookmarks/edit/master/README.md)**
 
@@ -95,9 +95,9 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [The Well-Grounded Rubyist](http://www.amazon.com/The-Well-Grounded-Rubyist-David-Black/dp/1617291692/) by *David A. Black*
 - [Clean Ruby](http://clean-ruby.com/) by *Jim Gay*
 - [Reliably Deploying Rails Applications](https://leanpub.com/deploying_rails_applications) by *Ben Dixon*
-- [Rubyfu](https://github.com/rubyfu/RubyFu) - Collection of ideas, tricks and skills for hackers, an open source book.
-- [Demystifying Rails](https://launchschool.com/books/demystifying_rails) by *Launch School* — This book doesn't teach how to use Rails to build prototypes. Instead, this book dives one layer below the surface to expose how Rails is pieced together.
-- [The Ruby Bibliography](http://rubybib.org/) - Academic writing on the Ruby programming language.
+- [Rubyfu](https://github.com/rubyfu/RubyFu) — A collection of ideas, tricks, and skills for hackers; an open source book.
+- [Demystifying Rails](https://launchschool.com/books/demystifying_rails) by *Launch School* — This book doesn't teach how to use Rails to build prototypes. Instead, it dives one layer below the surface to expose how Rails is pieced together.
+- [The Ruby Bibliography](http://rubybib.org/) — Academic writing on the Ruby programming language.
 
 ### Ruby on Rails for beginners
 
@@ -140,16 +140,15 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [Official Rails Blog](https://rubyonrails.org/blog/)
 - [RubyFlow](http://rubyflow.com)
 - [RubyGuides](https://www.rubyguides.com) — Ruby tutorials & articles to help you become a better developer
-- [Sandi Metz](https://www.sandimetz.com/blog/) - Writes about flexible object-oriented code in Ruby and Rails, avid speaker.
-and author of [Practical Object-Oriented Design in Ruby](https://www.poodr.com).
+- [Sandi Metz](https://www.sandimetz.com/blog/) — Writes about flexible object-oriented code in Ruby and Rails. She is an avid speaker and author of [Practical Object-Oriented Design in Ruby](https://www.poodr.com).
 
 ## Community Resources
 
 - [/r/rails](http://reddit.com/r/rails) — Rails community on Reddit.
 - [/r/ruby](http://reddit.com/r/ruby) — Ruby community on Reddit.
 - [dev.to/t/ruby](https://dev.to/t/ruby) — dev.to posts on Ruby.
-- [Explore Ruby Libraries](https://kandi.openweaver.com/explore/ruby) — Discover & find a curated list of popular & new libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi.
-- [lobste.rs/t/ruby](https://lobste.rs/t/ruby) - Stories tagged as `ruby` on Lobste.rs.
+- [Explore Ruby Libraries](https://kandi.openweaver.com/explore/ruby) — Discover and find a curated list of popular and new libraries, top authors, trending project kits, discussions, tutorials, and learning resources on Kandi.
+- [lobste.rs/t/ruby](https://lobste.rs/t/ruby) — Stories tagged as `ruby` on Lobste.rs.
 - [Rails Girls](http://guides.railsgirls.com/) — Rails tutorials for girls in a variety of languages.
 - [Ruby Weekly](https://rubyweekly.com/) – A free, once–weekly e-mail round-up of Ruby news and articles.
 - [StackOverflow](https://stackoverflow.com/questions/tagged/ruby) — Questions tagged with `ruby`.
@@ -159,11 +158,11 @@ and author of [Practical Object-Oriented Design in Ruby](https://www.poodr.com).
 
 - ★ [Pluralsight](https://www.pluralsight.com/search?q=ruby) Ruby Course Library.
 - ★ [RubyTapas](https://www.rubytapas.com) by Avdi Grimm.
-- ★ [GoRails](https://gorails.com) — a series of screencasts and guides for all aspects of Ruby on Rails. Learn how to setup your machine, build a Rails application, and deploy it to a server.
+- ★ [GoRails](https://gorails.com) — A series of screencasts and guides for all aspects of Ruby on Rails. Learn how to set up your machine, build a Rails application, and deploy it to a server.
 - ★ [The Pragmatic Studio](http://pragmaticstudio.com)
 - ★ [LinkedIn Learning](https://www.linkedin.com/learning/search?keywords=ruby) (formerly Lynda.com)
 - ★ [Thoughtbot Upcase](https://thoughtbot.com/upcase/)
-- [Hanami Mastery](https://hanamimastery.com) - Articles & screencasts about awesome ruby projects.
+- [Hanami Mastery](https://hanamimastery.com) — Articles and screencasts about awesome Ruby projects.
 - [Ruby From Scratch](https://www.codemy.net/posts/rfs-introduction-to-ruby-001/sets/ruby-from-scratch)
 - [Rails Foundation](https://www.codemy.net/posts/rails-generating-an-app/sets/rails-foundation)
 - [Rails API](https://www.codemy.net/posts/rails-api-generating-an-api-only-rails-app-001/sets/rails-api)
@@ -175,12 +174,10 @@ and author of [Practical Object-Oriented Design in Ruby](https://www.poodr.com).
 - [confreaks.com](http://confreaks.com/) — expert recording services for conferences, seminars, and workshops.
 - [Learnable](https://learnable.com/topics/ruby) — video courses and books ($30 per month).
 - [Destroy All Software](https://www.destroyallsoftware.com/) — by Gary Bernhardt.
-- [RubySteps](https://www.rubysteps.com) - daily emails on Ruby, Rails, TDD, OOP, and Refactoring with code examples and challenges. Also mob programming events with guest developers and Pat Maddox. ($149 per month).
-- [UT on Rails](http://www.schneems.com/ut-rails/) - 10 weeks long Ruby on Rails
-  screencasts. It assumes you know little about programming and not used Ruby,
-Rails or databases previously. Good for beginners.
+- [RubySteps](https://www.rubysteps.com) — Daily emails on Ruby, Rails, TDD, OOP, and refactoring with code examples and challenges. Also includes mob programming events with guest developers and Pat Maddox. ($149 per month).
+- [UT on Rails](http://www.schneems.com/ut-rails/) — 10-week-long Ruby on Rails screencasts. Assumes you know little about programming and haven't used Ruby, Rails, or databases previously. Good for beginners.
 - [Drifting Ruby](https://www.driftingruby.com/)
-- [The Complete Ruby on Rails Developer Course](https://www.udemy.com/the-complete-ruby-on-rails-developer-course/) - A complete begginer friendly low price course on udemy with a lot of extra infos.
+- [The Complete Ruby on Rails Developer Course](https://www.udemy.com/the-complete-ruby-on-rails-developer-course/) — A complete beginner-friendly, low-priced course on Udemy with lots of extra information.
 
 ## Other Learning Materials
 
@@ -191,22 +188,22 @@ Rails or databases previously. Good for beginners.
 - [Ruby Koans](http://rubykoans.com) — will walk you along the path to enlightenment in order to learn Ruby. The goal is to learn the Ruby language, syntax, structure, and some common functions and libraries. We also teach you culture. Testing is not just something we pay lip service to, but something we live. It is essential in your quest to learn and do great things in the language.
 - [SitePoint](http://www.sitepoint.com/ruby/) — articles on Ruby programming.
 - [Better Specs](http://betterspecs.org) — RSpec best practices.
-- [Sourcegraph](https://sourcegraph.com) — search engine for code examples/ Here is a [demo video](https://www.youtube.com/watch?v=YYL0ZoPeB5w).
+- [Sourcegraph](https://sourcegraph.com) — Search engine for code examples. Here is a [demo video](https://www.youtube.com/watch?v=YYL0ZoPeB5w).
 - [Basic Algorithms written in Ruby](https://github.com/Djo/algorithms).
 - [Algorithms and Data Structures in Ruby](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby)
 - [RubyOffRails](https://rubyoffrails.com/) — An online Ruby course recently open sourced.
-- [The Odin Project](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby) — an online Ruby lesson plan with a community to help.
-- [Ruby one-liners cookbook](https://learnbyexample.github.io/learn_ruby_oneliners/preface.html) — free guide for text processing with Ruby from the command line.
-- [Ruby Regexp](https://learnbyexample.github.io/Ruby_Regexp/preface.html) — free ebook to learn Ruby regular expressions, includes exercises.
-- [Kandi](https://kandi.openweaver.com/explore/ruby#Top-Authors) - Explore Ruby and all its libraries along with many projects.
-- [Ruby Cheatsheet](https://github.com/lifeparticle/Ruby-Cheatsheet) — a cheatsheet for beginners.
+- [The Odin Project](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby) — An online Ruby lesson plan with a community to help.
+- [Ruby one-liners cookbook](https://learnbyexample.github.io/learn_ruby_oneliners/preface.html) — A free guide for text processing with Ruby from the command line.
+- [Ruby Regexp](https://learnbyexample.github.io/Ruby_Regexp/preface.html) — A free ebook to learn Ruby regular expressions; includes exercises.
+- [Kandi](https://kandi.openweaver.com/explore/ruby#Top-Authors) — Explore Ruby and all its libraries along with many projects.
+- [Ruby Cheatsheet](https://github.com/lifeparticle/Ruby-Cheatsheet) — A cheatsheet for beginners.
 
 ## Style Guides
 
 - [The Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)
 - [The Rails Style Guide](https://github.com/bbatsov/rails-style-guide)
 - [GitHub Ruby Coding Style](https://github.com/styleguide/ruby)
-- [Thoughtbot Style Guides](https://github.com/thoughtbot/guides) (Ruby, Rails, Git some other technologies)
+- [Thoughtbot Style Guides](https://github.com/thoughtbot/guides) (Ruby, Rails, Git, and some other technologies)
 
 See also:
 
@@ -234,17 +231,17 @@ See also:
 - [Visual Studio Code](https://code.visualstudio.com) — Redefined code editor from Microsoft with [Ruby debugging support](https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby).
 
 ### Code quality analysis
-- [sonarlint-intellij](https://github.com/SonarSource/sonarlint-intellij) - An IDE extension that helps you detect and fix quality issues as you write code.
+- [sonarlint-intellij](https://github.com/SonarSource/sonarlint-intellij) — An IDE extension that helps you detect and fix quality issues as you write code.
 - [RuboCop](https://github.com/bbatsov/rubocop) — a Ruby static code analyzer, based on the community Ruby style guide.
 - [Guard plugin for RuboCop](https://github.com/yujinakayama/guard-rubocop) — allows you to automatically check Ruby code style with RuboCop when files are modified.
 - [RubyCritic](https://github.com/whitesmith/rubycritic) — a gem that wraps around static analysis gems such as Reek, Flay and Flog to provide a quality report of your Ruby code.
 
 ### Environment management
 
-- ★ [rbenv](https://github.com/sstephenson/rbenv) — a tool to pick a Ruby version for your application and guarantee that your development environment matches production. Put rbenv to work with Bundler for painless Ruby upgrades and bulletproof deployments.
+- ★ [rbenv](https://github.com/sstephenson/rbenv) — A tool to pick a Ruby version for your application and guarantee that your development environment matches production. Put rbenv to work with Bundler for painless Ruby upgrades and bulletproof deployments.
 - [rbenv-vars](https://github.com/sstephenson/rbenv-vars) — an rbenv plugin that safely sets global and per-project environment variables.
-- [RVM](https://rvm.io) — a command-line tool which allows you to easily install, manage, and work with multiple ruby environments from interpreters to sets of gems.
-- [chruby](https://github.com/postmodern/chruby) — a tool that changes the current Ruby.
+- [RVM](https://rvm.io) — A command-line tool that allows you to easily install, manage, and work with multiple Ruby environments from interpreters to sets of gems.
+- [chruby](https://github.com/postmodern/chruby) — A tool that changes the current Ruby.
 
 ### Ruby distributions
 
@@ -261,25 +258,25 @@ See also:
 
 - [Unicorn](http://unicorn.bogomips.org) – Rack HTTP server for fast clients and Unix.
 - [Phusion Passenger](https://phusionpassenger.com) — a fast and robust web server and application server for Ruby, Python and Node.js.
-- [Thin](https://github.com/macournoyer/thin/) – A very fast & simple Ruby web server.
+- [Thin](https://github.com/macournoyer/thin/) – A very fast and simple Ruby web server.
 - [Puma](https://github.com/puma/puma) — a Ruby web server built for concurrency.
 - [Pow!](https://github.com/basecamp/pow) — a zero-config Rack server for Mac OS X.
     - [Powder](https://github.com/Rodreegez/powder) — user-friendly CLI wrapper for Pow.
     - [Powify](https://github.com/sethvargo/powify) — a management tool for Pow by 37 signals. It allows you to easily install, update, and manage pow and pow applications seamlessly.
-- [Prax](http://ysbaddaden.github.io/prax/) — a pure ruby alternative to Pow! that runs on GNU/Linux.
+- [Prax](http://ysbaddaden.github.io/prax/) — A pure Ruby alternative to Pow! that runs on GNU/Linux.
 - [TorqueBox](http://torquebox.org) — an application platform that supports popular technologies such as Ruby on Rails and Sinatra, while extending the footprint of Ruby applications to include built-in support for services such as messaging, scheduling, caching, and daemons. TorqueBox provides an all-in-one environment, built upon the latest JBoss AS Java application server and JRuby. Functionality such as clustering, load-balancing and high-availability is included right out-of-the-box.
 
 See also:
 
 - [The Ruby Web Benchmark Report](http://www.madebymarket.com/blog/dev/ruby-web-benchmark-report.html) (July 2014) — „I benchmarked every single version of Ruby available as of the beginning of this test — January 2014. On each version I benchmarked every Rack server and web framework combination I could find. I tested with both Apache Bench and wrk to see if there are flaws that one benchmarking tool picks up on that the other didn’t. The goal of the benchmark is the fastest benchmark run, not the average.“
-- [App Server Arena](https://blog.engineyard.com/2014/ruby-app-server-arena-pt1) — a comparison of popular ruby application servers.
+- [App Server Arena](https://blog.engineyard.com/2014/ruby-app-server-arena-pt1) — A comparison of popular Ruby application servers.
 
 ### Deployment Automation and Configuration Management
 
 - [Capistrano](https://github.com/capistrano/capistrano) — remote multi-server automation tool.
 - [Chef](https://github.com/opscode/chef) — a systems integration framework, built to bring the benefits of configuration management to your entire infrastructure.
 - ★ [Mina](https://github.com/mina-deploy/mina) – really fast deployer and server automation tool.
-- [Rails + Nginx + Unicorn Dockerfile](https://github.com/seapy/dockerfiles/tree/master/rails-nginx-unicorn) — easy useable docker for rails. less configuration, affordable production.
+- [Rails + Nginx + Unicorn Dockerfile](https://github.com/seapy/dockerfiles/tree/master/rails-nginx-unicorn) — Easy-to-use Docker for Rails with less configuration and affordable production.
 
 ### Other tools
 
@@ -287,12 +284,12 @@ See also:
 - [Reek](https://github.com/troessner/reek) — code smell detection for Ruby.
 - [Foreman](https://github.com/ddollar/foreman) — manage Procfile-based applications.
 - [Rubular](http://rubular.com) — a Ruby-based regular expression editor. It's a handy way to test regular expressions as you write them.
-- [httpie](https://github.com/jakubroztocil/httpie) — extremely handy  command line HTTP client, a user-friendly cURL replacement.
+- [httpie](https://github.com/jakubroztocil/httpie) — An extremely handy command-line HTTP client; a user-friendly cURL replacement.
 - [ngrok](https://ngrok.com) — introspected tunnels to localhost. ngrok creates a tunnel from the public internet (http://subdomain.ngrok.com) to a port on your local machine. You can give this URL to anyone to allow them to try out a web site you're developing without doing any deployment.
 - [eye](https://github.com/kostya/eye) — a process monitor.
-- [god](https://github.com/mojombo/god) - the Ruby Framework for Process Management
-- [DuckRails](https://github.com/iridakos/duckrails) - development tool for mocking API endpoints quickly & dynamically.
-- [Cloud 66](https://help.cloud66.com/) - build, deploy, and manage your applications on any cloud, or on your own server. 
+- [god](https://github.com/mojombo/god) — The Ruby Framework for Process Management
+- [DuckRails](https://github.com/iridakos/duckrails) — A development tool for mocking API endpoints quickly and dynamically.
+- [Cloud 66](https://help.cloud66.com/) — Build, deploy, and manage your applications on any cloud or on your own server. 
 
 ## Quizzes, tests, exams
 
@@ -320,17 +317,17 @@ See also:
 - [Annotate](https://github.com/ctran/annotate_models) — Add a comment summarizing the current schema to the top or bottom of each of your ActiveRecord models, fixtures, tests and specs, factory_girl factories, routes.rb file, etc.
 - [Paperclip](https://github.com/thoughtbot/paperclip) — easy file attachment management for ActiveRecord.
 - [Thinking Sphinx](https://github.com/pat/thinking-sphinx) — a library for connecting ActiveRecord to the Sphinx full-text search tool, and integrates closely with Rails (but also works with other Ruby web frameworks).
-- [Ancestry](https://github.com/stefankroes/ancestry) — organise ActiveRecord model into a tree structure.
+- [Ancestry](https://github.com/stefankroes/ancestry) — Organize ActiveRecord models into a tree structure.
 - [Squeel](https://github.com/activerecord-hackery/squeel) — lets you write your Active Record queries with fewer strings, and more Ruby, by making the Arel awesomeness that lies beneath Active Record more accessible.
-- [pp_sql](https://github.com/kvokka/pp_sql) - Rails ActiveRecord SQL queries log beautifier.
+- [pp_sql](https://github.com/kvokka/pp_sql) — Rails ActiveRecord SQL queries log beautifier.
 
 ### API
 
-- [RABL](https://github.com/nesquena/rabl) — a Rails and Padrino ruby templating system for generating JSON, XML, MessagePack, PList and BSON.
+- [RABL](https://github.com/nesquena/rabl) — A Rails and Padrino Ruby templating system for generating JSON, XML, MessagePack, PList, and BSON.
 - [Grape](https://github.com/intridea/grape) — an opinionated micro-framework for creating REST-like APIs in Ruby.
 - [Pliny](https://github.com/interagent/pliny) – write excellent APIs in Ruby.
-- [Committee](https://github.com/interagent/committee) - A collection of middleware to help build services with JSON Schema, OpenAPI 2, OpenAPI 3.
-- [Savon](https://github.com/savonrb/savon) - a micro-framework to handle all the soap(WSDL) requests.
+- [Committee](https://github.com/interagent/committee) — A collection of middleware to help build services with JSON Schema, OpenAPI 2, and OpenAPI 3.
+- [Savon](https://github.com/savonrb/savon) — A micro-framework to handle all SOAP (WSDL) requests.
 
 ### Authentication
 
@@ -341,23 +338,23 @@ See also:
 
 ### Authorization
 
-- [CanCanCan](https://github.com/CanCanCommunity/cancancan) — a continuation of the dead. [CanCan](https://github.com/ryanb/cancan) project. Our mission is to keep CanCan alive and moving forward, with maintenance fixes and new features.
+- [CanCanCan](https://github.com/CanCanCommunity/cancancan) — a continuation of the discontinued [CanCan](https://github.com/ryanb/cancan) project. Our mission is to keep CanCan alive and moving forward, with maintenance fixes and new features.
 - [Pundit](https://github.com/elabs/pundit) — minimal authorization through OO design and pure Ruby classes.
 
 ### Avatars
 
-- [avatarly](https://github.com/lucek/avatarly) — a simple gem for creating gmail-like user avatars based on user email or any other string passed.
+- [avatarly](https://github.com/lucek/avatarly) — A simple gem for creating Gmail-like user avatars based on user email or any other string passed.
 
 ### Background Jobs
 
 - [Sidekiq](http://sidekiq.org) — a full-featured background processing framework for Ruby. It aims to be simple to integrate with any modern Rails application and much higher performance than other existing solutions.
 - [Backburner](https://github.com/nesquena/backburner) — a beanstalkd-powered job queue that can handle a very high volume of jobs.
-- [Delayed::Job](https://github.com/tobi/delayed_job) — database backed asynchronous priority queue.
+- [Delayed::Job](https://github.com/tobi/delayed_job) — A database-backed asynchronous priority queue.
 - [que](https://github.com/chanks/que) — a Ruby job queue that uses PostgreSQL's advisory locks for speed and reliability.
 - [Resque](https://github.com/resque/resque) — a Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later.
 - [Sucker Punch](https://github.com/brandonhilkert/sucker_punch) — an asynchronous processing library using Celluloid, heavily influenced by Sidekiq and girl_friday.
 - [Ohm](https://github.com/soveran/ohm) — object-hash mapping for Redis.
-- [Karafka](https://github.com/karafka/karafka) - Ruby and Rails multi-threaded efficient Kafka processing framework. It allows you to capture everything that happens in your systems in large scale.
+- [Karafka](https://github.com/karafka/karafka) — Ruby and Rails multi-threaded efficient Kafka processing framework. It allows you to capture everything that happens in your systems in large scale.
 
 ### Bootstrap
 
@@ -366,7 +363,7 @@ See also:
 
 ### CLI
 
-- [colorize](https://github.com/fazibear/colorize) — String class extension. It add some methods to set color, background color and text effect on console easier using ANSI escape sequences.
+- [colorize](https://github.com/fazibear/colorize) — String class extension. It adds some methods to set color, background color and text effect on console easier using ANSI escape sequences.
 - [TTY](https://github.com/peter-murach/tty) — a toolbox for developing beautiful command line clients in Ruby.
 
 ### CSS
@@ -385,7 +382,7 @@ See also:
 
 ### Debugging
 
-- [Pry](http://pryrepl.org) - A runtime developer console and IRB alternative with powerful introspection capabilities.
+- [Pry](http://pryrepl.org) — A runtime developer console and IRB alternative with powerful introspection capabilities.
 - [Byebug](https://github.com/deivid-rodriguez/byebug) — a simple to use, feature rich debugger for Ruby 2. It uses the new TracePoint API for execution control and the new Debug Inspector API for call stack navigation, so it doesn't depend on internal core sources. It's developed as a C extension, so it's fast. And it has a full test suite so it's reliable.
 
 ### E-commerce
@@ -398,8 +395,8 @@ See also:
 ### Graphics
 
 - [RMagick](https://github.com/rmagick/rmagick) — an interface to the ImageMagick and GraphicsMagick image processing libraries.
-- [MiniMagick](https://github.com/minimagick/minimagick) — a ruby wrapper for ImageMagick or GraphicsMagick command line.
-- [psd.rb](https://github.com/layervault/psd.rb) Parse Photoshop files in Ruby with ease.
+- [MiniMagick](https://github.com/minimagick/minimagick) — A Ruby wrapper for ImageMagick or GraphicsMagick command line.
+- [psd.rb](https://github.com/layervault/psd.rb) — Parse Photoshop files in Ruby with ease.
 
 ### HTML, XML
 
@@ -409,22 +406,22 @@ See also:
 
 - [Yell](https://github.com/rudionrails/yell) — Your Extensible Logging Library, a comprehensive logging replacement for Ruby.
 - [Fluentd](https://github.com/fluent/fluentd) — an open source data collector designed for processing data streams, which instantly enables you to have Log Management, Big Data Analytics, etc.
-- [mongodb_logger](https://github.com/le0pard/mongodb_logger) — an alternative logger for Rails or Rack based app, which log all requests of you application into MongoDB database (allow to store and search any information from logs; web panel allow filter logs, build graphs using MapReduce by information from logs).
+- [mongodb_logger](https://github.com/le0pard/mongodb_logger) — An alternative logger for Rails or Rack based app, which logs all requests of your application into MongoDB database (allows to store and search any information from logs; web panel allows filter logs, build graphs using MapReduce by information from logs).
 - [Hatchet](https://github.com/gshutler/hatchet) — logging library that provides the ability to add class/module specific filters.
-- [logstasher](https://github.com/shadabahmed/logstasher) Awesome rails logs
-- [Rails Pretty logger](https://github.com/kekik/rails-pretty-logger/) Check and search logs from dashboard, use hightlight to spot easily, add hourly rotation if needed.
+- [logstasher](https://github.com/shadabahmed/logstasher) — Awesome Rails logs
+- [Rails Pretty logger](https://github.com/kekik/rails-pretty-logger/) — Check and search logs from dashboard, use highlight to spot easily, add hourly rotation if needed.
 
 ### Mail
 
 - [Pony](https://github.com/benprew/pony) — the express way to send email in Ruby.
 - [Mailgun-Ruby](https://github.com/mailgun/mailgun-ruby) — Mailgun's Official Ruby Library.
-- [AWS::SES](https://github.com/drewblas/aws-ses) — easy ruby DSL & interface to [Amazon SES](http://aws.amazon.com/ses/). See also the [official Ruby SDK](http://aws.amazon.com/sdkforruby/).
+- [AWS::SES](https://github.com/drewblas/aws-ses) — An easy Ruby DSL & interface to [Amazon SES](http://aws.amazon.com/ses/). See also the [official Ruby SDK](http://aws.amazon.com/sdkforruby/).
 - [Mail](https://github.com/mikel/mail) — a library that is designed to handle emails generation, parsing and sending in a simple, rubyesque manner.
 - [Griddler](https://griddler.io) — a Rails engine that provides an endpoint for SendGrid, Cloudmailin, Postmark or Mandrill and hands off the email to your application.
 
 ### Markdown
 
-- [kramdown](https://github.com/gettalong/kramdown) — yet-another-markdown-parser but fast, pure Ruby, using a strict syntax definition and supporting several common extensions, http://kramdown.gettalong.org
+- [kramdown](https://github.com/gettalong/kramdown) — A yet-another-markdown-parser but fast, pure Ruby, using a strict syntax definition and supporting several common extensions, http://kramdown.gettalong.org
 - [redcarpet](https://github.com/vmg/redcarpet) — a fast, safe and extensible Markdown to (X)HTML parser.
 - [maruku](https://github.com/bhollis/maruku) — a pure-Ruby Markdown-superset interpreter.
 - [markup](https://github.com/github/markup) — the code GitHub uses to render `README.your_favorite_markup`.
@@ -442,27 +439,27 @@ See also:
 
 ### Misc
 
-If there is a nice gem, but it is difficult to classify it with existing bookmarks groups, or it is still one of his kind, put it here.
+If there is a nice gem, but it is difficult to classify it with existing bookmarks groups, or it is still one of its kind, put it here.
 
 - [Prawn](https://github.com/prawnpdf/prawn) — fast, nimble PDF generation.
-- [Dalli](https://github.com/mperham/dalli) — high performance Memcached client for Ruby.
-- [EventMachine](https://github.com/eventmachine/eventmachine) — fast, simple event-processing library.
+- [Dalli](https://github.com/mperham/dalli) — A high performance Memcached client for Ruby.
+- [EventMachine](https://github.com/eventmachine/eventmachine) — A fast, simple event-processing library.
 - [rpush](https://github.com/rpush/rpush) — push notification service, supporting Apple Push Notification Service, Google Cloud Messaging, Amazon Device Messaging, Windows Phone Push Notification Service.
-- [Rubyzip](https://github.com/rubyzip/rubyzip) — reading and writing zip files.
+- [Rubyzip](https://github.com/rubyzip/rubyzip) — A library for reading and writing zip files.
 - [JsonCompare](https://github.com/a2design-company/json-compare) — returns the difference between two JSON files.
 - [Dante](https://github.com/nesquena/dante) — turn any ruby code into a daemon.
-- [Memoist](https://github.com/matthewrudy/memoist) — an extraction of ActiveSupport::Memoizable with few extensions.
+- [Memoist](https://github.com/matthewrudy/memoist) — An extraction of ActiveSupport::Memoizable with few extensions.
 - [Awesome Print](https://github.com/michaeldv/awesome_print) — a Ruby library that pretty prints Ruby objects in full color exposing their internal structure with proper indentation. Rails ActiveRecord objects and usage within Rails templates are supported via included mixins.
-- [twig](https://github.com/rondevera/twig) Your personal Git branch assistant
-- [datashift](https://github.com/autotelik/datashift) Comprehensive Excel and CSV import/export tools for Ruby
+- [twig](https://github.com/rondevera/twig) — Your personal Git branch assistant
+- [datashift](https://github.com/autotelik/datashift) — Comprehensive Excel and CSV import/export tools for Ruby
 - [Configurations](https://github.com/beatrichartz/configurations) — provides a unified approach to do configurations for gems or other ruby code.
 - [awesome_print](https://github.com/awesome-print/awesome_print) — a Ruby library that pretty prints Ruby objects in full color exposing their internal structure with proper indentation. Rails ActiveRecord objects and usage within Rails templates are supported via included mixins.
-- [YYMMDD](https://github.com/sshaw/yymmdd) — tiny DSL for idiomatic date parsing and formatting.
+- [YYMMDD](https://github.com/sshaw/yymmdd) — A tiny DSL for idiomatic date parsing and formatting.
 - [Libnotify](https://github.com/splattael/libnotify) — Ruby bindings for libnotify, a crossplatform user notification library.
 - [MemFs](https://github.com/simonc/memfs) — provides a fake file system that can be used for tests.
-- [Github-Changelog-Generator](https://github.com/skywinder/Github-Changelog-Generator) — automatically generate change log from your tags, issues, labels and pull requests.
+- [Github-Changelog-Generator](https://github.com/skywinder/Github-Changelog-Generator) — Automatically generate a change log from your tags, issues, labels and pull requests.
 - [wannabe_bool](https://github.com/prodis/wannabe_bool) — If string, numeric, symbol and nil values wanna be a boolean value, they can with the new #to_b method (and more).
-- [response_code](https://github.com/torokmark/response_code) Response Code in readable way.
+- [response_code](https://github.com/torokmark/response_code) — Response Code in a readable way.
 
 ### Multithreading
 
