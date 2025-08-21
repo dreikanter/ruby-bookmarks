@@ -115,7 +115,6 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 
 ### Testing
 
-- [The RSpec Book: Behaviour Driven Development with RSpec, Cucumber, and Friends](http://www.amazon.com/The-RSpec-Book-Behaviour-Development/dp/1934356379/) by *David Chelimsky*, *Dave Astels*, *Bryan Helmkamp*, *Dan North*, *Zach Dennis*, *Aslak Hellesoy*
 - [Everyday Rails Testing with RSpec](https://leanpub.com/everydayrailsrspec) by *Aaron Sumner*
 - [Testing Rails](http://testingrailsbook.com) by *thoughtbot*
 - [Rails Testing Handbook](https://semaphoreci.com/ebooks/rails-testing-handbook) by *Semaphore*
