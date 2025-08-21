@@ -122,7 +122,6 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 
 ### Other frameworks and tools
 
-- [RubyMotion](http://www.amazon.com/RubyMotion-Pragmatic-Programmers-Clay-Allsopp/dp/1937785289/) by *Clay Allsopp*
 - [Build Awesome Command-Line Applications in Ruby 2](https://pragprog.com/titles/dccar2/build-awesome-command-line-applications-in-ruby-2/) by *David Copeland*
 - [Sinatra Book](https://github.com/sinatra/sinatra-book/) — a cookbook full of excellent tutorials and recipes for developing Sinatra web applications.
 
