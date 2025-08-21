@@ -1,10 +1,10 @@
-# Ruby Bookmarks [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Ruby Bookmarks [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 This is a curated collection of essential Ruby and Ruby on Rails resources. The project aims to maintain a well-structured reference equally useful both for beginners and advanced web developers.
 
 ★&nbsp;stands here for Editors' Choice.
 
-This list is not intended to include any random resource related to Ruby programming (we already have a most complete gem catalogue at [ruby-toolbox.com](https://ruby-toolbox.com) and [Awesome Ruby](https://ruby.libhunt.com)), but only the best and most actual alternatives in each area. You will find here latest editions of the most important books, time and community tested gems (alive projects only!), and actively updated websites. *Sharing and pull requests are very much appreciated!*
+This list is not intended to include any random resource related to Ruby programming (we already have a most complete gem catalogue at [ruby-toolbox.com](https://www.ruby-toolbox.com) and [Awesome Ruby](https://ruby.libhunt.com)), but only the best and most actual alternatives in each area. You will find here latest editions of the most important books, time and community tested gems (alive projects only!), and actively updated websites. *Sharing and pull requests are very much appreciated!*
 
 **[Fork and edit](https://github.com/dreikanter/ruby-bookmarks/edit/master/README.md)**
 
@@ -78,25 +78,25 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 
 - ★ [Eloquent Ruby](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional/dp/0321584104/) by *Russ Olsen*
 - [I Love Ruby](https://i-love-ruby.gitlab.io/) by Karthikeyan A. K.
-- [Programming Ruby](http://pragprog.com/book/ruby4/programming-ruby-1-9-2-0) by *Dave Thomas*, *Andy Hunt*, and *Chad Fowler*
+- [Programming Ruby](https://pragprog.com/titles/ruby4/programming-ruby-1-9-2-0-4th-edition/) by *Dave Thomas*, *Andy Hunt*, and *Chad Fowler*
 - [Learn Ruby The Hard Way](https://www.amazon.com/dp/032188499X) by *Zed A. Shaw* ([Official site](http://ruby.learncodethehardway.org/book/))
 - [The Ruby Programming Language](http://www.amazon.com/dp/0596516177) by *David Flanagan* and *Yukihiro "Matz" Matsumoto*
-- [Why's Poignant Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/) by *Why the Lucky Stiff*
+- [Why's Poignant Guide to Ruby](https://poignant.guide/) by *Why the Lucky Stiff*
 
 ### Advancing Ruby knowledge
 
-- ★ [Practical Object-Oriented Design in Ruby](http://poodr.com) by *Sandi Metz*
+- ★ [Practical Object-Oriented Design in Ruby](https://www.poodr.com) by *Sandi Metz*
 - ★ [Ruby Under a Microscope: An Illustrated Guide to Ruby Internals](http://www.amazon.com/dp/1593275277/) by *Pat Shaughnessy* ([Official site](http://patshaughnessy.net/ruby-under-a-microscope))
-- ★ [Confident Ruby: 32 Patterns for Joyful Coding](http://www.amazon.com/dp/B00ETE0D2S/) by *Avdi Grimm* ([Official site](http://www.confidentruby.com/))
+- ★ [Confident Ruby: 32 Patterns for Joyful Coding](http://www.amazon.com/dp/B00ETE0D2S/) by *Avdi Grimm* ([Official site](https://store.avdi.codes/#rrWapR))
 - [Modern Front-End Development for Rails](https://pragprog.com/titles/nrclient2/modern-front-end-development-for-rails-second-edition/)
 - [Polished Ruby Programming](https://www.amazon.com/Polished-Ruby-Programming-maintainable-high-performance-ebook/dp/B093TH9P7C) by *Jeremy Evans*
-- [Exceptional Ruby: Master the Art of Handling Failure in Ruby](http://pragprog.com/book/ager/exceptional-ruby) by *Avdi Grimm*
+- [Exceptional Ruby: Master the Art of Handling Failure in Ruby](https://pragprog.com/titles/ager/exceptional-ruby/) by *Avdi Grimm*
 - [Metaprogramming Ruby: Program Like the Ruby Pros](http://www.amazon.com/dp/B00A376YAK/) by *Paolo Perrotta*
 - [The Well-Grounded Rubyist](http://www.amazon.com/The-Well-Grounded-Rubyist-David-Black/dp/1617291692/) by *David A. Black*
 - [Clean Ruby](http://clean-ruby.com/) by *Jim Gay*
 - [Reliably Deploying Rails Applications](https://leanpub.com/deploying_rails_applications) by *Ben Dixon*
-- [Rubyfu](http://rubyfu.net) - Collection of ideas, tricks and skills for hackers, an open source book.
-- [Demystifying Rails](https://launchschool.com/books/demystifying_rails/read/introduction) by *Launch School* — This book doesn't teach how to use Rails to build prototypes. Instead, this book dives one layer below the surface to expose how Rails is pieced together.
+- [Rubyfu](https://github.com/rubyfu/RubyFu) - Collection of ideas, tricks and skills for hackers, an open source book.
+- [Demystifying Rails](https://launchschool.com/books/demystifying_rails) by *Launch School* — This book doesn't teach how to use Rails to build prototypes. Instead, this book dives one layer below the surface to expose how Rails is pieced together.
 - [The Ruby Bibliography](http://rubybib.org/) - Academic writing on the Ruby programming language.
 
 ### Ruby on Rails for beginners
@@ -112,7 +112,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [Rails AntiPatterns: Best Practice Ruby on Rails Refactoring](http://www.amazon.com/Rails-AntiPatterns-Refactoring-Addison-Wesley-Professional/dp/0321604814/) by *Chad Pytel*, *Tammer Saleh*
 - [Deploying Rails: Automate, Deploy, Scale, Maintain, and Sleep at Night](http://www.amazon.com/Deploying-Rails-Automate-Deploy-Maintain/dp/1934356956/) by *Tom Copeland*, *Anthony Burns*
 - [Multitenancy with Rails](http://leanpub.com/multi-tenancy-rails) by *Ryan Bigg*
-- [Ruby Science](https://gumroad.com/l/ruby-science) by *thoughtbot*
+- [Ruby Science](https://thoughtbot.gumroad.com/l/ruby-science) by *thoughtbot*
 - [Rebuilding Rails](https://rebuilding-rails.com/) by *Noah Gibbs*
 - [The Complete Guide to Rails Performance](https://www.railsspeed.com/) by *Nate Berkopec*
 
@@ -120,18 +120,15 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 
 - [The RSpec Book: Behaviour Driven Development with RSpec, Cucumber, and Friends](http://www.amazon.com/The-RSpec-Book-Behaviour-Development/dp/1934356379/) by *David Chelimsky*, *Dave Astels*, *Bryan Helmkamp*, *Dan North*, *Zach Dennis*, *Aslak Hellesoy*
 - [Rails 5 Test Prescriptions: Build a Healthy Codebase](https://pragprog.com/book/nrtest3/rails-5-test-prescriptions) by *Noel Rappin*
-- [Continuous Testing](http://pragprog.com/news/continuous-testing-with-ruby-rails-and-javascript-now-in-print) by *Ben Rady* and *Rod Coffin*
 - [Everyday Rails Testing with RSpec](https://leanpub.com/everydayrailsrspec) by *Aaron Sumner*
-- [What Do I Test?](https://whatdoitest.com/) by *Eric Steele*
 - [Testing Rails](http://testingrailsbook.com) by *thoughtbot*
 - [Rails Testing Handbook](https://semaphoreci.com/ebooks/rails-testing-handbook) by *Semaphore*
 
 ### Other frameworks and tools
 
 - [RubyMotion](http://www.amazon.com/RubyMotion-Pragmatic-Programmers-Clay-Allsopp/dp/1937785289/) by *Clay Allsopp*
-- [Build Awesome Command-Line Applications in Ruby 2](http://pragprog.com/book/dccar2/build-awesome-command-line-applications-in-ruby-2) by *David Copeland*
+- [Build Awesome Command-Line Applications in Ruby 2](https://pragprog.com/titles/dccar2/build-awesome-command-line-applications-in-ruby-2/) by *David Copeland*
 - [Sinatra Book](https://github.com/sinatra/sinatra-book/) — a cookbook full of excellent tutorials and recipes for developing Sinatra web applications.
-- [The Guide to Cuba](http://theguidetocuba.io) — this book will teach you how to create a Ruby web application from scratch using Cuba microframework.
 
 ## Blogs
 
@@ -144,7 +141,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [RubyFlow](http://rubyflow.com)
 - [RubyGuides](https://www.rubyguides.com) — Ruby tutorials & articles to help you become a better developer
 - [Sandi Metz](https://www.sandimetz.com/blog/) - Writes about flexible object-oriented code in Ruby and Rails, avid speaker.
-and author of [Practical Object-Oriented Design in Ruby](http://poodr.com).
+and author of [Practical Object-Oriented Design in Ruby](https://www.poodr.com).
 
 ## Community Resources
 
@@ -161,20 +158,19 @@ and author of [Practical Object-Oriented Design in Ruby](http://poodr.com).
 ## Screencasts and courses
 
 - ★ [Pluralsight](https://www.pluralsight.com/search?q=ruby) Ruby Course Library.
-- ★ [RubyTapas](http://rubytapas.com) by Avdi Grimm.
+- ★ [RubyTapas](https://www.rubytapas.com) by Avdi Grimm.
 - ★ [GoRails](https://gorails.com) — a series of screencasts and guides for all aspects of Ruby on Rails. Learn how to setup your machine, build a Rails application, and deploy it to a server.
 - ★ [The Pragmatic Studio](http://pragmaticstudio.com)
-- ★ [Lynda.com](http://www.lynda.com/search?q=ruby)
+- ★ [LinkedIn Learning](https://www.linkedin.com/learning/search?keywords=ruby) (formerly Lynda.com)
 - ★ [Thoughtbot Upcase](https://thoughtbot.com/upcase/)
 - [Hanami Mastery](https://hanamimastery.com) - Articles & screencasts about awesome ruby projects.
 - [Ruby From Scratch](https://www.codemy.net/posts/rfs-introduction-to-ruby-001/sets/ruby-from-scratch)
 - [Rails Foundation](https://www.codemy.net/posts/rails-generating-an-app/sets/rails-foundation)
 - [Rails API](https://www.codemy.net/posts/rails-api-generating-an-api-only-rails-app-001/sets/rails-api)
-- [RubyPlus](https://rubyplus.com/episodes)
+- [RubyPlus](https://www.rubyplus.com/episodes)
 - [Ruby screencasts at TutsPlus.com](http://code.tutsplus.com/categories/ruby/courses)
 - [Rails screencasts at TutsPlus.com](http://code.tutsplus.com/categories/rails/courses)
 - [RailsCasts](http://railscasts.com)
-- [Learn Rails the Zombie Way](http://railsforzombies.org)
 - [CodeAcademy](http://www.codecademy.com/tracks/ruby)
 - [confreaks.com](http://confreaks.com/) — expert recording services for conferences, seminars, and workshops.
 - [Learnable](https://learnable.com/topics/ruby) — video courses and books ($30 per month).
@@ -189,20 +185,17 @@ Rails or databases previously. Good for beginners.
 ## Other Learning Materials
 
 - [Ruby Videos](https://rubyvideo.dev) – index of all Ruby-related videos from conferences and meetups worldwide.
-- [TryRuby](http://tryruby.org) — online Ruby console and 15 minute interactive Ruby tutorial.
+- [TryRuby](https://try.ruby-lang.org/) — online Ruby console and 15 minute interactive Ruby tutorial.
 - [Project Euler](http://projecteuler.net) — a huge amount of programming problems to learn any language.
-- [PuzzleNode](http://puzzlenode.com) — a site for coders who enjoy to work on challenging problems, and is inspired by similar efforts such as Project Euler and the Internet Problem Solving Contest.
 - [Ruby on Rails Guides](http://guides.rubyonrails.org) — These guides are designed to make you immediately productive with Rails, and to help you understand how all of the pieces fit together.
 - [Ruby Koans](http://rubykoans.com) — will walk you along the path to enlightenment in order to learn Ruby. The goal is to learn the Ruby language, syntax, structure, and some common functions and libraries. We also teach you culture. Testing is not just something we pay lip service to, but something we live. It is essential in your quest to learn and do great things in the language.
-- [RubyMonk](https://rubymonk.com) — free, interactive tutorials to help you discover Ruby idioms, in your browser!
 - [SitePoint](http://www.sitepoint.com/ruby/) — articles on Ruby programming.
 - [Better Specs](http://betterspecs.org) — RSpec best practices.
 - [Sourcegraph](https://sourcegraph.com) — search engine for code examples/ Here is a [demo video](https://www.youtube.com/watch?v=YYL0ZoPeB5w).
 - [Basic Algorithms written in Ruby](https://github.com/Djo/algorithms).
 - [Algorithms and Data Structures in Ruby](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby)
-- [Jumpstart Lab](http://tutorials.jumpstartlab.com/) — a list of beginner and advanced-level Ruby, Rails, and Sinatra project tutorials.  Includes challenging independent projects as well.
 - [RubyOffRails](https://rubyoffrails.com/) — An online Ruby course recently open sourced.
-- [The Odin Project](http://www.theodinproject.com/ruby-programming) — an online Ruby lesson plan with a community to help.
+- [The Odin Project](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby) — an online Ruby lesson plan with a community to help.
 - [Ruby one-liners cookbook](https://learnbyexample.github.io/learn_ruby_oneliners/preface.html) — free guide for text processing with Ruby from the command line.
 - [Ruby Regexp](https://learnbyexample.github.io/Ruby_Regexp/preface.html) — free ebook to learn Ruby regular expressions, includes exercises.
 - [Kandi](https://kandi.openweaver.com/explore/ruby#Top-Authors) - Explore Ruby and all its libraries along with many projects.
@@ -224,21 +217,21 @@ See also:
 ## Podcasts
 
 - [Code and the Coders Who Code it](https://podcast.drbragg.dev/)
-- [Remote Ruby](https://remoteruby.transistor.fm/)
+- [Remote Ruby](https://www.remoteruby.com/)
 - [Ruby5](http://ruby5.envylabs.com)
 - [Ruby Rogues](http://rubyrogues.com)
-- [Ruby on Rails Podcast](http://5by5.tv/rubyonrails)
-- [Giant Robots Smashing into Other Giant Robots](http://podcasts.thoughtbot.com/giantrobots)
+- [Ruby on Rails Podcast](https://www.therubyonrailspodcast.com/)
+- [Giant Robots Smashing into Other Giant Robots](https://podcast.thoughtbot.com/)
 
 ## Tools
 
 ### IDEs and text editors
 
-- StackOverflow: [What Ruby IDE do you prefer?](http://stackoverflow.com/questions/16991/what-ruby-ide-do-you-prefer)
+- StackOverflow: [What Ruby IDE do you prefer?](https://stackoverflow.com/questions/16991/what-ruby-ide-do-you-prefer)
 - ★ [Sublime Text](http://www.sublimetext.com) — one of the best text editors for coding. Take a look at [Sublime Bookmarks](https://github.com/dreikanter/sublime-bookmarks) — a comprehensive list of plugins and other related stuff.
 - [RubyMine](http://jetbrains.com/ruby/) — intelligent Ruby and Rails IDE.
-- [Atom](http://atom.io) — a brand-new hackable text editor from Github.
-- [Visual Studio Code](code.visualstudio.com) — Redefined code editor from Microsoft with [Ruby debugging support](https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby).
+- [Atom](https://github.com/atom/atom) — a hackable text editor from Github (discontinued, archived).
+- [Visual Studio Code](https://code.visualstudio.com) — Redefined code editor from Microsoft with [Ruby debugging support](https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby).
 
 ### Code quality analysis
 - [sonarlint-intellij](https://github.com/SonarSource/sonarlint-intellij) - An IDE extension that helps you detect and fix quality issues as you write code.
@@ -263,15 +256,14 @@ See also:
 - [Dash](http://kapeli.com/dash) — an API Documentation Browser and Code Snippet Manager. Dash stores snippets of code and instantly searches offline documentation sets for 150+ APIs, including Ruby core libraries, and Ruby on Rails.
 - [Zeal](http://zealdocs.org) – Dash alternative for Linux & Windows.
 - [DevDocs](http://devdocs.io) — multiple API documentations in a fast, organized, and searchable interface (web).
-- [OmniRef](https://omniref.com) — comprehensive ruby documentation search (web).
 
 ### Application and Web Servers
 
 - [Unicorn](http://unicorn.bogomips.org) – Rack HTTP server for fast clients and Unix.
 - [Phusion Passenger](https://phusionpassenger.com) — a fast and robust web server and application server for Ruby, Python and Node.js.
-- [Thin](http://code.macournoyer.com/thin/) – A very fast & simple Ruby web server.
+- [Thin](https://github.com/macournoyer/thin/) – A very fast & simple Ruby web server.
 - [Puma](https://github.com/puma/puma) — a Ruby web server built for concurrency.
-- [Pow!](http://pow.cx) — a zero-config Rack server for Mac OS X.
+- [Pow!](https://github.com/basecamp/pow) — a zero-config Rack server for Mac OS X.
     - [Powder](https://github.com/Rodreegez/powder) — user-friendly CLI wrapper for Pow.
     - [Powify](https://github.com/sethvargo/powify) — a management tool for Pow by 37 signals. It allows you to easily install, update, and manage pow and pow applications seamlessly.
 - [Prax](http://ysbaddaden.github.io/prax/) — a pure ruby alternative to Pow! that runs on GNU/Linux.
