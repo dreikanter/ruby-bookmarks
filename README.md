@@ -77,7 +77,6 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 ### For beginners and intermediate developers
 
 - ★ [Eloquent Ruby](https://www.informit.com/store/eloquent-ruby-9780321584106) by *Russ Olsen*
-- [I Love Ruby](https://i-love-ruby.gitlab.io/) by Karthikeyan A. K.
 - ★ [Programming Ruby 3.3 (5th Edition)](https://pragprog.com/titles/ruby5/programming-ruby-3-3-5th-edition/) by *Noel Rappin* and *Dave Thomas* — The definitive reference on Ruby, updated for Ruby 3.3 with coverage of pattern matching, Ractors, and all the latest features.
 - [Learn Ruby The Hard Way](http://ruby.learncodethehardway.org/book/) by *Zed A. Shaw*
 - [The Ruby Programming Language](https://www.oreilly.com/library/view/the-ruby-programming/9780596516178/) by *David Flanagan* and *Yukihiro "Matz" Matsumoto*
@@ -88,14 +87,12 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - ★ [Practical Object-Oriented Design in Ruby](https://www.poodr.com) by *Sandi Metz*
 - ★ [Ruby Under a Microscope: An Illustrated Guide to Ruby Internals](http://patshaughnessy.net/ruby-under-a-microscope) by *Pat Shaughnessy*
 - ★ [Confident Ruby: 32 Patterns for Joyful Coding](https://store.avdi.codes/#rrWapR) by *Avdi Grimm*
-- [Modern Front-End Development for Rails](https://pragprog.com/titles/nrclient2/modern-front-end-development-for-rails-second-edition/)
+- [Modern Front-End Development for Rails](https://pragprog.com/titles/nrclient2/modern-front-end-development-for-rails-second-edition/) by *Noel Rappin*
 - [Polished Ruby Programming](https://www.packtpub.com/product/polished-ruby-programming/9781801072144) by *Jeremy Evans*
 - [Exceptional Ruby: Master the Art of Handling Failure in Ruby](https://pragprog.com/titles/ager/exceptional-ruby/) by *Avdi Grimm*
 - [Metaprogramming Ruby: Program Like the Ruby Pros](https://pragprog.com/titles/ppmetr2/metaprogramming-ruby-2/) by *Paolo Perrotta*
 - ★ [The Well-Grounded Rubyist (3rd Edition)](https://www.manning.com/books/the-well-grounded-rubyist-third-edition) by *David A. Black* and *Joseph Leo III* — Expert-level Ruby mastery with sophisticated topics like reflection, threading, and recursion. Updated for Ruby 2.5.
-- [Clean Ruby](http://clean-ruby.com/) by *Jim Gay*
 - [Reliably Deploying Rails Applications](https://leanpub.com/deploying_rails_applications) by *Ben Dixon*
-- [Rubyfu](https://github.com/rubyfu/RubyFu) — A collection of ideas, tricks, and skills for hackers; an open source book.
 - [Demystifying Rails](https://launchschool.com/books/demystifying_rails) by *Launch School* — This book doesn't teach how to use Rails to build prototypes. Instead, it dives one layer below the surface to expose how Rails is pieced together.
 - [The Ruby Bibliography](http://rubybib.org/) — Academic writing on the Ruby programming language.
 
@@ -108,26 +105,22 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 
 ### Advanced Ruby on Rails development
 
-- [Crafting Rails 4 Applications: Expert Practices for Everyday Rails Development](https://pragprog.com/titles/jvrails2/crafting-rails-4-applications/) by *José Valim*
 - [Rails AntiPatterns: Best Practice Ruby on Rails Refactoring](https://www.informit.com/store/rails-antipatterns-best-practice-ruby-on-rails-refactoring-9780321604811) by *Chad Pytel*, *Tammer Saleh*
 - [Deploying Rails: Automate, Deploy, Scale, Maintain, and Sleep at Night](https://pragprog.com/titles/fr_deploy/deploying-rails/) by *Tom Copeland*, *Anthony Burns*
 - [Multitenancy with Rails](http://leanpub.com/multi-tenancy-rails) by *Ryan Bigg*
 - [Ruby Science](https://thoughtbot.gumroad.com/l/ruby-science) by *thoughtbot*
-- [Rebuilding Rails](https://rebuilding-rails.com/) by *Noah Gibbs*
 - ★ [Sustainable Web Development with Ruby on Rails](https://sustainable-rails.com/) by *David Bryant Copeland* — Learn to build Rails applications that can be maintained for years without accruing technical debt. Updated for Rails 8 and Ruby 3.4 with over 450 pages of production-tested techniques.
 - [The Complete Guide to Rails Performance](https://www.railsspeed.com/) by *Nate Berkopec*
+- [Kamal Handbook](https://strzibny.gumroad.com/l/kamalbook) by *Josef Strzibny* — The definitive guide to Kamal deployment tool from 37signals. Updated for Kamal 2.2.1 with practical examples for container-based Rails deployment.
 
 ### Testing
 
-- [The RSpec Book: Behaviour Driven Development with RSpec, Cucumber, and Friends](http://www.amazon.com/The-RSpec-Book-Behaviour-Development/dp/1934356379/) by *David Chelimsky*, *Dave Astels*, *Bryan Helmkamp*, *Dan North*, *Zach Dennis*, *Aslak Hellesoy*
-- [Rails 5 Test Prescriptions: Build a Healthy Codebase](https://pragprog.com/book/nrtest3/rails-5-test-prescriptions) by *Noel Rappin*
 - [Everyday Rails Testing with RSpec](https://leanpub.com/everydayrailsrspec) by *Aaron Sumner*
 - [Testing Rails](http://testingrailsbook.com) by *thoughtbot*
 - [Rails Testing Handbook](https://semaphoreci.com/ebooks/rails-testing-handbook) by *Semaphore*
 
 ### Other frameworks and tools
 
-- [RubyMotion](http://www.amazon.com/RubyMotion-Pragmatic-Programmers-Clay-Allsopp/dp/1937785289/) by *Clay Allsopp*
 - [Build Awesome Command-Line Applications in Ruby 2](https://pragprog.com/titles/dccar2/build-awesome-command-line-applications-in-ruby-2/) by *David Copeland*
 - [Sinatra Book](https://github.com/sinatra/sinatra-book/) — a cookbook full of excellent tutorials and recipes for developing Sinatra web applications.
 
