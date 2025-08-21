@@ -105,7 +105,6 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 
 ### Advanced Ruby on Rails development
 
-- [Crafting Rails 4 Applications: Expert Practices for Everyday Rails Development](https://pragprog.com/titles/jvrails2/crafting-rails-4-applications/) by *José Valim*
 - [Rails AntiPatterns: Best Practice Ruby on Rails Refactoring](https://www.informit.com/store/rails-antipatterns-best-practice-ruby-on-rails-refactoring-9780321604811) by *Chad Pytel*, *Tammer Saleh*
 - [Deploying Rails: Automate, Deploy, Scale, Maintain, and Sleep at Night](https://pragprog.com/titles/fr_deploy/deploying-rails/) by *Tom Copeland*, *Anthony Burns*
 - [Multitenancy with Rails](http://leanpub.com/multi-tenancy-rails) by *Ryan Bigg*
