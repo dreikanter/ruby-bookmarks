@@ -91,7 +91,6 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [Exceptional Ruby: Master the Art of Handling Failure in Ruby](https://pragprog.com/titles/ager/exceptional-ruby/) by *Avdi Grimm*
 - [Metaprogramming Ruby: Program Like the Ruby Pros](https://pragprog.com/titles/ppmetr2/metaprogramming-ruby-2/) by *Paolo Perrotta*
 - ★ [The Well-Grounded Rubyist (3rd Edition)](https://www.manning.com/books/the-well-grounded-rubyist-third-edition) by *David A. Black* and *Joseph Leo III* — Expert-level Ruby mastery with sophisticated topics like reflection, threading, and recursion. Updated for Ruby 2.5.
-- [Clean Ruby](http://clean-ruby.com/) by *Jim Gay*
 - [Reliably Deploying Rails Applications](https://leanpub.com/deploying_rails_applications) by *Ben Dixon*
 - [Demystifying Rails](https://launchschool.com/books/demystifying_rails) by *Launch School* — This book doesn't teach how to use Rails to build prototypes. Instead, it dives one layer below the surface to expose how Rails is pieced together.
 - [The Ruby Bibliography](http://rubybib.org/) — Academic writing on the Ruby programming language.
