@@ -13,10 +13,10 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 ## Table of Contents
 
 - [Books](#books)
-  - [For beginners and intermediate level developers](#for-beginners-and-intermediate-level-developers)
-  - [Advancing Ruby knowledge](#advancing-ruby-knowledge)
-  - [Ruby on Rails for beginners](#ruby-on-rails-for-beginners)
-  - [Ruby on Rails, advanced level](#ruby-on-rails-advanced-level)
+  - [For beginners and intermediate developers](#for-beginners-and-intermediate-developers)
+  - [Advanced Ruby programming](#advanced-ruby-programming)
+  - [Ruby on Rails fundamentals](#ruby-on-rails-fundamentals)
+  - [Advanced Ruby on Rails development](#advanced-ruby-on-rails-development)
   - [Testing](#testing)
   - [Other frameworks and tools](#other-frameworks-and-tools)
 - [Blogs](#blogs)
@@ -74,16 +74,17 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 
 ## Books
 
-### For beginners and intermediate level developers
+### For beginners and intermediate developers
 
 - ★ [Eloquent Ruby](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional/dp/0321584104/) by *Russ Olsen*
 - [I Love Ruby](https://i-love-ruby.gitlab.io/) by Karthikeyan A. K.
+- ★ [Programming Ruby 3.3 (5th Edition)](https://pragprog.com/titles/ruby5/programming-ruby-3-3-5th-edition/) by *Noel Rappin* and *Dave Thomas* — The definitive reference on Ruby, updated for Ruby 3.3 with coverage of pattern matching, Ractors, and all the latest features.
 - [Programming Ruby](https://pragprog.com/titles/ruby4/programming-ruby-1-9-2-0-4th-edition/) by *Dave Thomas*, *Andy Hunt*, and *Chad Fowler*
 - [Learn Ruby The Hard Way](https://www.amazon.com/dp/032188499X) by *Zed A. Shaw* ([Official site](http://ruby.learncodethehardway.org/book/))
 - [The Ruby Programming Language](http://www.amazon.com/dp/0596516177) by *David Flanagan* and *Yukihiro "Matz" Matsumoto*
 - [Why's Poignant Guide to Ruby](https://poignant.guide/) by *Why the Lucky Stiff*
 
-### Advancing Ruby knowledge
+### Advanced Ruby programming
 
 - ★ [Practical Object-Oriented Design in Ruby](https://www.poodr.com) by *Sandi Metz*
 - ★ [Ruby Under a Microscope: An Illustrated Guide to Ruby Internals](http://www.amazon.com/dp/1593275277/) by *Pat Shaughnessy* ([Official site](http://patshaughnessy.net/ruby-under-a-microscope))
@@ -92,21 +93,23 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [Polished Ruby Programming](https://www.amazon.com/Polished-Ruby-Programming-maintainable-high-performance-ebook/dp/B093TH9P7C) by *Jeremy Evans*
 - [Exceptional Ruby: Master the Art of Handling Failure in Ruby](https://pragprog.com/titles/ager/exceptional-ruby/) by *Avdi Grimm*
 - [Metaprogramming Ruby: Program Like the Ruby Pros](http://www.amazon.com/dp/B00A376YAK/) by *Paolo Perrotta*
-- [The Well-Grounded Rubyist](http://www.amazon.com/The-Well-Grounded-Rubyist-David-Black/dp/1617291692/) by *David A. Black*
+- ★ [The Well-Grounded Rubyist (3rd Edition)](https://www.manning.com/books/the-well-grounded-rubyist-third-edition) by *David A. Black* and *Joseph Leo III* — Expert-level Ruby mastery with sophisticated topics like reflection, threading, and recursion. Updated for Ruby 2.5.
 - [Clean Ruby](http://clean-ruby.com/) by *Jim Gay*
 - [Reliably Deploying Rails Applications](https://leanpub.com/deploying_rails_applications) by *Ben Dixon*
 - [Rubyfu](https://github.com/rubyfu/RubyFu) — A collection of ideas, tricks, and skills for hackers; an open source book.
 - [Demystifying Rails](https://launchschool.com/books/demystifying_rails) by *Launch School* — This book doesn't teach how to use Rails to build prototypes. Instead, it dives one layer below the surface to expose how Rails is pieced together.
 - [The Ruby Bibliography](http://rubybib.org/) — Academic writing on the Ruby programming language.
 
-### Ruby on Rails for beginners
+### Ruby on Rails fundamentals
 
-- ★ [The Rails 5 Way](https://www.amazon.com/dp/B077D9X5NM/) by *Obie Fernandez*
+- ★ [The Rails 7 Way](https://leanpub.com/therails7way) by *Obie Fernandez*, *Lucas Dohmen*, and *Tom Henrik Aadland* — The definitive, comprehensive Rails 7 reference covering all APIs, Hotwire, and advanced techniques for experienced developers.
+- [The Rails 5 Way](https://www.amazon.com/dp/B077D9X5NM/) by *Obie Fernandez*
+- ★ [Agile Web Development with Rails 7](https://pragprog.com/titles/rails7/agile-web-development-with-rails-7/) by *Sam Ruby*, *David Bryant Copeland*, and *Dave Thomas* — Completely updated for Rails 7 with system testing, Webpack, and advanced JavaScript techniques.
 - [Agile Web Development with Rails 6](https://pragprog.com/book/rails6/agile-web-development-with-rails-6)
-- [The Ruby on Rails Tutorial](https://www.railstutorial.org/book) by *Michael Hartl*
+- [The Ruby on Rails Tutorial (7th Edition)](https://www.railstutorial.org/book) by *Michael Hartl* — The comprehensive Rails tutorial, fully updated for Rails 7 and modern development practices.
 - [Learn Ruby on Rails](http://www.amazon.com/dp/B00QK2T1SY) by *Daniel Kehoe*
 
-### Ruby on Rails, advanced level
+### Advanced Ruby on Rails development
 
 - [Crafting Rails 4 Applications: Expert Practices for Everyday Rails Development](http://www.amazon.com/Crafting-Rails-Applications-Practices-Development/dp/1937785556/) by *José Valim*
 - [Rails AntiPatterns: Best Practice Ruby on Rails Refactoring](http://www.amazon.com/Rails-AntiPatterns-Refactoring-Addison-Wesley-Professional/dp/0321604814/) by *Chad Pytel*, *Tammer Saleh*
@@ -114,6 +117,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - [Multitenancy with Rails](http://leanpub.com/multi-tenancy-rails) by *Ryan Bigg*
 - [Ruby Science](https://thoughtbot.gumroad.com/l/ruby-science) by *thoughtbot*
 - [Rebuilding Rails](https://rebuilding-rails.com/) by *Noah Gibbs*
+- ★ [Sustainable Web Development with Ruby on Rails](https://sustainable-rails.com/) by *David Bryant Copeland* — Learn to build Rails applications that can be maintained for years without accruing technical debt. Updated for Rails 8 and Ruby 3.4 with over 450 pages of production-tested techniques.
 - [The Complete Guide to Rails Performance](https://www.railsspeed.com/) by *Nate Berkopec*
 
 ### Testing
