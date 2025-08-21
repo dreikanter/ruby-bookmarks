@@ -76,23 +76,22 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 
 ### For beginners and intermediate developers
 
-- ★ [Eloquent Ruby](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional/dp/0321584104/) by *Russ Olsen*
+- ★ [Eloquent Ruby](https://www.informit.com/store/eloquent-ruby-9780321584106) by *Russ Olsen*
 - [I Love Ruby](https://i-love-ruby.gitlab.io/) by Karthikeyan A. K.
 - ★ [Programming Ruby 3.3 (5th Edition)](https://pragprog.com/titles/ruby5/programming-ruby-3-3-5th-edition/) by *Noel Rappin* and *Dave Thomas* — The definitive reference on Ruby, updated for Ruby 3.3 with coverage of pattern matching, Ractors, and all the latest features.
-- [Programming Ruby](https://pragprog.com/titles/ruby4/programming-ruby-1-9-2-0-4th-edition/) by *Dave Thomas*, *Andy Hunt*, and *Chad Fowler*
-- [Learn Ruby The Hard Way](https://www.amazon.com/dp/032188499X) by *Zed A. Shaw* ([Official site](http://ruby.learncodethehardway.org/book/))
-- [The Ruby Programming Language](http://www.amazon.com/dp/0596516177) by *David Flanagan* and *Yukihiro "Matz" Matsumoto*
+- [Learn Ruby The Hard Way](http://ruby.learncodethehardway.org/book/) by *Zed A. Shaw*
+- [The Ruby Programming Language](https://www.oreilly.com/library/view/the-ruby-programming/9780596516178/) by *David Flanagan* and *Yukihiro "Matz" Matsumoto*
 - [Why's Poignant Guide to Ruby](https://poignant.guide/) by *Why the Lucky Stiff*
 
 ### Advanced Ruby programming
 
 - ★ [Practical Object-Oriented Design in Ruby](https://www.poodr.com) by *Sandi Metz*
-- ★ [Ruby Under a Microscope: An Illustrated Guide to Ruby Internals](http://www.amazon.com/dp/1593275277/) by *Pat Shaughnessy* ([Official site](http://patshaughnessy.net/ruby-under-a-microscope))
-- ★ [Confident Ruby: 32 Patterns for Joyful Coding](http://www.amazon.com/dp/B00ETE0D2S/) by *Avdi Grimm* ([Official site](https://store.avdi.codes/#rrWapR))
+- ★ [Ruby Under a Microscope: An Illustrated Guide to Ruby Internals](http://patshaughnessy.net/ruby-under-a-microscope) by *Pat Shaughnessy*
+- ★ [Confident Ruby: 32 Patterns for Joyful Coding](https://store.avdi.codes/#rrWapR) by *Avdi Grimm*
 - [Modern Front-End Development for Rails](https://pragprog.com/titles/nrclient2/modern-front-end-development-for-rails-second-edition/)
-- [Polished Ruby Programming](https://www.amazon.com/Polished-Ruby-Programming-maintainable-high-performance-ebook/dp/B093TH9P7C) by *Jeremy Evans*
+- [Polished Ruby Programming](https://www.packtpub.com/product/polished-ruby-programming/9781801072144) by *Jeremy Evans*
 - [Exceptional Ruby: Master the Art of Handling Failure in Ruby](https://pragprog.com/titles/ager/exceptional-ruby/) by *Avdi Grimm*
-- [Metaprogramming Ruby: Program Like the Ruby Pros](http://www.amazon.com/dp/B00A376YAK/) by *Paolo Perrotta*
+- [Metaprogramming Ruby: Program Like the Ruby Pros](https://pragprog.com/titles/ppmetr2/metaprogramming-ruby-2/) by *Paolo Perrotta*
 - ★ [The Well-Grounded Rubyist (3rd Edition)](https://www.manning.com/books/the-well-grounded-rubyist-third-edition) by *David A. Black* and *Joseph Leo III* — Expert-level Ruby mastery with sophisticated topics like reflection, threading, and recursion. Updated for Ruby 2.5.
 - [Clean Ruby](http://clean-ruby.com/) by *Jim Gay*
 - [Reliably Deploying Rails Applications](https://leanpub.com/deploying_rails_applications) by *Ben Dixon*
@@ -103,17 +102,15 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 ### Ruby on Rails fundamentals
 
 - ★ [The Rails 7 Way](https://leanpub.com/therails7way) by *Obie Fernandez*, *Lucas Dohmen*, and *Tom Henrik Aadland* — The definitive, comprehensive Rails 7 reference covering all APIs, Hotwire, and advanced techniques for experienced developers.
-- [The Rails 5 Way](https://www.amazon.com/dp/B077D9X5NM/) by *Obie Fernandez*
 - ★ [Agile Web Development with Rails 7](https://pragprog.com/titles/rails7/agile-web-development-with-rails-7/) by *Sam Ruby*, *David Bryant Copeland*, and *Dave Thomas* — Completely updated for Rails 7 with system testing, Webpack, and advanced JavaScript techniques.
-- [Agile Web Development with Rails 6](https://pragprog.com/book/rails6/agile-web-development-with-rails-6)
 - [The Ruby on Rails Tutorial (7th Edition)](https://www.railstutorial.org/book) by *Michael Hartl* — The comprehensive Rails tutorial, fully updated for Rails 7 and modern development practices.
-- [Learn Ruby on Rails](http://www.amazon.com/dp/B00QK2T1SY) by *Daniel Kehoe*
+- [Learn Ruby on Rails](https://learn-rails.com/) by *Daniel Kehoe*
 
 ### Advanced Ruby on Rails development
 
-- [Crafting Rails 4 Applications: Expert Practices for Everyday Rails Development](http://www.amazon.com/Crafting-Rails-Applications-Practices-Development/dp/1937785556/) by *José Valim*
-- [Rails AntiPatterns: Best Practice Ruby on Rails Refactoring](http://www.amazon.com/Rails-AntiPatterns-Refactoring-Addison-Wesley-Professional/dp/0321604814/) by *Chad Pytel*, *Tammer Saleh*
-- [Deploying Rails: Automate, Deploy, Scale, Maintain, and Sleep at Night](http://www.amazon.com/Deploying-Rails-Automate-Deploy-Maintain/dp/1934356956/) by *Tom Copeland*, *Anthony Burns*
+- [Crafting Rails 4 Applications: Expert Practices for Everyday Rails Development](https://pragprog.com/titles/jvrails2/crafting-rails-4-applications/) by *José Valim*
+- [Rails AntiPatterns: Best Practice Ruby on Rails Refactoring](https://www.informit.com/store/rails-antipatterns-best-practice-ruby-on-rails-refactoring-9780321604811) by *Chad Pytel*, *Tammer Saleh*
+- [Deploying Rails: Automate, Deploy, Scale, Maintain, and Sleep at Night](https://pragprog.com/titles/fr_deploy/deploying-rails/) by *Tom Copeland*, *Anthony Burns*
 - [Multitenancy with Rails](http://leanpub.com/multi-tenancy-rails) by *Ryan Bigg*
 - [Ruby Science](https://thoughtbot.gumroad.com/l/ruby-science) by *thoughtbot*
 - [Rebuilding Rails](https://rebuilding-rails.com/) by *Noah Gibbs*
