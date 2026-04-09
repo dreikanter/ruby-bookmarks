@@ -80,6 +80,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - ★ [Programming Ruby 3.3 (5th Edition)](https://pragprog.com/titles/ruby5/programming-ruby-3-3-5th-edition/) by *Noel Rappin* and *Dave Thomas* — The definitive reference on Ruby, updated for Ruby 3.3 with coverage of pattern matching, Ractors, and all the latest features.
 - [Learn Ruby The Hard Way](http://ruby.learncodethehardway.org/book/) by *Zed A. Shaw*
 - [The Ruby Programming Language](https://www.oreilly.com/library/view/the-ruby-programming/9780596516178/) by *David Flanagan* and *Yukihiro "Matz" Matsumoto*
+- [The Well-Grounded Rubyist, Fourth Edition](https://www.manning.com/books/the-well-grounded-rubyist-fourth-edition) by *David Flanagan* and *Yukihiro "Matz" Matsumoto*
 - [Why's Poignant Guide to Ruby](https://poignant.guide/) by *Why the Lucky Stiff*
 
 ### Advanced Ruby programming
@@ -605,3 +606,4 @@ Binary:
 See also:
 
 - [Benchmark results](http://www.madebymarket.com/blog/dev/ruby-web-benchmark-report.html) for different Ruby, web framework and app server combinations (actual on July 2014).
+
