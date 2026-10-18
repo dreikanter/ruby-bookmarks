@@ -20,6 +20,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
   - [Testing](#testing)
   - [Other frameworks and tools](#other-frameworks-and-tools)
 - [Blogs](#blogs)
+- [Community Resources](#community-resources)
 - [Screencasts and courses](#screencasts-and-courses)
 - [Other Learning Materials](#other-learning-materials)
 - [Style Guides](#style-guides)
@@ -63,12 +64,12 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
   - [Scheduling](#scheduling)
   - [SDKs and API Wrappers](#sdks-and-api-wrappers)
   - [Search](#search)
-  - [Security](#security)
+  - [Security](#security-1)
   - [Serialization](#serialization)
   - [State Machines](#state-machines)
   - [Syntax Highlighters](#syntax-highlighters)
   - [Template engines](#template-engines)
-  - [Testing](#testing)
+  - [Testing](#testing-1)
   - [Web Frameworks](#web-frameworks)
 
 
@@ -80,7 +81,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 - ★ [Programming Ruby 3.3 (5th Edition)](https://pragprog.com/titles/ruby5/programming-ruby-3-3-5th-edition/) by *Noel Rappin* and *Dave Thomas* — The definitive reference on Ruby, updated for Ruby 3.3 with coverage of pattern matching, Ractors, and all the latest features.
 - [Learn Ruby The Hard Way](http://ruby.learncodethehardway.org/book/) by *Zed A. Shaw*
 - [The Ruby Programming Language](https://www.oreilly.com/library/view/the-ruby-programming/9780596516178/) by *David Flanagan* and *Yukihiro "Matz" Matsumoto*
-- [The Well-Grounded Rubyist, Fourth Edition](https://www.manning.com/books/the-well-grounded-rubyist-fourth-edition) by *David Flanagan* and *Yukihiro "Matz" Matsumoto*
+- [The Well-Grounded Rubyist, Fourth Edition](https://www.manning.com/books/the-well-grounded-rubyist-fourth-edition) by *David A. Black* and *Joseph Leo III*
 - [Why's Poignant Guide to Ruby](https://poignant.guide/) by *Why the Lucky Stiff*
 
 ### Advanced Ruby programming
@@ -129,7 +130,6 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 
 - [Arkency Blog](https://blog.arkency.com/)
 - [BigBinary Blog](https://www.bigbinary.com/blog) — Ruby on Rails, ReactJS, React Native, open source, engineering and design.
-- [Drifting Ruby](https://www.driftingruby.com/episodes)
 - [Everyday Rails](https://everydayrails.com/)
 - [Justin Weiss](http://www.justinweiss.com/blog/archives/)
 - [Official Rails Blog](https://rubyonrails.org/blog/)
@@ -444,7 +444,6 @@ If there is a nice gem, but it is difficult to classify it with existing bookmar
 - [JsonCompare](https://github.com/a2design-company/json-compare) — returns the difference between two JSON files.
 - [Dante](https://github.com/nesquena/dante) — turn any ruby code into a daemon.
 - [Memoist](https://github.com/matthewrudy/memoist) — An extraction of ActiveSupport::Memoizable with few extensions.
-- [Awesome Print](https://github.com/michaeldv/awesome_print) — a Ruby library that pretty prints Ruby objects in full color exposing their internal structure with proper indentation. Rails ActiveRecord objects and usage within Rails templates are supported via included mixins.
 - [twig](https://github.com/rondevera/twig) — Your personal Git branch assistant
 - [datashift](https://github.com/autotelik/datashift) — Comprehensive Excel and CSV import/export tools for Ruby
 - [Configurations](https://github.com/beatrichartz/configurations) — provides a unified approach to do configurations for gems or other ruby code.
@@ -459,7 +458,7 @@ If there is a nice gem, but it is difficult to classify it with existing bookmar
 ### Multithreading
 
 - [thread](https://github.com/meh/ruby-thread) — extensions to the thread library (includes thread pool).
-- [Sprawling](https://github.com/dreikanter/ruby-bookmarks) — spawn gem for Rails to easily fork or thread long-running code blocks.
+- [Spawnling](https://github.com/tra/spawnling) — spawn gem for Rails to easily fork or thread long-running code blocks.
 - [Parallel](https://github.com/grosser/parallel) — Run any code in parallel Processes(&gt; use all CPUs) or Threads(&gt; speedup blocking operations).
 Best suited for map-reduce or e.g. parallel downloads/uploads.
 
@@ -482,7 +481,6 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 - [Rack::Timeout](https://github.com/heroku/rack-timeout) — abort requests that are taking too long.
 - [Rack::Protection](http://rkh.github.io/rack-protection/) — protects against typical web attacks. Should work for all Rack apps, including Rails.
 - [Rack::LiveReload](https://github.com/johnbintz/rack-livereload) — Bring in `livereload.js` into handy Rack middleware. No need for browser extensions anymore! Just plug it in your middleware stack and go! Even supports browsers without WebSockets!
-- [rack-mini-profiler](https://github.com/MiniProfiler/rack-mini-profiler) — middleware that displays speed badge for every html page. Designed to work both in production and in development.
 - [Coverband](https://github.com/danmayer/coverband) — Rack middleware to help measure production code coverage.
 
 ### Rails
