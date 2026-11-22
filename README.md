@@ -455,6 +455,7 @@ If there is a nice gem, but it is difficult to classify it with existing bookmar
 - [Github-Changelog-Generator](https://github.com/skywinder/Github-Changelog-Generator) — Automatically generate a change log from your tags, issues, labels and pull requests.
 - [wannabe_bool](https://github.com/prodis/wannabe_bool) — If string, numeric, symbol and nil values wanna be a boolean value, they can with the new #to_b method (and more).
 - [response_code](https://github.com/torokmark/response_code) — Response Code in a readable way.
+- [asianscore_quant](https://github.com/AIYIXIU/asianscore-ruby) — Zero-dependency Ruby gem for sports quantitative modeling (Dixon-Coles Poisson xG, Power odds de-vigging, fractional Kelly sizing, and Brier score calibration).
 
 ### Multithreading
 
